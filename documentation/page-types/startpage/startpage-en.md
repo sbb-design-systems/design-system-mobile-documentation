@@ -7,7 +7,7 @@
 
 ## 3. Variants 
 ### 3.1 Standard
-![Image of a start page](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/startpage/images/MS02.png 'class: image')
+![Image of a start page](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/page-types/startpage/images/MS02.png 'class: image')
 
 #### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023908/inspect)

@@ -10,13 +10,13 @@
 ## 4. Features
 
 ### 4.1 Thin
-![Image of divider, thin](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/divider/images/ME05_Thin.png 'class: image')
+![Image of divider, thin](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/divider/images/ME05_Thin.png 'class: image')
 
 ### 4.2 Small
-![Image of divider, small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/divider/images/ME05_Small.png 'class: image')
+![Image of divider, small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/divider/images/ME05_Small.png 'class: image')
 
 ### 4.3 Medium
-![Image of divider, medium](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/divider/images/ME05_Medium.png 'class: image')
+![Image of divider, medium](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/divider/images/ME05_Medium.png 'class: image')
 
 ### 4.4 Big
-![Image of divider, big](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/divider/images/ME05_Big.png 'class: image')
+![Image of divider, big](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/divider/images/ME05_Big.png 'class: image')

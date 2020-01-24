@@ -12,7 +12,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/notification/images/MM04.png 'class: image')
+![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/notification/images/MM04.png 'class: image')
 
 #### Design Spezifikation
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943546/inspect)

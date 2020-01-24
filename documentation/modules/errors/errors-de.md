@@ -9,7 +9,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Fehlerdialog
-![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Dialog.png 'class: image')
+![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/errors/images/MM06_Dialog.png 'class: image')
 
 #### Design Spezifikation
 *   [Single](https://sbb.invisionapp.com/d/main#/console/14051805/322943549/inspect)
@@ -17,8 +17,8 @@
 *   [Triple](https://sbb.invisionapp.com/d/main#/console/14051805/322943551/inspect)
 
 ### 4.2 Fehlermeldung inline
-![Darstellung von Fehlermeldungen, Inline](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Inline_Liste.png 'class: image')
-![Darstellung von Fehlermeldungen, Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Inline_Fullscreen.png 'class: image')
+![Darstellung von Fehlermeldungen, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/errors/images/MM06_Inline_Liste.png 'class: image')
+![Darstellung von Fehlermeldungen, Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/errors/images/MM06_Inline_Fullscreen.png 'class: image')
 
 Zustände:
 *   Vollflächig

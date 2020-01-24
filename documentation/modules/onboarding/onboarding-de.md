@@ -13,7 +13,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/onboarding/images/MM14.png 'class: image')
+![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/onboarding/images/MM14.png 'class: image')
 
 #### Design Spezifikation
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943575/inspect)  

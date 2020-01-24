@@ -14,9 +14,9 @@ The module has the following statuses:
 *   Open
 
 ### 4.1 In the module
-![Image oft the context menu, in module](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
+![Image oft the context menu, in module](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
 
-![Image oft the context menu, in module,two part](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
+![Image oft the context menu, in module,two part](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
 
 *   The width of the context menu depends on the length of the entries. 
 
@@ -25,7 +25,7 @@ The module has the following statuses:
 *   [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
 
 ### 4.2 On pages 
-![Image oft the context menu, on pages](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
+![Image oft the context menu, on pages](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
 
 *   The context menu uses the full width of the screen.
 *   The menu pushes away side content. 

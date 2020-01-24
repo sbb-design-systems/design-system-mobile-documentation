@@ -16,7 +16,7 @@ The element has the following statuses:
 *   Black
 
 ### 4.1 Standard
-![Image of the map marker, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/map-marker/images/ME23_Standard.png 'class: image')
+![Image of the map marker, standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/map-marker/images/ME23_Standard.png 'class: image')
 
 #### Design Specification
 *   [Blue](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)

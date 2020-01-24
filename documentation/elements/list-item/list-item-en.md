@@ -17,7 +17,7 @@ The element has the following statuses:
 *   On-Swipe-to-right (optional)
 
 ### 4.1 Standard (display only)
-![Image of the list entry, standard (display only)](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Standard.png 'class: image')
+![Image of the list entry, standard (display only)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Standard.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167015/inspect)
@@ -26,7 +26,7 @@ The element has the following statuses:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167013/inspect)
 
 ### 4.2 With icon
-![Image of the list entry, with icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Icon.png 'class: image')
+![Image of the list entry, with icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Icon.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167021/inspect)
@@ -35,7 +35,7 @@ The element has the following statuses:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167022/inspect)
 
 ### 4.3 With function
-![Image of list entry, with function](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Funktion.png 'class: image')
+![Image of list entry, with function](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Funktion.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167017/inspect)
@@ -44,7 +44,7 @@ The element has the following statuses:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167018/inspect)
 
 ### 4.4 With selection
-![Image of the list entry, with selection](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Selektion.png 'class: image')
+![Image of the list entry, with selection](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Selektion.png 'class: image')
 
 #### Design Specification
 *   [Default (with function)](https://sbb.invisionapp.com/d/main#/console/14051805/313167025/inspect)

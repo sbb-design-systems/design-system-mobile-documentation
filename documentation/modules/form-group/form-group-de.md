@@ -15,13 +15,13 @@ Das Modul hat folgende Zustände:
 *   Ohne Info
 
 ### 4.1 mit Info 
-![Darstellung von Form Groups, mit Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_mit_Info.png 'class: image')
+![Darstellung von Form Groups, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/form-group/images/MM19_mit_Info.png 'class: image')
 
 #### Design Spezifikation
 *   [Mit Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950111/inspect)
 
 ### 4.2 ohne Info
-![Darstellung von Form Groups, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_ohne_Info.png 'class: image')
+![Darstellung von Form Groups, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/form-group/images/MM19_ohne_Info.png 'class: image')
 
 #### Design Spezifikation
 *   [Ohne Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950112/inspect)

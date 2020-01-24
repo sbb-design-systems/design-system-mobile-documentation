@@ -17,7 +17,7 @@ Das Modul hat folgende Zustände:
 *   Last
 
 ### 4.1 Standard
-![Darstellung von horizontalem Scrollen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/horizontal-scrolling/images/MM08.png 'class: image')
+![Darstellung von horizontalem Scrollen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/horizontal-scrolling/images/MM08.png 'class: image')
 
 #### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)

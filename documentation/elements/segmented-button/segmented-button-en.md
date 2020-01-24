@@ -15,7 +15,7 @@ The element has the following statuses:
 *   Unchecked
 
 ### 4.1 Segmented button
-![Image of the segmented button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/segmented-button/images/ME11_Text.png 'class: image')
+![Image of the segmented button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/segmented-button/images/ME11_Text.png 'class: image')
 
 *   The text is always single-line.
 
@@ -23,7 +23,7 @@ The element has the following statuses:
 *   [Icon](https://sbb.invisionapp.com/d/main#/console/14051805/313166960/inspect)
 
 ### 4.2 Segmented icon button
-![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/segmented-button/images/ME11_Icon.png 'class: image')
+![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/segmented-button/images/ME11_Icon.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166959/inspect)

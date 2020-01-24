@@ -18,13 +18,13 @@ The element has the following features:
 *   without info
 
 ### 4.1 With info
-![Image of the list header, with info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-header/images/ME22_mit-Info.png 'class: image')
+![Image of the list header, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-header/images/ME22_mit-Info.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167033/inspect)
 
 ### 4.1 Without info
-![Image of the list header, without info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-header/images/ME22_ohne-Info.png 'class: image')
+![Image of the list header, without info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-header/images/ME22_ohne-Info.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167034/inspect)

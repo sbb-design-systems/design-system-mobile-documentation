@@ -15,13 +15,13 @@ The module has the following statuses:
 *   Without info
 
 ### 4.1 with info 
-![Image of the form group, with info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_mit_Info.png 'class: image')
+![Image of the form group, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/form-group/images/MM19_mit_Info.png 'class: image')
 
 #### Design Specification
 *   [with info](https://sbb.invisionapp.com/d/main#/console/14051805/322950111/inspect)
 
 ### 4.2 without info
-![Image of the form group, without info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_ohne_Info.png 'class: image')
+![Image of the form group, without info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/form-group/images/MM19_ohne_Info.png 'class: image')
 
 #### Design Specification
 *   [without info](https://sbb.invisionapp.com/d/main#/console/14051805/322950112/inspect)

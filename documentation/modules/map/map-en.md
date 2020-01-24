@@ -18,7 +18,7 @@ The module has the following variants:
 *   Fullscreen
 
 ### 4.1 Standard
-![Image of maps, inline and fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/map/images/MM13_Karte.png 'class: image')
+![Image of maps, inline and fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/map/images/MM13_Karte.png 'class: image')
 
 #### Design Specification
 *   [Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)

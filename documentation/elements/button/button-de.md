@@ -20,7 +20,7 @@ Das Element hat folgende Zustände:
 *   Disabled
 
 ### 4.1. Primary Button
-![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Primary.png 'class: image')
+![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Primary.png 'class: image')
 *   Ganze Breite des Screens oder des modalen Dialogs (abzüglich Abstand).
 
 #### Design Spezifikation
@@ -29,7 +29,7 @@ Das Element hat folgende Zustände:
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313175221/inspect)
 
 ### 4.2. Secondary Button
-![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Secondary.png 'class: image')
+![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Secondary.png 'class: image')
 
 *   Ganze Breite des Screens oder des modalen Dialogs (abzüglich Abstand).
 
@@ -40,14 +40,14 @@ Das Element hat folgende Zustände:
 
 ### 4.3. Icon Button
 #### 4.3.1. Frei
-![Darstellung des Icon Buttons frei](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Icon_Free.png 'class: image')
+![Darstellung des Icon Buttons frei](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Icon_Free.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175225/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175226/inspect)
 
 #### 4.3.2. In Formularen
-![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Icon_Form.png 'class: image')
+![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Icon_Form.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175227/inspect)
@@ -55,14 +55,14 @@ Das Element hat folgende Zustände:
 
 ### 4.4. Frameless Primary Button
 #### 4.4.1. Large
-![Darstellung des Frameless Primary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Primary_Large.png 'class: image')
+![Darstellung des Frameless Primary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Frameless_Primary_Large.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175229/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175230/inspect)
 
 #### 4.4.2.  Small
-![Darstellung des Frameless Primary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Primary_Small.png 'class: image')
+![Darstellung des Frameless Primary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Frameless_Primary_Small.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175231/inspect)
@@ -75,14 +75,14 @@ Das Element hat folgende Zustände:
 *   Bei mehreren Buttons (Framless Secondary) sind alle rechtsbündig positioniert
 
 #### 4.5.1. Large
-![Darstellung des Frameless Secondary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Secondary_Large.png 'class: image')
+![Darstellung des Frameless Secondary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Frameless_Secondary_Large.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175233/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175234/inspect)
 
 #### 4.5.2. Small
-![Darstellung des Frameless Secondary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Secondary_Small.png 'class: image')
+![Darstellung des Frameless Secondary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/button/images/ME10_Frameless_Secondary_Small.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175235/inspect)

@@ -16,7 +16,7 @@
 
 ## 4. Variants 
 ### 4.1 Standard
-![Image of the process flow](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/process-flow/images/MM09.png 'class: image')
+![Image of the process flow](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/process-flow/images/MM09.png 'class: image')
 
 #### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943558/inspect)

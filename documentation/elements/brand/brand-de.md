@@ -13,7 +13,7 @@
 ## 4. Ausprägungen
 
 ### 4.1 Standard
-![Darstellung des Standard Signets](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image')
+![Darstellung des Standard Signets](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/brand/images/ME04_Signet.png 'class: image')
 
 
 #### Design Spezifikation

@@ -6,7 +6,7 @@
 
 ## 3. Variants 
 ### 3.1 Standard
-![Image of a settings page](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/settings/images/MS04.png 'class: image')
+![Image of a settings page](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/page-types/settings/images/MS04.png 'class: image')
 
 #### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023911/inspect)

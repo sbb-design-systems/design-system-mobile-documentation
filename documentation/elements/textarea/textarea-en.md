@@ -20,7 +20,7 @@ The element has the following statuses:
 *   Error
 
 ### 4.1 Standard
-![Image of the text area field](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/textarea/images/ME15_Default.png 'class: image')
+![Image of the text area field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/textarea/images/ME15_Default.png 'class: image')
 
 #### Design Specification
 *   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166990/inspect)

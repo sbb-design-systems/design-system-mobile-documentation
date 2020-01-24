@@ -27,9 +27,9 @@ Das Element hat folgende Ausprägungen:
 *   horizontal ausgerichtet
 
 ### 4.1 Vertikale Anordnung
-![Darstellung der Checkboxen, vertikale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Vertikal_default.png 'class: image')
+![Darstellung der Checkboxen, vertikale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/checkbox/images/ME13_Vertikal_default.png 'class: image')
 
-![Darstellung der Checkboxen, vertikale Anordnung, mit Infos](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
+![Darstellung der Checkboxen, vertikale Anordnung, mit Infos](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
 
 #### Design Spezifikation
@@ -39,7 +39,7 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166982/inspect)
 
 ### 4.2 Horizontale Anordnung
-![Darstellung der Checkboxen, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Horizontal.png 'class: image')
+![Darstellung der Checkboxen, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/checkbox/images/ME13_Horizontal.png 'class: image')
 
 
 #### Design Spezifikation
