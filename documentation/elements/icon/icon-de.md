@@ -13,13 +13,13 @@
 
 ## 4. Ausprägungen
 ### 4.1 Allgemeine Icons (KOM)
-[Zu den Icons](https://digital.sbb.ch/de/icons-und-piktogramme/icons)
+[Zu den Icons](https://digital.sbb.ch/de/brand_elemente/icons)
 
 ### 4.2 Fahrplan- / ÖV-Icons
-[Zu den Icons](https://digital.sbb.ch/de/icons-und-piktogramme/fahrplan-icons)
+[Zu den Icons](https://digital.sbb.ch/de/brand_elemente/fahrplan-icons)
 
 ### 4.3 Piktogramme
-[Zu den Piktogrammen](https://digital.sbb.ch/de/icons-und-piktogramme/piktogramme)
+[Zu den Piktogrammen](https://digital.sbb.ch/de/brand_elemente/piktogramme)
 
 ## 5. Barrierefreiheit
 * Icons ohne Text müssen mit einem Alternativtext hinterlegt werden.

@@ -13,13 +13,13 @@
 
 ## 4. Variants
 ### 4.1 General icons (KOM)
-[To the icons](https://digital.sbb.ch/de/icons-und-piktogramme/icons)
+[To the icons](https://digital.sbb.ch/en/brand-elements/icons)
 
 ### 4.2 Timetable/public transport icons
-[To the icons](https://digital.sbb.ch/de/icons-und-piktogramme/fahrplan-icons)
+[To the icons](https://digital.sbb.ch/en/brand-elements/timetable-icons)
 
 ### 4.3 Pictogram
-[To the pictograms](https://digital.sbb.ch/de/icons-und-piktogramme/piktogramme)
+[To the pictograms](https://digital.sbb.ch/en/brand-elements/pictograms)
 
 ## 5. Accessibility
 *   Icons without text must include an alternative text.
