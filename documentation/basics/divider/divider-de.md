@@ -10,13 +10,13 @@
 ## 4. Ausprägungen
 
 ### 4.1 Thin
-![Darstellung des Dividers, Thin](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/basics/divider/images/Divider_thin.png 'class: image')
+![Darstellung des Dividers, Thin](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/divider/images/Divider_thin.png 'class: image')
 
 ### 4.2 Small
-![Darstellung des Dividers, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/basics/divider/images/Divider_small.png 'class: image')
+![Darstellung des Dividers, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/divider/images/Divider_small.png 'class: image')
 
 ### 4.3 Medium
-![Darstellung des Dividers, Medium](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/basics/divider/images/Divider_medium.png 'class: image')
+![Darstellung des Dividers, Medium](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/divider/images/Divider_medium.png 'class: image')
 
 ### 4.4 Big
-![Darstellung des Dividers, Big](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/basics/divider/images/Divider_big.png 'class: image')
+![Darstellung des Dividers, Big](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/divider/images/Divider_big.png 'class: image')
