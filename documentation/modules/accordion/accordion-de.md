@@ -22,7 +22,7 @@ Das Modul hat folgende Zustände:
 *   Expanded
 
 ### 4.1 Standard
-![Darstellung des Accordions](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/accordion/images/MM02.png 'class: image')
+![Darstellung des Accordions](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/accordion/images/MM02.png 'class: image')
 
 #### Design Spezifikation
 *   [Collapsed](https://sbb.invisionapp.com/d/main#/console/14051805/322943543/inspect)
