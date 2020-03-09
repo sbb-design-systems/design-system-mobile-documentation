@@ -14,10 +14,10 @@
 ## 4. Variants
 
 ### 4.1 Standard
-![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/brand/images/ME04_Signet.png 'class: image')
+![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/brand/images/brand_default.png 'class: image')
 
 #### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166952/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/nk88qp#Inspector)
 
 ## 5. Accessibility
 *   The signet must be entered with an alternative text (e.g. ‘Back to homepage’).
