@@ -55,7 +55,7 @@ Das Element hat folgende Zustände:
 #### 4.3.1. Small
 ![Darstellung des Third Button Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Third_Small.png 'class: image')
 
-* Die Breite des Buttons definiert sich durch die Länge des Textes, ein Verbreiterung ist nicht erlaubt.
+* Die Breite des Buttons definiert sich durch die Länge des Textes, eine Verbreiterung ist nicht erlaubt.
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/vwEEve#Inspector)
