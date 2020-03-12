@@ -75,7 +75,7 @@ Das Element hat folgende Zustände:
 
 #### 4.4.2. Small
 ![Darstellung des Icon Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Small.png 'class: image')
-* Das Touch-Target ist auf 44px x 44p gesetzt (wie bei Large), die Darstellung des Kreises ist jedoch kleiner.
+* Das Touch-Target ist auf 44px x 44px gesetzt (wie bei Large), die Darstellung des Kreises ist jedoch kleiner.
 * Bei enthaltenen Icon ist darauf zu achten, dass es den Rand des Kreises nicht berührt.
 
 #### Design Spezifikation
