@@ -15,14 +15,31 @@
 
 
 ## 4. Ausprägungen
-### 4.1 Standard
-![Darstellung der Cards, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default.png 'class: image')
+### 4.1 Default
+![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/bJd42Z#Inspector)
+*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/WVwDy2#Inspector)
 
-### 4.1 Mit Schatten
-![Darstellung der Kacheln, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_shadow.png 'class: image')
+
+### 4.1 Ohne Call to Action
+![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/3AveQj#Inspector)
+*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/rpjY2d#Inspector)
+
+### 4.1 Ohne Titel
+![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title.png 'class: image')
+
+#### Design Spezifikation
+*   [Default](https://sketch.cloud/s/g5ejr/a/nkAp2p#Inspector)
+*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/QlwvYw#Inspector)
+
+### 4.1 Nur Card
+![Darstellung der Card, nur Card](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_plain.png 'class: image')
+
+#### Design Spezifikation
+*   [Default](https://sketch.cloud/s/g5ejr/a/QlwvYw#Inspector)
+*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/EZ4bmv#Inspector)
