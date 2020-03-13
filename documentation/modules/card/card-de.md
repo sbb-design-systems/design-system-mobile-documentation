@@ -23,14 +23,14 @@
 *   [mit Schatten](https://sketch.cloud/s/g5ejr/a/WVwDy2#Inspector)
 
 
-### 4.1 Ohne Call to Action
+### 4.2 Ohne Call to Action
 ![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/nkAp2p#Inspector)
 *   [mit Schatten](https://sketch.cloud/s/g5ejr/a/QlwvYw#Inspector)
 
-### 4.1 Ohne Titel
+### 4.3 Ohne Titel
 ![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title.png 'class: image')
 
 #### Design Spezifikation
@@ -38,7 +38,7 @@
 *   [mit Schatten](https://sketch.cloud/s/g5ejr/a/rpjY2d#Inspector)
 
 
-### 4.1 Nur Card
+### 4.4 Nur Card
 ![Darstellung der Card, nur Card](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_plain.png 'class: image')
 
 #### Design Spezifikation
