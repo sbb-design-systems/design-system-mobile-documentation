@@ -49,6 +49,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
 *   [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
 *   [Disabled Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
+
+
 #### 4.1.3 Ohne Call to Action
 ![Darstellung der Checkboxen, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_call_to_action.png 'class: image')
 
@@ -59,6 +61,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
 *   [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
 *   [Disabled Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
+
+
 #### 4.1.4 Nur Checkbox und Label
 ![Darstellung der Checkboxen, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_label_only.png 'class: image')
 
@@ -69,6 +73,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
 *   [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
 *   [Disabled Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
+
+
 #### 4.1.5 Ohne Border
 ![Darstellung der Checkboxen, volle Breite, ohne Border](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_border.png 'class: image')
 
