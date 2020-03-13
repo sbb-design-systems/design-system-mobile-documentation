@@ -43,5 +43,5 @@
 
 #### Design Spezifikation
 
-*   [Default](https://sketch.cloud/s/g5ejr/a/nkAp2p#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/QlwvYw#Inspector)
+*   [Default](https://sketch.cloud/s/g5ejr/a/xL4pZx#Inspector)
+*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/EZ4bmv#Inspector)
