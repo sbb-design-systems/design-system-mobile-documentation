@@ -23,5 +23,5 @@ Das Element hat folgende Zustände:
 *   Wird auf eine Datei verlinkt, ist im Linktext zusätzlich der Dateityp und -grösse anzugeben (Bsp: «Nutzungsbestimmungen (PDF, 123 KB)»)
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166953/inspect)
-*   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313229755/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/Ql00pw#Inspector)
+*   [Pressed](https://sketch.cloud/s/g5ejr/a/xLVVex#Inspector)

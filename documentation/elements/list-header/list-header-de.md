@@ -17,13 +17,13 @@ Das Element hat folgende Ausprägungen:
 *   ohne Info
 
 ### 4.1 mit Info
-![Darstellung des Listen Headers, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/ME22_mit-Info.png 'class: image')
+![Darstellung des Listen Headers, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/List_header_with_info.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167033/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/jakkO9#Inspector)
 
 ### 4.1 ohne Info
-![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/ME22_ohne-Info.png 'class: image')
+![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/list_header_without_info.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167034/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/d4kkZ3#Inspector)
