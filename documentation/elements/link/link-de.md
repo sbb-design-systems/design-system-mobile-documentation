@@ -16,11 +16,11 @@ Das Element hat folgende Zustände:
 *   Pressed
 
 ### 4.1 Text-Link
-![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/link/images/ME07_default.png 'class: image')
+![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/link/images/Link_default.png 'class: image')
 
-![Darstellung des Text-Links, Pressed](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/link/images/ME07_pressed.png 'class: image')
+![Darstellung des Text-Links, Pressed](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/link/images/Link_pressed.png 'class: image')
 
-*   Wird mit dem Textlink ein Download einer Datei ausgelöst, ist im Linktext zusätzlich der Dateityp und -grösse anzugeben (Bsp: «Nutzungsbestimmungen (PDF, 123 KB)»)
+*   Wird auf eine Datei verlinkt, ist im Linktext zusätzlich der Dateityp und -grösse anzugeben (Bsp: «Nutzungsbestimmungen (PDF, 123 KB)»)
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166953/inspect)
