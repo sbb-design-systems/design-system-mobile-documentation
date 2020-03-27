@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 ## 1. Was macht das Element?
 *   Dient zur Auswahl genau einer Option aus mehreren.
 
