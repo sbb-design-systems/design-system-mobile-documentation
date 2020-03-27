@@ -15,33 +15,106 @@
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
-*   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166963/inspect)
-*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166966/inspect)
-*   [Disabled checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166964/inspect)
-*   [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166965/inspect)
+* Checked
+* Unchecked
+* Disabled Checked
+* Disbaled Unchecked
 
 Das Element hat folgende Ausprägungen:
-*   mit Info (nur bei vertikaler Ausrichtung)
-*   ohne Info
-*   vertikal ausgerichtet
-*   horizontal ausgerichtet
+* volle Breite
+* mit Preis
+* dynamische Breite
 
-### 4.1 Vertikale Anordnung
-![Darstellung der Radiobuttons, vertikale Anordnung, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/ME12_Vertikal_default.png 'class: image')
+### 4.1 Volle Breite
 
-![Darstellung der Radiobuttons, vertikale Anordnung, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image')
+#### 4.1.1 Default
+![Darstellung der Radiobuttons, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_default.png 'class: image')
 
-
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166967/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166968/inspect)
-*   [Default (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166969/inspect)
-*   [Disabled (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166970/inspect)
-
-### 4.2 Horizontale Anordnung
-![Darstellung der Radiobuttons, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/ME12_Horizontal.png 'class: image')
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/0Q7mg2#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/l2GdOe#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/kWQxGZ#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/o2De7Q#Inspector)
 
 
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166961/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166962/inspect)
+#### 4.1.2 Ohne Icon (vor Label)
+![Darstellung der Radiobuttons, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_icon.png 'class: image')
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/RKo5AZ#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/1QPa5p#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/p2KO7R#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/V7ojV7#Inspector)
+
+
+#### 4.1.3 Ohne Call to Action
+![Darstellung der Radiobuttons, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_call_to_action.png 'class: image')
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/Y254pO#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/KkRVy1#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/wzQK7m#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/q2VD73#Inspector)
+
+
+#### 4.1.4 Nur Radiobutton und Label
+![Darstellung der Radiobuttons, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_label_only.png 'class: image')
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/LonKMy#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/7QawEY#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/yJQ70q#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/9QWyKp#Inspector)
+
+
+### 4.2 Mit Preis
+#### 4.2.1 Default
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_default.png 'class: image')
+
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/PVogAP#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/g2ZMJa#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/8QpL53#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/2Qe0kp#Inspector)
+
+#### 4.2.2 Ohne Icon (vor Label)
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_icon.png 'class: image')
+
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/MRMqnb#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/5QopWp#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/b2awZ0#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/WynzlK#Inspector)
+
+#### 4.2.3 Ohne Spar-Icon
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_supersaver_icon.png 'class: image')
+
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/3QxkJo#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/r2rA0q#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/n2DvWV#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/QY12r1#Inspector)
+
+#### 4.2.4 Nur Radiobutton, Label und Preis
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_label_only.png 'class: image')
+
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/xZQqdV#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/EmGO9R#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/j2rnDo#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/d2jyvb#Inspector)
+
+
+### 4.3 Dynamische Breite
+![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_dynamic_width.png 'class: image')
+
+
+##### Design Spezifikation
+*   [Checked](https://sketch.cloud/s/g5ejr/a/zvK9Zb#Inspector)
+*   [Unchecked](https://sketch.cloud/s/g5ejr/a/Z2nGRp#Inspector)
+*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/JlJ1rr#Inspector)
+*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/vdQVyM#Inspector)
