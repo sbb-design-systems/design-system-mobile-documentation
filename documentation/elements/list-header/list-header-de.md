@@ -23,7 +23,7 @@ Das Element hat folgende Ausprägungen:
 *   [Default](https://sketch.cloud/s/g5ejr/a/jakkO9#Inspector)
 
 ### 4.1 ohne Info
-![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/list_header_without_info.png 'class: image')
+![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/List_header_without_info.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/d4kkZ3#Inspector)
