@@ -11,12 +11,12 @@
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
-*   On
-*   Off
+* On
+* Off
 
 ### 4.1 Standard
 ![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/switch/images/Switch.png 'class: image')
 
 #### Design Spezifikation
-*   [On](https://sketch.cloud/s/g5ejr/a/d4kkqE#Inspector)
-*   [Off](https://sketch.cloud/s/g5ejr/a/zjllOe#Inspector)
+* [On](https://sketch.cloud/s/g5ejr/a/d4kkqE#Inspector)
+* [Off](https://sketch.cloud/s/g5ejr/a/zjllOe#Inspector)
