@@ -10,7 +10,7 @@
 * Darf nicht innerhalb von Fliesstext eingesetzt werden.
 * Der Text ist immer einzeilig.
 * Pro Seite/Dialog darf nur ein Primary Button eingesetzt werden.
-* Pro Seite/Dialog sind mehrere Secondary/Third Buttons erlaubt.
+* Pro Seite/Dialog sind mehrere Secondary/Tertiary Buttons erlaubt.
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
@@ -41,10 +41,10 @@ Das Element hat folgende Zustände:
 * [Disabled](https://sketch.cloud/s/g5ejr/a/OA00Pp#Inspector)
 * [Loading](https://sketch.cloud/s/g5ejr/a/ml88q9#Inspector)
 
-### 4.3. Third Button
+### 4.3. Tertiary Button
 #### 4.3.1. Large
-![Darstellung des Third Button Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Third_Large.png 'class: image')
-* Der Third Button kann sowohl auf die volle Breite des verfügbaren Platzes dargestellt (abzüglich 16px Padding), als auf den benötigten Platz beschränkt werden.
+![Darstellung des Tertiary Button Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Large.png 'class: image')
+* Der Tertiary Button kann sowohl auf die volle Breite des verfügbaren Platzes dargestellt (abzüglich 16px Padding), als auf den benötigten Platz beschränkt werden.
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/ZwKK5Y#Inspector)
@@ -53,7 +53,7 @@ Das Element hat folgende Zustände:
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
 #### 4.3.1. Small
-![Darstellung des Third Button Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Third_Small.png 'class: image')
+![Darstellung des Tertiary Button Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Small.png 'class: image')
 
 * Die Breite des Buttons definiert sich durch die Länge des Textes, eine Verbreiterung ist nicht erlaubt.
 
