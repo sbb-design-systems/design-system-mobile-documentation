@@ -14,18 +14,28 @@
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
-*   Empty
-*   Value
-*   Disabled
-*   Error
+* Empty
+* Value
+* Active
+* Disabled
+* Error
 
-### 4.1 Standard
-![Darstellung des Textarea Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/ME15_Default.png 'class: image')
+### 4.1 Mit Icon
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_with_icon.png 'class: image')
 
 #### Design Spezifikation
-*   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166990/inspect)
-*   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166992/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166989/inspect)
-*   [Error](https://sbb.invisionapp.com/d/main#/console/14051805/313166991/inspect)
+* [Default](https://sketch.cloud/s/g5ejr/a/7QKk3p#Inspector)
+* [Value](https://sketch.cloud/s/g5ejr/a/yJoWDL#Inspector)
+* [Active](https://sketch.cloud/s/g5ejr/a/9Q9j3W#Inspector)
+* [Disabled](https://sketch.cloud/s/g5ejr/a/PV3vjx#Inspector)
+* [Error](https://sketch.cloud/s/g5ejr/a/g2PYKg#Inspector)
 
+### 4.2 Ohne Icon
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textfield/images/Textarea_without_icon.png 'class: image')
 
+#### Design Spezifikation
+* [Default](https://sketch.cloud/s/g5ejr/a/8Q7onY#Inspector)
+* [Value](https://sketch.cloud/s/g5ejr/a/2QRD3G#Inspector)
+* [Active](https://sketch.cloud/s/g5ejr/a/MRPz3W#Inspector)
+* [Disabled](https://sketch.cloud/s/g5ejr/a/5QV03W#Inspector)
+* [Error](https://sketch.cloud/s/g5ejr/a/b25YRZ#Inspector)
