@@ -31,7 +31,7 @@ Das Element hat folgende Zustände:
 * [Error](https://sketch.cloud/s/g5ejr/a/g2PYKg#Inspector)
 
 ### 4.2 Ohne Icon
-![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textfield/images/Textarea_without_icon.png 'class: image')
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_without_icon.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/8Q7onY#Inspector)
