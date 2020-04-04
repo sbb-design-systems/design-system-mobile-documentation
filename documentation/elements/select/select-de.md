@@ -19,15 +19,24 @@ Das Element hat folgende Zustände:
 *   Empty
 *   Value
 *   Disabled
-*   Error
-*   Expanded
+*   Expanded (single value, multiple value)
 
-### 4.1 Standard
-![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/ME16_Default.png 'class: image')
+### 4.1 Mit Icon
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_with_icon.png 'class: image')
 
 #### Design Spezifikation
-*   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166994/inspect)
-*   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166997/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166993/inspect)
-*   [Error](https://sbb.invisionapp.com/d/main#/console/14051805/313166995/inspect)
-*   [Expanded](https://sbb.invisionapp.com/d/main#/console/14051805/313166996/inspect)
+*   [Empty](https://sketch.cloud/s/g5ejr/a/Wy0Rdg#Inspector)
+*   [Value](https://sketch.cloud/s/g5ejr/a/3QM5oD#Inspector)
+*   [Disabled](https://sketch.cloud/s/g5ejr/a/r2n19x#Inspector)
+*   [Expanded multiple value](https://sketch.cloud/s/g5ejr/a/n2nlQW#Inspector)
+*   [Expanded single value](https://sketch.cloud/s/g5ejr/a/QYGaD8#Inspector)
+
+### 4.1 Ohne Icon
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_without_icon.png 'class: image')
+
+#### Design Spezifikation
+*   [Empty](https://sketch.cloud/s/g5ejr/a/xZnb0A#Inspector)
+*   [Value](https://sketch.cloud/s/g5ejr/a/EmMneY#Inspector)
+*   [Disabled](https://sketch.cloud/s/g5ejr/a/j2E740#Inspector)
+*   [Expanded multiple value](https://sketch.cloud/s/g5ejr/a/n2nlQW#Inspector)
+*   [Expanded single value](https://sketch.cloud/s/g5ejr/a/QYGaD8#Inspector)
