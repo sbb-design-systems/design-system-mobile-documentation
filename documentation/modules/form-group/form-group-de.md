@@ -6,23 +6,19 @@
 
 ## 3. Regeln
 *   Es sind keine leeren Form-Groups erlaubt (min. ein Element).
-*   Oberhalb einer Form-Group kann ein [Listen-Header](https://digital.sbb.ch/de/mobile/elemente/listen-header) eingesetzt werden. 
-*   Der Abstand zum Element ([Radiobutton](https://digital.sbb.ch/de/mobile/elemente/radiobutton), [Checkbox](https://digital.sbb.ch/de/mobile/elemente/checkbox)) ist oben und unten jeweils 6dp. 
+*   Oberhalb einer Form-Group kann ein [Listen-Header](https://digital.sbb.ch/de/mobile/elemente/listen-header) eingesetzt werden.
+*   Der Abstand zum Element ([Radiobutton](https://digital.sbb.ch/de/mobile/elemente/radiobutton), [Checkbox](https://digital.sbb.ch/de/mobile/elemente/checkbox)) ist oben und unten jeweils 6dp.
 
 ## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
-*   Mit Info
-*   Ohne Info
 
-### 4.1 mit Info 
-![Darstellung von Form Groups, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/MM19_mit_Info.png 'class: image')
+### 4.1 Default
+![Darstellung von Form Groups, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_default.png 'class: image')
 
 #### Design Spezifikation
-*   [Mit Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950111/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/0EGG8W#Inspector)
 
-### 4.2 ohne Info
-![Darstellung von Form Groups, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/MM19_ohne_Info.png 'class: image')
+### 4.1 Mit Schatten
+![Darstellung von Form Groups, mit Schatten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_with_shadow.png 'class: image')
 
 #### Design Spezifikation
-*   [Ohne Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950112/inspect)
-
+*   [Mit Schatten](https://sketch.cloud/s/g5ejr/a/l0AA47#Inspector)
