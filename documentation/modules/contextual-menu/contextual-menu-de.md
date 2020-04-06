@@ -13,24 +13,16 @@ Das Modul hat folgende Zustände:
 *   Closed
 *   Open
 
-### 4.1 Im Modul
-![Darstellung des Kontext Menus, im Modul](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
-
-![](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
-
-*   Die Breite des Kontextmenüs ist abhängig von der Länge der Einträge.
+### 4.1 Default
+![Darstellung des Kontext Menus, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/context-menu-default.png 'class: image')
 
 #### Design Spezifikation
-*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943565/inspect)
-*   [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
+*   [Closed](https://sketch.cloud/s/g5ejr/a/7onnkL#Inspector)
+*   [Open](https://sketch.cloud/s/g5ejr/a/yEllWE#Inspector)
 
-### 4.2 Auf Seiten
-![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
-
-*   Das Kontextmenü verwendet die ganze Breite des Screens.
-*   Das Menü drückt Seiteninhalt weg.
+### 4.2 Geteilte Actions
+![Darstellung des Kontext Menus, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/context-menu-segmented.png 'class: image')
 
 #### Design Spezifikation
-*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943567/inspect)
-*   [Open (einteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943568/inspect)
-*   [Open (zweiteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943569/inspect)
+*   [Closed](https://sketch.cloud/s/g5ejr/a/7onnkL#Inspector)
+*   [Open](https://sketch.cloud/s/g5ejr/a/91oojQ#Inspector)
