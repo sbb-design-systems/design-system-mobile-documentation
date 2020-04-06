@@ -1,10 +1,10 @@
 ## 1. What does the module do?
 *   It displays error messages.
 
-## 2. When should the module be used? 
+## 2. When should the module be used?
 *   When technical errors occur.
 
-## 3. Rules 
+## 3. Rules
 *   Error validations are used for error entries (e.g. in the [entry field](https://digital.sbb.ch/mobile/elemente/eingabefeld)), not error messages.
 
 ## 4. Features
@@ -21,7 +21,7 @@
 *   ![Image of the error message fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/errors/images/MM06_Inline_Fullscreen.png 'class: image')
 
 Statuses:
-*   Full area 
+*   Full area
 *   List entry
 
 #### Design Specification
