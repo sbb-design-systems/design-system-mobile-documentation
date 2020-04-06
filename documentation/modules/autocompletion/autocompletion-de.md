@@ -13,20 +13,16 @@
 ## 4. Ausprägungen und Zustände
 Das Modul hat folgende Zustände:
 *   Normal (entspricht einem [Eingabefeld](https://digital.sbb.ch/de/mobile/elemente/eingabefeld))
-*   On-Click
+*   Active
 
-### 4.1 Single-List
-![Darstellung der Autocompletion, Single-List](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/MM16_Single_List.png 'class: image')
-
-#### Design Spezifikation
-*   [Verlauf](https://sbb.invisionapp.com/d/main#/console/14051805/322943577/inspect)
-*   [Resultate](https://sbb.invisionapp.com/d/main#/console/14051805/322943578/inspect)
-
-### 4.2 Multiple-List
-![Darstellung der Autocompletion, Multiple-List](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/MM16_Multiple_List.png 'class: image')
+### 4.1 Default
+![Darstellung der Autocompletion, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_default.png 'class: image')
 
 #### Design Spezifikation
-*   [Verlauf](https://sbb.invisionapp.com/d/main#/console/14051805/322943579/inspect)
-*   [Resultate](https://sbb.invisionapp.com/d/main#/console/14051805/322943580/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/rpMMWK#Inspector)
 
+### 4.2 Segmented
+![Darstellung der Autocompletion, Segmented](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_segmented.png 'class: image')
 
+#### Design Spezifikation
+*   [Segmented](https://sketch.cloud/s/g5ejr/a/d2xPLl#Inspector)
