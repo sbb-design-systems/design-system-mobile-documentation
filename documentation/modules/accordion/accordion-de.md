@@ -18,16 +18,15 @@
 
 ## 4. Ausprägungen und Zustände
 Das Modul hat folgende Zustände:
-*   Collapsed
-*   Expanded
+*   Closed
+*   Open
 
 ### 4.1 Standard
-![Darstellung des Accordions](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/accordion/images/MM02.png 'class: image')
+![Darstellung des Accordions](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/accordion/images/accordion.png 'class: image')
 
 #### Design Spezifikation
-*   [Collapsed](https://sbb.invisionapp.com/d/main#/console/14051805/322943543/inspect)
-*   [Expanded](https://sbb.invisionapp.com/d/main#/console/14051805/322943544/inspect)
+*   [Closed](https://sketch.cloud/s/g5ejr/a/zjllWy#Inspector)
+*   [Open](https://sketch.cloud/s/g5ejr/a/ZwKKlJ#Inspector)
 
 ## 5. Barrierefreiheit
 * Zustand des Moduls muss auf dem Titel als Alternativtext hinterlegt werden (z.B. "Zugeklappt", "Aufgeklappt").
-
