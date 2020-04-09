@@ -12,11 +12,10 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/pagination/images/MM07.png 'class: image')
+![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/pagination/images/Pagination.png 'class: image')
 
 #### Design Spezifikation
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943556/inspect)
+*   [Standard](https://sketch.cloud/s/g5ejr/a/Rkllee#Inspector)
 
 ## 5. Barrierefreiheit
 * Zustand der Pagination muss als Alternativtext hinterlegt werden (z.B. "Seite 2 von 3").
-
