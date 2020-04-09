@@ -1,24 +1,26 @@
-## 1. Was macht das Modul?
+## 1. Wann soll der Seitentyp eingesetzt werden?
 *   Einführung in die wichtigsten Funktionalitäten einer App.
 
-## 2. Wann soll das Modul eingesetzt werden?
-*   Zur Erklärung einer App bei der ersten Nutzung.
-
-## 3. Regeln
+## 2. Regeln
 *   Das Onboarding ist im Fullscreen Layout umgesetzt.
 *   Die einzelnen Schritte des Onboardings sind mit einer [Pagination](https://digital.sbb.ch/de/mobile/module/pagination)umgesetzt.
 *   Der Onboarding-Screen ist zweigeteilt. Oben: Screenshot, unten: Beschreibung der Funktion.
 *   Es muss jederzeit möglich sein, das Onboarding zu überspringen / abzubrechen.
 *   Die Navigation ist über Swipe links/rechts oder den «Weiter» Button möglich.
 
-## 4. Ausprägungen
-### 4.1 Standard
-![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/onboarding/images/MM14.png 'class: image')
+## 3. Ausprägungen
+### 3.1 Single Step
+![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/onboarding_single_step.png 'class: image')
 
 #### Design Spezifikation
-*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943575/inspect)  
-*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943576/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/e57gQP#Inspector)  
 
-## 5. Barrierefreiheit
+### 3.2 Multiple Step
+![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/onboarding_single_step.png 'class: image')
+
+#### Design Spezifikation
+*   [First Step](https://sketch.cloud/s/g5ejr/a/GaMJWO#Inspector)  
+*   [Last Step](https://sketch.cloud/s/g5ejr/a/Opv04m#Inspector)  
+
+## 4. Barrierefreiheit
 * Informationen, welche nur aus den Screenshots entnommen werden können, müssen auch als Alternativtext hinterlegt sein.
-
