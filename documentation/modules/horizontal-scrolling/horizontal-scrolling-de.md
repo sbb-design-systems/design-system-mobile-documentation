@@ -11,16 +11,18 @@
 *   Das Scrollen funktioniert nicht Pixel für Pixel, sondern es gibt «Fangpunkte», sodass rechts und links jeweils (wenn vorhanden) die nächste Kachel angedeutet wird.
 
 ## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
-*   First
-*   Middle
-*   Last
 
-### 4.1 Standard
-![Darstellung von horizontalem Scrollen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/horizontal-scrolling/images/MM08.png 'class: image')
+### 4.1 Buttons
+![Darstellung von horizontalem Scrollen mit Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/horizontal-scrolling/images/Horizontal_scrolling_buttons.png 'class: image')
 
 #### Design Spezifikation
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)
+*   [Buttons](https://sketch.cloud/s/g5ejr/a/1Dxxm8#Inspector)
+
+### 4.2 Cards
+![Darstellung von horizontalem Scrollen mit Cards](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/horizontal-scrolling/images/Horizontal_scrolling_cards.png 'class: image')
+
+#### Design Spezifikation
+*   [Buttons](https://sketch.cloud/s/g5ejr/a/xZPkwW#Inspector)
 
 ## 5. Barrierefreiheit
 *   Horizontales Scrollen muss auch per Screen Reader und Schaltersteuerung möglich sein.

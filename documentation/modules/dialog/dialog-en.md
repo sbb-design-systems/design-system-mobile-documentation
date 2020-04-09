@@ -8,7 +8,7 @@
 *   Error validations are used for error entries (e.g. in the [entry field](https://digital.sbb.ch/mobile/elemente/eingabefeld)), not error messages.
 
 ## 4. Features
-### 4.1 Error dialogue 
+### 4.1 Error dialogue
 ![Image of the error dialogue](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/errors/images/MM06_Dialog.png 'class: image')
 
 #### Design Specification
