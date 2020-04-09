@@ -13,7 +13,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/toast/images/MM05.png 'class: image')
+![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/toast/images/Toast.png 'class: image')
 
 #### Design Spezifikation
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943548/inspect)
+*   [Standard](https://sketch.cloud/s/g5ejr/a/eeggLp#Inspector)
