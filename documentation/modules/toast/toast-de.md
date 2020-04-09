@@ -12,8 +12,8 @@
 *   Die Anzeigedauer richtet sich nach der Länge des Textes.
 
 ## 4. Ausprägungen
-### 4.1 Standard
+### 4.1 Default
 ![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/toast/images/Toast.png 'class: image')
 
 #### Design Spezifikation
-*   [Standard](https://sketch.cloud/s/g5ejr/a/eeggLp#Inspector)
+*   [Default](https://sketch.cloud/s/g5ejr/a/eeggLp#Inspector)
