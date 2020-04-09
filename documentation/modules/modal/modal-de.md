@@ -19,11 +19,25 @@
 *   Ist der Inhalt zu gross, kann ein vollflächiger modaler Dialog gewählt werden: siehe Seitentypen.
 
 ## 4. Ausprägungen
-### 4.1 Standard
-![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/MM03.png 'class: image')
+
+### 4.1 Popup
+![Darstellung eines modalen Dialogs als Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_popup.png 'class: image')
 
 #### Design Spezifikation
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
+*   [Default](https://sketch.cloud/s/g5ejr/a/JGPPoz#Inspector)
+
+### 4.2 Sheet
+![Darstellung eines modalen Dialogs als Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_sheet.png 'class: image')
+
+#### Design Spezifikation
+*   [Default](https://sketch.cloud/s/g5ejr/a/r2PmRK#Inspector)
+
+### 4.3 Fullscreen
+![Darstellung eines modalen Dialogs als Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_fullscreen.png 'class: image')
+
+#### Design Spezifikation
+*   [Default](https://sketch.cloud/s/g5ejr/a/GaDjOY#Inspector)
+*   [Scrolled](https://sketch.cloud/s/g5ejr/a/Op1Gb8#Inspector)
 
 ## 5. Barrierefreiheit
 *   Inhalte ausserhalb des geöffneten Dialogs sollen per Screen Reader nicht mehr erreichbar sein.
