@@ -16,7 +16,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/MM09.png 'class: image')
+![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/Processflow.png 'class: image')
 
 #### Design Spezifikation
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943558/inspect)
+*   [Standard](https://sketch.cloud/s/g5ejr/a/pR88WJ#Inspector)
