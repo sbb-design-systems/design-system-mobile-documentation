@@ -9,10 +9,8 @@
 
 ## 4. Ausprägungen
 Das Modul hat folgende Ausprägungen
-* Mit Titel
-* mit Titel,  Icon
-* mit Titel,  Icon,  Funktion
-* mit Titel,  Icon,  Funktion,  Checkbox
+* ohne Schatten (Default)
+* mit Schatten
 
 ### 4.1 Default
 ![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/list/images/List_default.png 'class: image')
