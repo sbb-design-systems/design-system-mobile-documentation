@@ -16,7 +16,7 @@
 *   [Default](https://sketch.cloud/s/g5ejr/a/e57gQP#Inspector)  
 
 ### 3.2 Multiple Step
-![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/onboarding_single_step.png 'class: image')
+![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/onboarding_multi_step.png 'class: image')
 
 #### Design Spezifikation
 *   [First Step](https://sketch.cloud/s/g5ejr/a/GaMJWO#Inspector)  
