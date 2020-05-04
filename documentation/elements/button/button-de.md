@@ -25,8 +25,8 @@ Das Element hat folgende Zustände:
 
 
 ### 4.1. Primary Button
-![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary.png 'class: image dark')
-![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary.png 'class: image light')
+![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary.png 'class: image, dark')
+![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary.png 'class: image, light')
 * Der Primary Button nutzt die volle Breite des verfügbaren Platzes, abzüglich 16px Padding
 
 #### Design Spezifikation
