@@ -12,8 +12,6 @@
 *   Wenn mehrere Bereiche Daten nachladen, darf nur ein Loading Indicator über die ganze Seite dargestellt werden.
 
 ## 4. Ausprägungen
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 *   Rot
 *   Grau
