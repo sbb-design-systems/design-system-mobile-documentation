@@ -10,6 +10,8 @@
 *   Erste Funktion wird auf Swipe-to-left gelegt, zweite Funktion auf Swipe-to-right.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 *   Normal
 *   On-Click
@@ -19,7 +21,9 @@ Das Element hat folgende Zustände:
 ### 4.1 Einzeilig
 
 #### 4.1.1 Standard
-![Darstellung des Listen Eintrags, einzeilig, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_default.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_default_light.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_default_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/wqrrvj#Inspector)
@@ -28,7 +32,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/JlaYwe#Inspector)
 
 #### 4.1.2 Ohne Call to Action
-![Darstellung des Listen Eintrags, einzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_without_call_to_action.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_without_call_to_action_light.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_without_call_to_action_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/vda7P8#Inspector)
@@ -37,7 +42,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/Ga91Vw#Inspector)
 
 #### 4.1.3 Ohne Icon
-![Darstellung des Listen Eintrags, einzeilig, Ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_single_row_without_icon.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, Ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_single_row_without_icon_light.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, Ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_single_row_without_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/OpO7ER#Inspector)
@@ -46,7 +52,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/a2k4Oq#Inspector)
 
 #### 4.1.4 Nur Label
-![Darstellung des Listen Eintrags, einzeilig, nur Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_label_only.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, nur Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_label_only_light.png 'class: image')
+![Darstellung des Listen Eintrags, einzeilig, nur Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_single_row_label_only_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/A4DAlY#Inspector)
@@ -57,7 +64,8 @@ Das Element hat folgende Zustände:
 ### 4.2 Mehrzeilig
 
 #### 4.2.1 Standard
-![Darstellung des Listen Eintrags, mehrzeilig, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_light.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/V7dMbw#Inspector)
@@ -66,7 +74,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/wzxygD#Inspector)
 
 #### 4.2.2 Ohne Call to Action
-![Darstellung des Listen Eintrags, mehrzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_without_call_to_action.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_without_call_to_action_light.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_without_call_to_action_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/QYxZDY#Inspector)
@@ -75,7 +84,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/j2Pv49#Inspector)
 
 #### 4.2.3 Mit Icon
-![Darstellung des Listen Eintrags, mehrzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_icon.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_icon_light.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/d2bYg3#Inspector)
@@ -84,7 +94,9 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/JlvxA0#Inspector)
 
 #### 4.2.4 Mit Icon, ohne Call to Action
-![Darstellung des Listen Eintrags, mehrzeilig, mit Icon, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_icon_without_call_to_action.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, mit Icon, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_icon_without_call_to_action_light.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, mit Icon, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_label_subline_icon_without_call_to_action_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/vd1oRe#Inspector)
@@ -93,7 +105,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/Gaz2oE#Inspector)
 
 #### 4.2.5 Reise
-![Darstellung des Listen Eintrags, mehrzeilig, Reise](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_trip.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, Reise](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_trip_light.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, Reise](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_trip_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/m2MGE7#Inspector)
@@ -102,7 +115,8 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sketch.cloud/s/g5ejr/a/A4Y2Dy#Inspector)
 
 #### 4.2.6 Reise, ohne Call to Action
-![Darstellung des Listen Eintrags, mehrzeilig, Reise](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_trip_without_call_to_action.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, Reise](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_trip_without_call_to_action_light.png 'class: image')
+![Darstellung des Listen Eintrags, mehrzeilig, Reise](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-item/images/List_item_multiple_row_trip_without_call_to_action_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/0Q43vb#Inspector)

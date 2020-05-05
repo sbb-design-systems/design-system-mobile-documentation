@@ -15,6 +15,8 @@
 *   Wenn noch keine Auswahl getroffen wurde, wird das Label angezeigt.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 *   Empty
 *   Value
@@ -22,7 +24,8 @@ Das Element hat folgende Zustände:
 *   Expanded (single value, multiple value)
 
 ### 4.1 Mit Icon
-![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_with_icon.png 'class: image')
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_with_icon_light.png 'class: image')
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_with_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Empty](https://sketch.cloud/s/g5ejr/a/Wy0Rdg#Inspector)
@@ -32,7 +35,8 @@ Das Element hat folgende Zustände:
 *   [Expanded single value](https://sketch.cloud/s/g5ejr/a/QYGaD8#Inspector)
 
 ### 4.1 Ohne Icon
-![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_without_icon.png 'class: image')
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_without_icon_light.png 'class: image')
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_without_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Empty](https://sketch.cloud/s/g5ejr/a/xZnb0A#Inspector)

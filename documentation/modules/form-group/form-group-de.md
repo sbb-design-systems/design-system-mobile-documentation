@@ -10,15 +10,18 @@
 *   Der Abstand zum Element ([Radiobutton](https://digital.sbb.ch/de/mobile/elemente/radiobutton), [Checkbox](https://digital.sbb.ch/de/mobile/elemente/checkbox)) ist oben und unten jeweils 6dp.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Default
-![Darstellung von Form Groups, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_default.png 'class: image')
+![Darstellung von Form Groups, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_default_light.png 'class: image')
+![Darstellung von Form Groups, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_default_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/0EGG8W#Inspector)
 
 ### 4.1 Mit Schatten
-![Darstellung von Form Groups, mit Schatten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_with_shadow.png 'class: image')
+![Darstellung von Form Groups, mit Schatten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_with_shadow_light.png 'class: image')
+![Darstellung von Form Groups, mit Schatten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_with_shadow_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Mit Schatten](https://sketch.cloud/s/g5ejr/a/l0AA47#Inspector)

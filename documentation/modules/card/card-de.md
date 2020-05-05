@@ -15,8 +15,12 @@
 
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Default
-![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default.png 'class: image')
+![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default_light.png 'class: image')
+![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/bJd42Z#Inspector)
@@ -24,14 +28,16 @@
 
 
 ### 4.2 Ohne Call to Action
-![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action.png 'class: image')
+![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action_light.png 'class: image')
+![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/nkAp2p#Inspector)
 *   [mit Schatten](https://sketch.cloud/s/g5ejr/a/QlwvYw#Inspector)
 
 ### 4.3 Ohne Titel
-![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title.png 'class: image')
+![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title_light.png 'class: image')
+![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/3AveQj#Inspector)
@@ -39,7 +45,8 @@
 
 
 ### 4.4 Nur Card
-![Darstellung der Card, nur Card](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_plain.png 'class: image')
+![Darstellung der Card, nur Card](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_plain_light.png 'class: image')
+![Darstellung der Card, nur Card](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_plain_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 

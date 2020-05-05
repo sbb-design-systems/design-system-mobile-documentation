@@ -14,6 +14,8 @@
 *   Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 * Checked
 * Unchecked
@@ -28,7 +30,8 @@ Das Element hat folgende Ausprägungen:
 ### 4.1 Volle Breite
 
 #### 4.1.1 Default
-![Darstellung der Radiobuttons, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_default.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_default_light.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_default_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/0Q7mg2#Inspector)
@@ -38,7 +41,8 @@ Das Element hat folgende Ausprägungen:
 
 
 #### 4.1.2 Ohne Icon (vor Label)
-![Darstellung der Radiobuttons, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_icon.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_icon_light.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/RKo5AZ#Inspector)
@@ -48,7 +52,8 @@ Das Element hat folgende Ausprägungen:
 
 
 #### 4.1.3 Ohne Call to Action
-![Darstellung der Radiobuttons, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_call_to_action.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_call_to_action_light.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_without_call_to_action_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/Y254pO#Inspector)
@@ -58,7 +63,8 @@ Das Element hat folgende Ausprägungen:
 
 
 #### 4.1.4 Nur Radiobutton und Label
-![Darstellung der Radiobuttons, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_label_only.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_label_only_light.png 'class: image')
+![Darstellung der Radiobuttons, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_full_width_label_only_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/LonKMy#Inspector)
@@ -69,8 +75,8 @@ Das Element hat folgende Ausprägungen:
 
 ### 4.2 Mit Preis
 #### 4.2.1 Default
-![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_default.png 'class: image')
-
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_default_light.png 'class: image')
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_default_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/PVogAP#Inspector)
@@ -79,8 +85,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/2Qe0kp#Inspector)
 
 #### 4.2.2 Ohne Icon (vor Label)
-![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_icon.png 'class: image')
-
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_icon_light.png 'class: image')
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/MRMqnb#Inspector)
@@ -89,8 +95,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/WynzlK#Inspector)
 
 #### 4.2.3 Ohne Spar-Icon
-![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_supersaver_icon.png 'class: image')
-
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_supersaver_icon_light.png 'class: image')
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_without_supersaver_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/3QxkJo#Inspector)
@@ -99,8 +105,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/QY12r1#Inspector)
 
 #### 4.2.4 Nur Radiobutton, Label und Preis
-![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_label_only.png 'class: image')
-
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_label_only_light.png 'class: image')
+![Darstellung der Radiobuttons, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_with_price_label_only_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/xZQqdV#Inspector)
@@ -108,10 +114,9 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/j2rnDo#Inspector)
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/d2jyvb#Inspector)
 
-
 ### 4.3 Dynamische Breite
-![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_dynamic_width.png 'class: image')
-
+![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_dynamic_width_light.png 'class: image')
+![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/radiobutton/images/Radiobutton_dynamic_width_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/zvK9Zb#Inspector)

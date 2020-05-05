@@ -10,12 +10,15 @@
 *   Die Einstellungsoption muss klar benannt werden mittels einem Label links.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 * On
 * Off
 
 ### 4.1 Standard
-![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/switch/images/Switch.png 'class: image')
+![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/switch/images/Switch_light.png 'class: image')
+![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/switch/images/Switch_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [On](https://sketch.cloud/s/g5ejr/a/d4kkqE#Inspector)

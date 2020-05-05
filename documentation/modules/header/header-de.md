@@ -13,8 +13,11 @@
 *   Das Signet verlinkt auf die Startseite.
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Mit Menü-Icon
-![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_menu.png 'class: image')
+![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_menu_light.png 'class: image')
+![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_menu_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [iOS, Default](https://sketch.cloud/s/g5ejr/a/GvJJGE#Inspector)
@@ -23,7 +26,8 @@
 *   [Android, Large](https://sketch.cloud/s/g5ejr/a/q21zkM#Inspector)
 
 ### 4.2 Mit Abbrechen-Button
-![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_cancel.png 'class: image')
+![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_cancel_light.png 'class: image')
+![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_cancel_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [iOS, Default](https://sketch.cloud/s/g5ejr/a/2QVRLy#Inspector)
@@ -32,7 +36,8 @@
 *   [Android, Large](https://sketch.cloud/s/g5ejr/a/KkOdan#Inspector)
 
 ### 4.3 Mit Pfeil nach links
-![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_back.png 'class: image')
+![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_back_light.png 'class: image')
+![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_back_dark.png 'class: image dark hide')
 
 *   Wird verwendet wenn innerhalb von Hierarchiestufen navigiert wird.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von links nach rechts animiert.
@@ -44,7 +49,8 @@
 *   [Android, Large](https://sketch.cloud/s/g5ejr/a/Y2KlwM#Inspector)
 
 ### 4.4 Mit Schliessen-Icon
-![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_close.png 'class: image')
+![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_close_light.png 'class: image')
+![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_close_dark.png 'class: image dark hide')
 
 *   Wird verwendet wenn nicht in die Tiefe navigiert wird. z.B. im Menü.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von unten nach oben animiert.

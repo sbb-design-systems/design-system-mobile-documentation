@@ -19,21 +19,25 @@
 *   Ist der Inhalt zu gross, kann ein vollflächiger modaler Dialog gewählt werden: siehe Seitentypen.
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Popup
-![Darstellung eines modalen Dialogs als Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_popup.png 'class: image')
+![Darstellung eines modalen Dialogs als Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_popup_light.png 'class: image')
+![Darstellung eines modalen Dialogs als Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_popup_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/JGPPoz#Inspector)
 
 ### 4.2 Sheet
-![Darstellung eines modalen Dialogs als Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_sheet.png 'class: image')
+![Darstellung eines modalen Dialogs als Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_sheet_light.png 'class: image')
+![Darstellung eines modalen Dialogs als Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_sheet_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/r2PmRK#Inspector)
 
 ### 4.3 Fullscreen
-![Darstellung eines modalen Dialogs als Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_fullscreen.png 'class: image')
+![Darstellung eines modalen Dialogs als Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_fullscreen_light.png 'class: image')
+![Darstellung eines modalen Dialogs als Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_fullscreen_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/GaDjOY#Inspector)

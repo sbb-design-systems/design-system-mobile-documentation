@@ -13,6 +13,8 @@
 *   Wird der Text länger als die Basishöhe der Textarea, verschiebt sich der bereits eingegebene Text nach oben. Die Textarea behält ihre ursprüngliche Grösse.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 * Empty
 * Value
@@ -21,7 +23,8 @@ Das Element hat folgende Zustände:
 * Error
 
 ### 4.1 Mit Icon
-![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_with_icon.png 'class: image')
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_with_icon_light.png 'class: image')
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_with_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/7QKk3p#Inspector)
@@ -31,7 +34,8 @@ Das Element hat folgende Zustände:
 * [Error](https://sketch.cloud/s/g5ejr/a/g2PYKg#Inspector)
 
 ### 4.2 Ohne Icon
-![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_without_icon.png 'class: image')
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_without_icon_light.png 'class: image')
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_without_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/8Q7onY#Inspector)

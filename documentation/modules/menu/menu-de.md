@@ -12,6 +12,8 @@
 *   Die Menühierarchie darf maximal 2 Levels betragen.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Modul hat folgende Zustände:
 *   First Level
 *   Second Level

@@ -11,12 +11,16 @@
 *   Andere Typen sollen mit anderen Farben dargestellt werden.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 *   Blau
 *   Schwarz
 
-### 4.1 Standard
-![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/map-marker/images/ME23_Standard.png 'class: image')
+### 4.1 Transport
+![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/map-marker/images/Map_Marker_transport_light.png 'class: image')
+![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/map-marker/images/Map_Marker_transport_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [Blau](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)

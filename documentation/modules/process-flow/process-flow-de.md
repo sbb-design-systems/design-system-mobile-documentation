@@ -15,8 +15,12 @@
 *   Vorwärtsnavigation im Processflow ist nur durch den Call-to-Action der entsprechenden Seite erlaubt. Ein Überspringen (vorwärts) von Schritten ist nicht erlaubt.
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Standard
-![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/Processflow.png 'class: image')
+![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/Processflow_light.png 'class: image')
+![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/Processflow_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [Standard](https://sketch.cloud/s/g5ejr/a/pR88WJ#Inspector)

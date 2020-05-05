@@ -11,18 +11,22 @@
 *   Bei der Auswahl eines Elementes schliesst sich die Autocompletion-Auswahl.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Modul hat folgende Zustände:
 *   Normal (entspricht einem [Eingabefeld](https://digital.sbb.ch/de/mobile/elemente/eingabefeld))
 *   Active
 
 ### 4.1 Default
-![Darstellung der Autocompletion, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_default.png 'class: image')
+![Darstellung der Autocompletion, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_default_light.png 'class: image')
+![Darstellung der Autocompletion, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_default_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/rpMMWK#Inspector)
 
 ### 4.2 Segmented
-![Darstellung der Autocompletion, Segmented](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_segmented.png 'class: image')
+![Darstellung der Autocompletion, Segmented](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_segmented_light.png 'class: image')
+![Darstellung der Autocompletion, Segmented](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_segmented_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Segmented](https://sketch.cloud/s/g5ejr/a/d2xPLl#Inspector)

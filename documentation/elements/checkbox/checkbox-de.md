@@ -14,6 +14,8 @@
 * Das letzte Element (Checkbox, volle Breite) innerhalb einer Form-Group hat jeweils keinen Boarder.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Zustände:
 * Checked
 * Unchecked
@@ -30,7 +32,9 @@ Das Element hat folgende Ausprägungen:
 ### 4.1 Volle Breite
 
 #### 4.1.1 Default
-![Darstellung der Checkboxen, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_default.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_default_light.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_default_dark.png 'class: image dark hide')
+
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/KOGGby#Inspector)
@@ -42,7 +46,8 @@ Das Element hat folgende Ausprägungen:
 
 
 #### 4.1.2 Ohne Icon (vor Label)
-![Darstellung der Checkboxen, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_icon.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_icon_light.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/RkEQle#Inspector)
@@ -54,7 +59,8 @@ Das Element hat folgende Ausprägungen:
 
 
 #### 4.1.3 Ohne Call to Action
-![Darstellung der Checkboxen, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_call_to_action.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_call_to_action_light.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_call_to_action_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/wqDbrl#Inspector)
@@ -66,7 +72,8 @@ Das Element hat folgende Ausprägungen:
 
 
 #### 4.1.4 Nur Checkbox und Label
-![Darstellung der Checkboxen, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_label_only.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_label_only_light.png 'class: image')
+![Darstellung der Checkboxen, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_label_only_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/P05rxj#Inspector)
@@ -79,8 +86,8 @@ Das Element hat folgende Ausprägungen:
 
 ### 4.2 Mit Preis
 #### 4.2.1 Default
-![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_default.png 'class: image')
-
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_default_light.png 'class: image')
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_default_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/bJ9lAz#Inspector)
@@ -89,7 +96,9 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/rp4gMK#Inspector)
 
 #### 4.2.2 Ohne Icon (vor Label)
-![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_icon.png 'class: image')
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_icon_light.png 'class: image')
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_icon_dark.png 'class: image dark hide')
+
 
 
 ##### Design Spezifikation
@@ -99,8 +108,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/EZ5yzO#Inspector)
 
 #### 4.2.3 Ohne Spar-Icon
-![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_supersaver_icon.png 'class: image')
-
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_supersaver_icon_light.png 'class: image')
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_supersaver_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/jaWKj7#Inspector)
@@ -109,8 +118,8 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/Zw9evJ#Inspector)
 
 #### 4.2.4 Nur Checkbox, Label und Preis
-![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_label_only.png 'class: image')
-
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_label_only_light.png 'class: image')
+![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_label_only_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
 *   [Checked](https://sketch.cloud/s/g5ejr/a/JG52az#Inspector)
@@ -120,7 +129,8 @@ Das Element hat folgende Ausprägungen:
 
 
 ### 4.3 Dynamische Breite
-![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_dynamic_width.png 'class: image')
+![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_dynamic_width_light.png 'class: image')
+![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_dynamic_width_dark.png 'class: image dark hide')
 
 
 ##### Design Spezifikation

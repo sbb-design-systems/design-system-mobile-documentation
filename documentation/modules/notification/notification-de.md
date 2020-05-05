@@ -11,8 +11,12 @@
 *   Es wird die Standard-Notification des jeweiligen Systems verwendet.
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Standard
-![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notifcation.png 'class: image')
+![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notifcation_light.png 'class: image')
+![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notifcation_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [iOS](https://sketch.cloud/s/g5ejr/a/vwEEWQ#Inspector)

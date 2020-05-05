@@ -13,12 +13,15 @@
     *   Die Karten bieten die Möglichkeit zum Verkleinern und Vergrössern des Kartenausschnittes (Zoom).
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Modul hat folgende Ausprägungen:
 *   Inline
 *   Fullscreen
 
 ### 4.1 Standard
 ![Darstellung von Karten, Inline und Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/map/images/MM13_Karte.png 'class: image')
+
 
 #### Design Spezifikation
 *   [Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)

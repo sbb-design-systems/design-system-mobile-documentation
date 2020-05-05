@@ -13,7 +13,6 @@
 * Pro Seite/Dialog sind mehrere Secondary/Tertiary Buttons erlaubt.
 
 ## 4. Ausprägungen und Zustände
-
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 Das Element hat folgende Zustände:
@@ -25,8 +24,8 @@ Das Element hat folgende Zustände:
 
 
 ### 4.1. Primary Button
-![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary.png 'class: image')
-![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary.png 'class: image dark hide')
+![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary_light.png 'class: image')
+![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary_dark.png 'class: image dark hide')
 * Der Primary Button nutzt die volle Breite des verfügbaren Platzes, abzüglich 16px Padding
 
 #### Design Spezifikation
@@ -36,7 +35,8 @@ Das Element hat folgende Zustände:
 * [Loading](https://sketch.cloud/s/g5ejr/a/40mmbq#Inspector)
 
 ### 4.2. Secondary Button
-![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Secondary.png 'class: image')
+![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Secondary_light.png 'class: image')
+![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Secondary_dark.png 'class: image dark hide')
 * Der Secondary Button nutzt die volle Breite des verfügbaren Platzes, abzüglich 16px Padding
 
 #### Design Spezifikation
@@ -47,7 +47,8 @@ Das Element hat folgende Zustände:
 
 ### 4.3. Tertiary Button
 #### 4.3.1. Large
-![Darstellung des Tertiary Button Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Large.png 'class: image')
+![Darstellung des Tertiary Button Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Large_light.png 'class: image')
+![Darstellung des Tertiary Button Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Large_dark.png 'class: image dark hide')
 * Der Tertiary Button kann sowohl auf die volle Breite des verfügbaren Platzes dargestellt (abzüglich 16px Padding), als auf den benötigten Platz beschränkt werden.
 
 #### Design Spezifikation
@@ -57,8 +58,8 @@ Das Element hat folgende Zustände:
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
 #### 4.3.1. Small
-![Darstellung des Tertiary Button Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Small.png 'class: image')
-
+![Darstellung des Tertiary Button Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Small_light.png 'class: image')
+![Darstellung des Tertiary Button Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Tertiary_Small_dark.png 'class: image dark hide')
 * Die Breite des Buttons definiert sich durch die Länge des Textes, eine Verbreiterung ist nicht erlaubt.
 
 #### Design Spezifikation
@@ -69,7 +70,8 @@ Das Element hat folgende Zustände:
 
 ### 4.4. Icon Button
 #### 4.4.1. Large
-![Darstellung des Icon Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Large.png 'class: image')
+![Darstellung des Icon Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Large_light.png 'class: image')
+![Darstellung des Icon Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Large_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/Dzddqa/#Inspector)
@@ -78,7 +80,8 @@ Das Element hat folgende Zustände:
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
 #### 4.4.2. Small
-![Darstellung des Icon Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Small.png 'class: image')
+![Darstellung des Icon Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Small_light.png 'class: image')
+![Darstellung des Icon Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Small_dark.png 'class: image dark hide')
 * Das Touch-Target ist auf 44px x 44px gesetzt (wie bei Large), die Darstellung des Kreises ist jedoch kleiner.
 * Bei enthaltenen Icon ist darauf zu achten, dass es den Rand des Kreises nicht berührt.
 
@@ -89,7 +92,8 @@ Das Element hat folgende Zustände:
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
 #### 4.4.4. In Formularen
-![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Form.png 'class: image')
+![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Form_light.png 'class: image')
+![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Form_dark.png 'class: image dark hide')
 * Die Rahmen rund um den Button werden durch das Formular bestimmt. Beispiel anzeigen
 
 #### Design Spezifikation
@@ -102,7 +106,8 @@ Das Element hat folgende Zustände:
 * Darf nie einzeln dargestellt werden (min. zwei Buttons)
 * Die Breite der Buttons definiert sich durch den verfügbaren Platz (abzüglich 16p Padding)
 
-![Darstellung des Icon Buttons mit Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Text.png 'class: image')
+![Darstellung des Icon Buttons mit Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Text_light.png 'class: image')
+![Darstellung des Icon Buttons mit Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Text_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Default](https://sketch.cloud/s/g5ejr/a/EZWGbA#Inspector)

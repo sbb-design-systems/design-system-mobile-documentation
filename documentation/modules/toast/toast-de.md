@@ -12,8 +12,12 @@
 *   Die Anzeigedauer richtet sich nach der Länge des Textes.
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Default
-![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/toast/images/Toast.png 'class: image')
+![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/toast/images/Toast_light.png 'class: image')
+![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/toast/images/Toast_dark.png 'class: image dark hide')
+
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/eeggLp#Inspector)

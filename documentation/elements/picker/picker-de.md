@@ -12,13 +12,16 @@
 *   Mit Klick ins Eingabefeld öffnet sich der Date-/Timepicker. Innerhalb des Pickers dürfen maximal 3 Auswahlräder zur Verfügung stehen.
 
 ## 4. Ausprägungen und Zustände
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 Das Element hat folgende Ausprägungen:
 * Standard
 * Datum
 * Datum und Zeit
 
 ### 4.1 Inline
-![Darstellung Picker, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_inline.png 'class: image')
+![Darstellung Picker, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_inline_light.png 'class: image')
+![Darstellung Picker, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_inline_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Standard](https://sketch.cloud/s/g5ejr/a/GvJJbE#Inspector)
@@ -26,7 +29,8 @@ Das Element hat folgende Ausprägungen:
 * [Datum mit Zeitwahl](https://sketch.cloud/s/g5ejr/a/ml88pL#Inspector)
 
 ### 4.2 Popup
-![Darstellung Picker, Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_popup.png 'class: image')
+![Darstellung Picker, Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_popup_light.png 'class: image')
+![Darstellung Picker, Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_popup_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Standard](https://sketch.cloud/s/g5ejr/a/vwEEqe#Inspector)
@@ -34,7 +38,8 @@ Das Element hat folgende Ausprägungen:
 * [Datum mit Zeitwahl](https://sketch.cloud/s/g5ejr/a/eeggOm#Inspector)
 
 ### 4.3 Sheet
-![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet.png 'class: image')
+![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet_light.png 'class: image')
+![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 * [Standard](https://sketch.cloud/s/g5ejr/a/Z2vyWG#Inspector)
