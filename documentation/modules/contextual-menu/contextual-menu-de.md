@@ -9,11 +9,11 @@
 *   Die Menüeinträge beinhalten immer ein Icon und einen Text.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Modul hat folgende Zustände:
 *   Closed
 *   Open
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Default
 ![Darstellung des Kontext Menus, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/context-menu-default_light.png 'class: image')

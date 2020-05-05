@@ -11,11 +11,11 @@
 *   Andere Typen sollen mit anderen Farben dargestellt werden.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 *   Blau
 *   Schwarz
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Transport
 ![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/map-marker/images/Map_Marker_transport_light.png 'class: image')

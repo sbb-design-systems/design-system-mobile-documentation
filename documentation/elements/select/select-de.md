@@ -15,13 +15,13 @@
 *   Wenn noch keine Auswahl getroffen wurde, wird das Label angezeigt.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 *   Empty
 *   Value
 *   Disabled
 *   Expanded (single value, multiple value)
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Mit Icon
 ![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_with_icon_light.png 'class: image')

@@ -13,15 +13,13 @@
 * Pro Seite/Dialog sind mehrere Secondary/Tertiary Buttons erlaubt.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 * Normal
 * Pressed
 * Disabled
 * Loading
 
-
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1. Primary Button
 ![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Primary_light.png 'class: image')

@@ -8,11 +8,11 @@
 *   Für Fehleingaben werden Feldvalidierungen (z.B. beim [Eingabefeld](https://digital.sbb.ch/mobile/elemente/eingabefeld)) verwendet, nicht die Fehlermeldung.
 
 ## 4. Ausprägungen
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Zustände:
 *   Inline
 *   Full-Screen
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Mit Actions
 ![Darstellung Dialog mit Actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/dialog/images/Dialog_actions_light.png 'class: image')

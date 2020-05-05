@@ -11,11 +11,11 @@
 *   Textlinks auf Teile von Wörtern sind nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 *   Normal
 *   Pressed
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Text-Link
 ![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/link/images/Link_default_light.png 'class: image')

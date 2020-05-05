@@ -12,12 +12,12 @@
 *   Mit Klick ins Eingabefeld öffnet sich der Date-/Timepicker. Innerhalb des Pickers dürfen maximal 3 Auswahlräder zur Verfügung stehen.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Ausprägungen:
 * Standard
 * Datum
 * Datum und Zeit
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Inline
 ![Darstellung Picker, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_inline_light.png 'class: image')

@@ -11,11 +11,11 @@
 *   Bei der Auswahl eines Elementes schliesst sich die Autocompletion-Auswahl.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Modul hat folgende Zustände:
 *   Normal (entspricht einem [Eingabefeld](https://digital.sbb.ch/de/mobile/elemente/eingabefeld))
 *   Active
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Default
 ![Darstellung der Autocompletion, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_default_light.png 'class: image')

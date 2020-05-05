@@ -19,6 +19,8 @@ Das Element hat folgende Zustände:
 *   Grau
 *   Weiss
 
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Default
 ![Darstellung des Loading Indicatiors, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/loading-indicator/images/Loading_indicator_default_light.png 'class: image')
 ![Darstellung des Loading Indicatiors, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/loading-indicator/images/Loading_indicator_default_dark.png 'class: image dark hide')

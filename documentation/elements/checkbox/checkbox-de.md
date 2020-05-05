@@ -14,8 +14,6 @@
 * Das letzte Element (Checkbox, volle Breite) innerhalb einer Form-Group hat jeweils keinen Boarder.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 * Checked
 * Unchecked
@@ -28,6 +26,8 @@ Das Element hat folgende Ausprägungen:
 * volle Breite
 * mit Preis
 * dynamische Breite
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Volle Breite
 

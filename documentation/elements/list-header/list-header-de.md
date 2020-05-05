@@ -12,11 +12,11 @@
 *   Auf Listen-Headern ist keine Interaktion erlaubt.
 
 ## 4. Ausprägungen
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Ausprägungen:
 *   mit Info
 *   ohne Info
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 mit Info
 ![Darstellung des Listen Headers, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/List_header_with_info_light.png 'class: image')

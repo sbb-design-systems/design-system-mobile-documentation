@@ -14,8 +14,8 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Standard
-![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notifcation_light.png 'class: image')
-![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notifcation_dark.png 'class: image dark hide')
+![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notification_light.png 'class: image')
+![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/notification/images/notification_dark.png 'class: image dark hide')
 
 
 #### Design Spezifikation

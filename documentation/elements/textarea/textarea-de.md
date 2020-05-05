@@ -13,14 +13,14 @@
 *   Wird der Text länger als die Basishöhe der Textarea, verschiebt sich der bereits eingegebene Text nach oben. Die Textarea behält ihre ursprüngliche Grösse.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 * Empty
 * Value
 * Active
 * Disabled
 * Error
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Mit Icon
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_with_icon_light.png 'class: image')

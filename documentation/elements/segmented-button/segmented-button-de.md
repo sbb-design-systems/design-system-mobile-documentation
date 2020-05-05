@@ -9,12 +9,11 @@
 *   Es muss immer ein Default-Wert gesetzt sein.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 *   Default
 *   Rot
 
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Text
 ### 4.1.1 Fixe Breite

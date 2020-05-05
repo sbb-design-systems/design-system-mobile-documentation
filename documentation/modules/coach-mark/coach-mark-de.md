@@ -17,7 +17,7 @@
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/j2xz87#Inspector)
 
-### 4.1 Mehrere Schritte
+### 4.2 Mehrere Schritte
 ![Darstellung des Coach Marsk, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/coach-mark/images/coach-mark-multiple_light.png 'class: image')
 ![Darstellung des Coach Marsk, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/coach-mark/images/coach-mark-multiple_dark.png 'class: image dark hide')
 

@@ -14,14 +14,14 @@
 *   Je nach Typ des Eingabefelds muss der richtige Typ der Tastatur gewählt werden (Default, E-Mail, URL, Phone)
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 * Empty
 * Value
 * Active
 * Disabled
 * Error
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Mit Icon
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textfield/images/Textfield_with_icon_light.png 'class: image')

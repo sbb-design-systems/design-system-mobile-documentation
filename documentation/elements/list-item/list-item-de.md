@@ -10,13 +10,13 @@
 *   Erste Funktion wird auf Swipe-to-left gelegt, zweite Funktion auf Swipe-to-right.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Element hat folgende Zustände:
 *   Normal
 *   On-Click
 *   On-Swipe-to-left (optional)
 *   On-Swipe-to-right (optional)
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Einzeilig
 

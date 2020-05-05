@@ -17,11 +17,11 @@
 *   Ein Akkordeon-Modul innerhalb eines Akkordeon-Eintrags ist nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Modul hat folgende Zustände:
 *   Closed
 *   Open
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Standard
 ![Darstellung des Accordions](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/accordion/images/accordion_light.png 'class: image')

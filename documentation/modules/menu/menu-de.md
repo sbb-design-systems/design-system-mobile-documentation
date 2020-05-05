@@ -12,11 +12,11 @@
 *   Die Menühierarchie darf maximal 2 Levels betragen.
 
 ## 4. Ausprägungen und Zustände
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Modul hat folgende Zustände:
 *   First Level
 *   Second Level
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Menü mit Login
 ![Darstellung des Menüs mit Login, erstes Level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/menu/images/MM10_login_first.png 'class: image')

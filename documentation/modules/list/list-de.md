@@ -8,11 +8,11 @@
 *   Die Liste enthält Elemente gemäss der Beschreibung unter [Listen-Eintrag](https://digital.sbb.ch/de/mobile/elemente/listen-eintrag).
 
 ## 4. Ausprägungen
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 Das Modul hat folgende Ausprägungen
 * ohne Schatten (Default)
 * mit Schatten
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Default
 ![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/list/images/List_default_light.png 'class: image')
