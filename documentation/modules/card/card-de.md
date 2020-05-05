@@ -15,6 +15,8 @@
 
 
 ## 4. Ausprägungen
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Default
 ![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default_light.png 'class: image')
 ![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default_dark.png 'class: image dark hide')
@@ -23,7 +25,6 @@
 *   [Default](https://sketch.cloud/s/g5ejr/a/bJd42Z#Inspector)
 *   [mit Schatten](https://sketch.cloud/s/g5ejr/a/WVwDy2#Inspector)
 
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.2 Ohne Call to Action
 ![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action_light.png 'class: image')
