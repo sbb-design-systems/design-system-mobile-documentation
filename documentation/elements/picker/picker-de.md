@@ -28,16 +28,7 @@ Das Element hat folgende Ausprägungen:
 * [Datum](https://sketch.cloud/s/g5ejr/a/OA00ZG#Inspector)
 * [Datum mit Zeitwahl](https://sketch.cloud/s/g5ejr/a/ml88pL#Inspector)
 
-### 4.2 Popup
-![Darstellung Picker, Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_popup_light.png 'class: image')
-![Darstellung Picker, Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_popup_dark.png 'class: image dark hide')
-
-#### Design Spezifikation
-* [Standard](https://sketch.cloud/s/g5ejr/a/vwEEqe#Inspector)
-* [Datum](https://sketch.cloud/s/g5ejr/a/40mmGz#Inspector)
-* [Datum mit Zeitwahl](https://sketch.cloud/s/g5ejr/a/eeggOm#Inspector)
-
-### 4.3 Sheet
+### 4.2 Sheet
 ![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet_light.png 'class: image')
 ![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet_dark.png 'class: image dark hide')
 
