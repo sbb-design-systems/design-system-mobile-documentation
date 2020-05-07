@@ -13,8 +13,8 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Default
-![Darstellung von Form Groups](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_default_light.png 'class: image')
-![Darstellung von Form Groups](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_default_dark.png 'class: image dark hide')
+![Darstellung von Form Groups](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_light.png 'class: image')
+![Darstellung von Form Groups](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
 *   [Default](https://sketch.cloud/s/g5ejr/a/0EGG8W#Inspector)
