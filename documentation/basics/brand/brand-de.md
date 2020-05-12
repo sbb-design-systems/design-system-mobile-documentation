@@ -17,7 +17,7 @@
 
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/nk88qp#Inspector)
+*   [Default](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nk88qp#Inspector)
 
 ## 5. Barrierefreiheit
 * Das Signet muss mit einem Alternativtext hinterlegt werden (z.B. "Zurück zu Startseite"), sofern das Element verlinkt wird.

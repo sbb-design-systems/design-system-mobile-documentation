@@ -12,11 +12,11 @@
 ![Dartellung einer Menuseite, First Level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/menu/images/Menu_level_1_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Level 1](https://sketch.cloud/s/g5ejr/a/vdeE04#Inspector)
+* Level 1: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vdeE04#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/2qD4yJ#Inspector)
 
 ### 3.1 Second Level
 ![Dartellung einer Menuseite, Second Level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/menu/images/Menu_level_2_light.png 'class: image')
 ![Dartellung einer Menuseite, Second Level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/menu/images/Menu_level_2_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Level 2](https://sketch.cloud/s/g5ejr/a/4QlmpD#Inspector)
+* Level 2: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/4QlmpD#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/MVzdYz#Inspector)

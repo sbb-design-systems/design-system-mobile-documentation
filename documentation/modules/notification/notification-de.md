@@ -19,5 +19,5 @@
 
 
 #### Design Spezifikation
-*   [iOS](https://sketch.cloud/s/g5ejr/a/vwEEWQ#Inspector)
-*   [Android](https://sketch.cloud/s/g5ejr/a/40mmAm#Inspector)
+* iOS: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vwEEWQ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/47AY4z#Inspector)
+* Android: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/40mmAm#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/e0LEJm#Inspector)

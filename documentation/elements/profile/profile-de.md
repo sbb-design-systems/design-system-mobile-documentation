@@ -21,8 +21,8 @@ Das Element hat folgende Zustände:
 
 
 #### Design Spezifikation
-*   [Eingeloggt](https://sketch.cloud/s/g5ejr/a/1DxxZ4#Inspector)
-*   [Ausgeoggt](https://sketch.cloud/s/g5ejr/v/elKVd0/a/Vp00wK#Inspector)
+* Eingeloggt: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1DxxZ4#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/DaDqMW#Inspector)
+* Ausgeloggt: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/elKVd0/a/Vp00wK#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/AOGLM4#Inspector)
 
 ### 4.2 Erweitert
 ![Darstellung des Profils, erweitert](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/profile/images/Profile_extended_light.png 'class: image')
@@ -32,5 +32,5 @@ Das Element hat folgende Zustände:
 *   Zusätzlich zum Namen des Benutzers können auf einer zweiten Zeile weitere Attribute angezeigt werden (z.B. U-Nummer, Firma, Vetragsnummer, Abteilung etc.)
 
 #### Design Spezifikation
-*   [Eingeloggt](https://sketch.cloud/s/g5ejr/v/elKVd0/a/pR88lA/#Inspector)
-*   [Ausgeoggt](https://sketch.cloud/s/g5ejr/v/elKVd0/a/Vp00wK#Inspector) (gleich wie bei 4.1)
+* Eingeloggt: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/elKVd0/a/pR88lA/#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/amEWwZ#Inspector)
+* Ausgeloggt: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/elKVd0/a/Vp00wK#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/AOGLM4#Inspector) (gleich wie bei 4.1)

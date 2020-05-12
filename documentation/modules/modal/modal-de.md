@@ -26,22 +26,22 @@
 ![Darstellung eines modalen Dialogs als Popup](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_popup_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/JGPPoz#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JGPPoz#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/zJWmG4#Inspector)
 
 ### 4.2 Sheet
 ![Darstellung eines modalen Dialogs als Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_sheet_light.png 'class: image')
 ![Darstellung eines modalen Dialogs als Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_sheet_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/r2PmRK#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/r2PmRK#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/ZZl1yY#Inspector)
 
 ### 4.3 Fullscreen
 ![Darstellung eines modalen Dialogs als Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_fullscreen_light.png 'class: image')
 ![Darstellung eines modalen Dialogs als Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/modal/images/modal_fullscreen_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/GaDjOY#Inspector)
-*   [Scrolled](https://sketch.cloud/s/g5ejr/a/Op1Gb8#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/GaDjOY#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/JRoZD0#Inspector)
+* Scrolled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Op1Gb8#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/vjW4Je#Inspector)
 
 ## 5. Barrierefreiheit
 *   Inhalte ausserhalb des geöffneten Dialogs sollen per Screen Reader nicht mehr erreichbar sein.

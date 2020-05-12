@@ -14,11 +14,11 @@
 ![Dartellung eines Formulars, einseitig](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/form/images/Form_one_page_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Einseitiges Formular](https://sketch.cloud/s/g5ejr/a/LmllaE#Inspector)
+* Einseitiges Formular [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/LmllaE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/8joada#Inspector)
 
 ### 3.2 Mehrseitige Formulare
 ![Dartellung eines Formulars, mehrseitig](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/form/images/Form_multi_page_light.png 'class: image')
 ![Dartellung eines Formulars, mehrseitig](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/form/images/Form_multi_page_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Mehrseitiges Formular](https://sketch.cloud/s/g5ejr/a/7onn8L#Inspector)
+* Mehrseitiges Formular: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7onn8L#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/OKJPMv#Inspector)

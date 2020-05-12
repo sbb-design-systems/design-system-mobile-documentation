@@ -17,10 +17,10 @@
 ## 4. Ausprägungen
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-### 4.1 Standard
+### 4.1 Default
 ![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/Processflow_light.png 'class: image')
 ![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/process-flow/images/Processflow_dark.png 'class: image dark hide')
 
 
 #### Design Spezifikation
-*   [Standard](https://sketch.cloud/s/g5ejr/a/pR88WJ#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/pR88WJ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/OKJGkG#Inspector)

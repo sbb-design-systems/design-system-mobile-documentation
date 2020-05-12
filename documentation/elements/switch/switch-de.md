@@ -21,5 +21,5 @@ Das Element hat folgende Zustände:
 ![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/switch/images/Switch_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [On](https://sketch.cloud/s/g5ejr/a/d4kkqE#Inspector)
-* [Off](https://sketch.cloud/s/g5ejr/a/zjllOe#Inspector)
+* [On](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d4kkqE#Inspector), [Dark]()
+* [Off](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zjllOe#Inspector), [Dark]()

@@ -18,14 +18,14 @@
 ![Darstellung von horizontalem Scrollen mit Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/horizontal-scrolling/images/Horizontal_scrolling_buttons_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Buttons](https://sketch.cloud/s/g5ejr/a/1Dxxm8#Inspector)
+* Buttons:  [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1Dxxm8#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/dA5Y9n#Inspector)
 
 ### 4.2 Cards
 ![Darstellung von horizontalem Scrollen mit Cards](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/horizontal-scrolling/images/Horizontal_scrolling_cards_light.png 'class: image')
 ![Darstellung von horizontalem Scrollen mit Cards](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/horizontal-scrolling/images/Horizontal_scrolling_cards_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Buttons](https://sketch.cloud/s/g5ejr/a/xZPkwW#Inspector)
+* Cards: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xZPkwW#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/zJWVmo#Inspector)
 
 ## 5. Barrierefreiheit
 *   Horizontales Scrollen muss auch per Screen Reader und Schaltersteuerung möglich sein.

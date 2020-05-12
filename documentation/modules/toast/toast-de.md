@@ -20,4 +20,4 @@
 
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/eeggLp#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/eeggLp#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/mYg3aL#Inspector)

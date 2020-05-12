@@ -16,15 +16,15 @@
 ![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/Onboarding_single_step_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/e57gQP#Inspector)  
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/e57gQP#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/5y0Og8#Inspector)
 
 ### 3.2 Multiple Step
 ![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/Onboarding_multi_step_light.png 'class: image')
 ![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/page-types/onboarding/images/Onboarding_multi_step_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [First Step](https://sketch.cloud/s/g5ejr/a/GaMJWO#Inspector)  
-*   [Last Step](https://sketch.cloud/s/g5ejr/a/Opv04m#Inspector)  
+* First Step: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/GaMJWO#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/bDY439#Inspector)
+* Last Step: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Opv04m#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/WjaD8q#Inspector)
 
 ## 4. Barrierefreiheit
 * Informationen, welche nur aus den Screenshots entnommen werden können, müssen auch als Alternativtext hinterlegt sein.

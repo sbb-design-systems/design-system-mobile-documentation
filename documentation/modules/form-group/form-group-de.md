@@ -17,5 +17,5 @@
 ![Darstellung von Form Groups](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/form-group/images/form_group_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/0EGG8W#Inspector)
-*   [Mit Schatten](https://sketch.cloud/s/g5ejr/a/l0AA47#Inspector)
+* Default:  [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/0EGG8W#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/7Pk2qb#Inspector)
+* Mit Schatten: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/l0AA47#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/yZWpOy#Inspector)

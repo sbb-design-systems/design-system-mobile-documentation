@@ -24,15 +24,15 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung Picker, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_inline_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Standard](https://sketch.cloud/s/g5ejr/a/GvJJbE#Inspector)
-* [Datum](https://sketch.cloud/s/g5ejr/a/OA00ZG#Inspector)
-* [Datum mit Zeitwahl](https://sketch.cloud/s/g5ejr/a/ml88pL#Inspector)
+* Standard: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/GvJJbE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/pql5xA#Inspector)
+* Datum: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/OA00ZG#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/VPw8zK#Inspector)
+* Datum mit Zeitwahl: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ml88pL#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Yzw8vv#Inspector)
 
 ### 4.2 Sheet
 ![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet_light.png 'class: image')
 ![Darstellung Picker, Sheet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/picker/images/Picker_sheet_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Standard](https://sketch.cloud/s/g5ejr/a/Z2vyWG#Inspector)
-* [Datum](https://sketch.cloud/s/g5ejr/a/JlaDJe#Inspector)
-* [Datum mit Zeitwahl](https://sketch.cloud/s/g5ejr/a/vdaJQ8#Inspector)
+* Standard: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Z2vyWG#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/K1awWy#Inspector)
+* Datum: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JlaDJe#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wdvM1j#Inspector)
+* Datum mit Zeitwahl: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vdaJQ8#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/qLk5w5#Inspector)

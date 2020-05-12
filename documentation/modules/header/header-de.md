@@ -20,20 +20,20 @@
 ![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_menu_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [iOS, Default](https://sketch.cloud/s/g5ejr/a/GvJJGE#Inspector)
-*   [iOS, Large](https://sketch.cloud/s/g5ejr/a/V7pawo#Inspector)
-*   [Android, Default](https://sketch.cloud/s/g5ejr/a/3QY17d#Inspector)
-*   [Android, Large](https://sketch.cloud/s/g5ejr/a/q21zkM#Inspector)
+* iOS, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/GvJJGE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/9djb7x#Inspector)
+* iOS, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/V7pawo#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/PwvzOW#Inspector)
+* Android, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3QY17d#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/gkYz8J#Inspector)
+* Android, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/q21zkM#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/8jo2EO#Inspector)
 
 ### 4.2 Mit Abbrechen-Button
 ![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_cancel_light.png 'class: image')
 ![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_cancel_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [iOS, Default](https://sketch.cloud/s/g5ejr/a/2QVRLy#Inspector)
-*   [iOS, Large](https://sketch.cloud/s/g5ejr/a/1QDEZO#Inspector)
-*   [Android, Default](https://sketch.cloud/s/g5ejr/a/b2x5zz#Inspector)
-*   [Android, Large](https://sketch.cloud/s/g5ejr/a/KkOdan#Inspector)
+* iOS, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2QVRLy#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/2qDwpl#Inspector)
+* iOS, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1QDEZO#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/MVz24a#Inspector)
+* Android, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/b2x5zz#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/5y07KL#Inspector)
+* Android, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/KkOdan#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/bDYp74#Inspector)
 
 ### 4.3 Mit Pfeil nach links
 ![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_back_light.png 'class: image')
@@ -43,10 +43,10 @@
 *   Das einblenden der aufgerufenen Funktion/Seite wird von links nach rechts animiert.
 
 #### Design Spezifikation
-*   [iOS, Default](https://sketch.cloud/s/g5ejr/a/8Qg78D#Inspector)
-*   [iOS, Large](https://sketch.cloud/s/g5ejr/a/RKkGny#Inspector)
-*   [Android, Default](https://sketch.cloud/s/g5ejr/a/5QwV9E#Inspector)
-*   [Android, Large](https://sketch.cloud/s/g5ejr/a/Y2KlwM#Inspector)
+* iOS, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8Qg78D#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/WjaOkw#Inspector)
+* iOS, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/RKkGny#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/3LagVa#Inspector)
+* Android, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5QwV9E#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/r7WEza#Inspector)
+* Android, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Y2KlwM#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/nK9Orz#Inspector)
 
 ### 4.4 Mit Schliessen-Icon
 ![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/header/images/Header_close_light.png 'class: image')
@@ -57,7 +57,7 @@
 *   Wenn von einer Seite mit Schliessen-Icon weiternavigiert wird, muss auf der nächsten Funktion/Seite der Header mit Pfeil nach links verwendet werden.
 
 #### Design Spezifikation
-*   [iOS, Default](https://sketch.cloud/s/g5ejr/a/MRgPo9#Inspector)
-*   [iOS, Large](https://sketch.cloud/s/g5ejr/a/p2RdlQ#Inspector)
-*   [Android, Default](https://sketch.cloud/s/g5ejr/a/WyxP7A#Inspector)
-*   [Android, Large](https://sketch.cloud/s/g5ejr/a/wzqGvw#Inspector)
+* iOS, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MRgPo9#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/Qq4Zm7#Inspector)
+* iOS, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/p2RdlQ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/xzx1Gv#Inspector)
+* Android, Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/WyxP7A#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/EAa2r2#Inspector)
+* Android, Large: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wzqGvw#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/j1Yv5z#Inspector)

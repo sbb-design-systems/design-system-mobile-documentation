@@ -22,11 +22,11 @@ Das Modul hat folgende Zustände:
 ![Darstellung der Autocompletion, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_default_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/rpMMWK#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/rpMMWK#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/PwvbEL#Inspector)
 
 ### 4.2 Segmented
 ![Darstellung der Autocompletion, Segmented](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_segmented_light.png 'class: image')
 ![Darstellung der Autocompletion, Segmented](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/autocompletion/images/autocomplete_segmented_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Segmented](https://sketch.cloud/s/g5ejr/a/d2xPLl#Inspector)
+* Segmented: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d2xPLl#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/gkYqxq#Inspector)

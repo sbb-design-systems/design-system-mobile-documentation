@@ -28,19 +28,19 @@ Das Element hat folgende Zustände:
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textfield/images/Textfield_with_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Default](https://sketch.cloud/s/g5ejr/a/5l11O7#Inspector)
-* [Value](https://sketch.cloud/s/g5ejr/a/WVooD0#Inspector)
-* [Active](https://sketch.cloud/s/g5ejr/a/Y2pKzE#Inspector)
-* [Disabled](https://sketch.cloud/s/g5ejr/a/bJAA45#Inspector)
-* [Error](https://sketch.cloud/s/g5ejr/a/3AGGew#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5l11O7#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ow07Y0#Inspector)
+* Value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/WVooD0#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/RLnA1e#Inspector)
+* Active: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Y2pKzE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1wZ5K8#Inspector)
+* Disabled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bJAA45#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/pql7aJ#Inspector)
+* Error: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3AGGew#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/VPwVrq#Inspector)
 
 ### 4.2 Ohne Icon
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textfield/images/Textfield_without_icon_light.png 'class: image')
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textfield/images/Textfield_without_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Default](https://sketch.cloud/s/g5ejr/a/KkyO1V#Inspector)
-* [Value](https://sketch.cloud/s/g5ejr/a/wz7qm9#Inspector)
-* [Active](https://sketch.cloud/s/g5ejr/a/q271Je#Inspector)
-* [Disabled](https://sketch.cloud/s/g5ejr/a/LoMmg4#Inspector)
-* [Error](https://sketch.cloud/s/g5ejr/a/7QEomp#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/KkyO1V#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/YzwpGQ#Inspector)
+* Value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wz7qm9#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/K1ayv2#Inspector)
+* Active: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/q271Je#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wdv7Ll#Inspector)
+* Disabled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/LoMmg4#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/qLk7en#Inspector)
+* Error: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7QEomp#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/LpAM0E#Inspector)

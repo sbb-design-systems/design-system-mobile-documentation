@@ -17,7 +17,7 @@
 ![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/brand/images/brand_default.png 'class: image')
 
 #### Design Specification
-*   [Default](https://sketch.cloud/s/g5ejr/a/nk88qp#Inspector)
+*   [Default](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nk88qp#Inspector)
 
 ## 5. Accessibility
 *   The signet must be entered with an alternative text (e.g. ‘Back to homepage’).

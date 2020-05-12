@@ -22,8 +22,8 @@
 ![Darstellung der Card, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_default_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/bJd42Z#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/WVwDy2#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bJd42Z#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/8jo9ga#Inspector)
+* Mit Schatten: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/WVwDy2#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/2qD2VJ#Inspector)
 
 
 ### 4.2 Ohne Call to Action
@@ -31,16 +31,16 @@
 ![Darstellung der Card, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_call_to_action_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/nkAp2p#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/QlwvYw#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nkAp2p#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/bDYqx9#Inspector)
+* Mit Schatten: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QlwvYw#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/Wjapxq#Inspector)
 
 ### 4.3 Ohne Titel
 ![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title_light.png 'class: image')
 ![Darstellung der Card, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/card/images/Card_without_title_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/3AveQj#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/rpjY2d#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3AveQj#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/MVzpgz#Inspector)
+* Mit Schatten: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/rpjY2d#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/5y0Lw8#Inspector)
 
 
 ### 4.4 Nur Card
@@ -49,5 +49,5 @@
 
 #### Design Spezifikation
 
-*   [Default](https://sketch.cloud/s/g5ejr/a/xL4pZx#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/EZ4bmv#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xL4pZx#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/3LayYz#Inspector)
+* Mit Schatten: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EZ4bmv#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/r7WdPE#Inspector)

@@ -24,11 +24,11 @@ Das Element hat folgende Ausprägungen:
 
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/jakkO9#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jakkO9#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/mYgqJJ#Inspector)
 
 ### 4.1 ohne Info
 ![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/List_header_without_info_light.png 'class: image')
 ![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/list-header/images/List_header_without_info_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/d4kkZ3#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d4kkZ3#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/DaDqlW#Inspector)

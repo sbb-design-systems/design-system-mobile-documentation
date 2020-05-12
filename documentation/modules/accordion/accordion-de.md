@@ -29,8 +29,8 @@ Das Modul hat folgende Zustände:
 
 
 #### Design Spezifikation
-*   [Closed](https://sketch.cloud/s/g5ejr/a/zjllWy#Inspector)
-*   [Open](https://sketch.cloud/s/g5ejr/a/ZwKKlJ#Inspector)
+* Closed: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zjllWy#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/yZWGrz#Inspector)
+* Open: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZwKKlJ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/9djLg0#Inspector)
 
 ## 5. Barrierefreiheit
 * Zustand des Moduls muss auf dem Titel als Alternativtext hinterlegt werden (z.B. "Zugeklappt", "Aufgeklappt").

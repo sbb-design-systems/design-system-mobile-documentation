@@ -27,19 +27,19 @@ Das Element hat folgende Zustände:
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_with_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Default](https://sketch.cloud/s/g5ejr/a/7QKk3p#Inspector)
-* [Value](https://sketch.cloud/s/g5ejr/a/yJoWDL#Inspector)
-* [Active](https://sketch.cloud/s/g5ejr/a/9Q9j3W#Inspector)
-* [Disabled](https://sketch.cloud/s/g5ejr/a/PV3vjx#Inspector)
-* [Error](https://sketch.cloud/s/g5ejr/a/g2PYKg#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7QKk3p#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7POEyL#Inspector)
+* Value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yJoWDL#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yZe0gE#Inspector)
+* Active: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/9Q9j3W#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/9dDKPQ#Inspector)
+* Disabled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/PV3vjx#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Pw7AGj#Inspector)
+* Error: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/g2PYKg#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/gk4J0k#Inspector)
 
 ### 4.2 Ohne Icon
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_without_icon_light.png 'class: image')
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/textarea/images/Textarea_without_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Default](https://sketch.cloud/s/g5ejr/a/8Q7onY#Inspector)
-* [Value](https://sketch.cloud/s/g5ejr/a/2QRD3G#Inspector)
-* [Active](https://sketch.cloud/s/g5ejr/a/MRPz3W#Inspector)
-* [Disabled](https://sketch.cloud/s/g5ejr/a/5QV03W#Inspector)
-* [Error](https://sketch.cloud/s/g5ejr/a/b25YRZ#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8Q7onY#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8jm5yD#Inspector)
+* Value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2QRD3G#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2qJk5y#Inspector)
+* Active: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MRPz3W#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MV0ny9#Inspector)
+* Disabled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5QV03W#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5yeW2E#Inspector)
+* Error: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/b25YRZ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bDdKgz#Inspector)

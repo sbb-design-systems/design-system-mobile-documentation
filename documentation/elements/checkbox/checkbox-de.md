@@ -35,54 +35,49 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung der Checkboxen, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_default_light.png 'class: image')
 ![Darstellung der Checkboxen, volle Breite, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_default_dark.png 'class: image dark hide')
 
-
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/KOGGby#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/A7qwJ1#Inspector)
-*   [Tristate](https://sketch.cloud/s/g5ejr/a/0EqeGW#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/l0jqA7#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/kA9wVl#Inspector)
-*   [Disabled Tristate](https://sketch.cloud/s/g5ejr/a/ooZy80#Inspector)
-
+* Checked: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/KOGGby#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2qrGYe#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/A7qwJ1#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MVaGLl#Inspector)
+* Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/0EqeGW#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5yzAYP#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/l0jqA7#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bDWboo#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/kA9wVl#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/WjLg4g#Inspector)
+* Disabled Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ooZy80#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3LjlbD#Inspector)
 
 #### 4.1.2 Ohne Icon (vor Label)
 ![Darstellung der Checkboxen, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_icon_light.png 'class: image')
 ![Darstellung der Checkboxen, volle Breite, ohne Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/RkEQle#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/1DrGx8#Inspector)
-*   [Tristate](https://sketch.cloud/s/g5ejr/a/pRJ98J#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/Vp5Z0q#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/YKbEMQ#Inspector)
-*   [Disabled Tristate](https://sketch.cloud/s/g5ejr/a/KO5MG2#Inspector)
-
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/RkEQle#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/r7ewlx#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1DrGx8#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nKZLgW#Inspector)
+* Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/pRJ98J#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QqMxj8#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Vp5Z0q#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xzA2yA#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/YKbEMQ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EAJjKY#Inspector)
+* Disabled Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/KO5MG2#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/j1pPo0#Inspector)
 
 #### 4.1.3 Ohne Call to Action
 ![Darstellung der Checkboxen, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_call_to_action_light.png 'class: image')
 ![Darstellung der Checkboxen, volle Breite, ohne Call to Action](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_without_call_to_action_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/wqDbrl#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/q1vP8n#Inspector)
-*   [Tristate](https://sketch.cloud/s/g5ejr/a/Lmx5lE#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/7o90nL#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/yEA3lE#Inspector)
-*   [Disabled Tristate](https://sketch.cloud/s/g5ejr/a/91qkoQ#Inspector)
-
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wqDbrl#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/dAMb1Z#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/q1vP8n#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zJ5QqW#Inspector)
+* Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Lmx5lE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZZLgd7#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7o90nL#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JROvM5#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yEA3lE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vjD1xb#Inspector)
+* Disabled Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/91qkoQ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/47dE9Z#Inspector)
 
 #### 4.1.4 Nur Checkbox und Label
 ![Darstellung der Checkboxen, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_label_only_light.png 'class: image')
 ![Darstellung der Checkboxen, volle Breite, nur Checkbox und Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_full_width_label_only_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/P05rxj#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/gOWpAk#Inspector)
-*   [Tristate](https://sketch.cloud/s/g5ejr/a/8RqlWD#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/2agOxy#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/MD5bl9#Inspector)
-*   [Disabled Tristate](https://sketch.cloud/s/g5ejr/a/5lqa1E#Inspector)
-
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/P05rxj#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/e0Mboj#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/gOWpAk#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Gl4z87#Inspector)
+* Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8RqlWD#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/OKL2n4#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2agOxy#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/mYzMOJ#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MD5bl9#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/DaZV0W#Inspector)
+* Disabled Tristate:  [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5lqa1E#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/amQbqZ#Inspector)
 
 ### 4.2 Mit Preis
 #### 4.2.1 Default
@@ -90,43 +85,40 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_default_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/bJ9lAz#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/WVrJoA#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/3AqmGd#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/rp4gMK#Inspector)
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bJ9lAz#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7PDjkL#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/WVrJoA#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yZbjWE#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3AqmGd#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/9dAzjQ#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/rp4gMK#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/PwJqvj#Inspector)
 
 #### 4.2.2 Ohne Icon (vor Label)
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_icon_light.png 'class: image')
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_icon_dark.png 'class: image dark hide')
 
-
-
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/nkz78a#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/Ql5n0m#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/xLaWVW#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/EZ5yzO#Inspector)
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nkz78a#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/gkD3Yk#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Ql5n0m#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8jadoD#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xLaWVW#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2q4yDy#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EZ5yzO#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MVdYz9#Inspector)
 
 #### 4.2.3 Ohne Spar-Icon
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_supersaver_icon_light.png 'class: image')
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_without_supersaver_icon_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/jaWKj7#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/d4QoDl#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/zj0rzy#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/Zw9evJ#Inspector)
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jaWKj7#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5yOg0E#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d4QoDl#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bD43Yz#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zj0rzy#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/WjD8aA#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Zw9evJ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3Le9ad#Inspector)
 
 #### 4.2.4 Nur Checkbox, Label und Preis
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_label_only_light.png 'class: image')
 ![Darstellung der Checkboxen, mit Preis, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_with_price_label_only_dark.png 'class: image dark hide')
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/JG52az#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/vwm5aQ#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/40LD2m#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/ee9Rpp#Inspector)
-
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JG52az#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/r7Y3WK#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vwm5aQ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nKp39a#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/40LD2m#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QqvL4m#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ee9Rpp#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xzp3xW#Inspector)
 
 ### 4.3 Dynamische Breite
 ![Darstellung der Checkboxen, dynamische Breite](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/checkbox/images/Checkbox_dynamic_width_light.png 'class: image')
@@ -134,9 +126,9 @@ Das Element hat folgende Ausprägungen:
 
 
 ##### Design Spezifikation
-*   [Checked](https://sketch.cloud/s/g5ejr/a/Gv5P98#Inspector)
-*   [Unchecked](https://sketch.cloud/s/g5ejr/a/OA53O2#Inspector)
-*   [Tristate](https://sketch.cloud/s/g5ejr/a/mldLEw#Inspector)
-*   [Disabled Checked](https://sketch.cloud/s/g5ejr/a/Dz57ny#Inspector)
-*   [Disabled Unchecked](https://sketch.cloud/s/g5ejr/a/jaWKjD#Inspector)
-*   [Disabled Tristate](https://sketch.cloud/s/g5ejr/a/d4QoDm#Inspector)
+* Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Gv5P98#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EAb0aO#Inspector)
+* Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/OA53O2#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/j103J7#Inspector)
+* Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/mldLEw#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/dAG37l#Inspector)
+* Disabled Checked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Dz57ny#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zJpd2y#Inspector)
+* Disabled Unchecked: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jaWKjD#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZZ0r7J#Inspector)
+* Disabled Tristate: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d4QoDm#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JRbEmz#Inspector)

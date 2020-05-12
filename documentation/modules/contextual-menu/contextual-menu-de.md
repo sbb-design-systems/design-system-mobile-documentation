@@ -20,8 +20,8 @@ Das Modul hat folgende Zustände:
 ![Darstellung des Kontext Menus, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/context-menu-default_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Closed](https://sketch.cloud/s/g5ejr/a/7onnkL#Inspector)
-*   [Open](https://sketch.cloud/s/g5ejr/a/yEllWE#Inspector)
+* Closed: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7onnkL#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/EAaYgg#Inspector)
+* Open: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yEllWE#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/j1Yqxa#Inspector)
 
 ### 4.2 Geteilte Actions
 ![Darstellung des Kontext Menus, Default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/contextual-menu/images/context-menu-segmented_light.png 'class: image')
@@ -29,5 +29,5 @@ Das Modul hat folgende Zustände:
 
 
 #### Design Spezifikation
-*   [Closed](https://sketch.cloud/s/g5ejr/a/7onnkL#Inspector)
-*   [Open](https://sketch.cloud/s/g5ejr/a/91oojQ#Inspector)
+* Closed: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7onnkL#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/EAaYgg#Inspector)
+* Open: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/91oojQ#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/dA5qx2#Inspector)

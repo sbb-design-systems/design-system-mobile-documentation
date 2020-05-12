@@ -26,9 +26,9 @@ Das Element hat folgende Zustände:
 * Anwendung für das Laden von ganzen Seiten
 
 #### Design Spezifikation
-* [Rot](https://sketch.cloud/s/g5ejr/a/EZzzYv#Inspector)
-* [Grau](https://sketch.cloud/s/g5ejr/a/OpWYY8#Inspector)
-* [Weiss](https://sketch.cloud/s/g5ejr/a/m2w00z#Inspector)
+* [Rot](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EZzzYv#Inspector), [Dark]()
+* [Grau](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/OpWYY8#Inspector), [Dark]()
+* [Weiss](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/m2w00z#Inspector), [Dark]()
 
 ### 4.2 Small
 ![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/loading-indicator/images/Loading_indicator_small_light.png 'class: image')
@@ -38,6 +38,6 @@ Das Element hat folgende Zustände:
 * Anwendung innerhalb Listen (Lazy-Loading)
 
 #### Design Spezifikation
-* [Rot](https://sketch.cloud/s/g5ejr/a/DO899q#Inspector)
-* [Grau](https://sketch.cloud/s/g5ejr/a/j2MDD0#Inspector)
-* [Weiss](https://sketch.cloud/s/g5ejr/a/d2WvvZ#Inspector)
+* [Rot](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/DO899q#Inspector), [Dark]()
+* [Grau](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/j2MDD0#Inspector), [Dark]()
+* [Weiss](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d2WvvZ#Inspector), [Dark]()

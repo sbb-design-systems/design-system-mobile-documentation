@@ -19,13 +19,13 @@ Das Modul hat folgende Ausprägungen
 ![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/list/images/List_default_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/EZzzaO#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/1QpwLa#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EZzzaO#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/j1Y5O9#Inspector)
+* Mit Schatten: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1QpwLa#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/j1Y5O9#Inspector)
 
 ### 4.2 ohne Listentitel
 ![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/list/images/List_without_list_header_light.png 'class: image')
 ![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/modules/list/images/List_without_list_header_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Default](https://sketch.cloud/s/g5ejr/a/jakkJ7#Inspector)
-*   [mit Schatten](https://sketch.cloud/s/g5ejr/a/p2MqLr#Inspector)
+* Default: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jakkJ7#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/dA59Z3#Inspector)
+* Mit Schatten [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/p2MqLr#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/v/bLYoOZ/a/dA59Z3#Inspector)

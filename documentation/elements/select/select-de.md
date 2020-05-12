@@ -28,19 +28,19 @@ Das Element hat folgende Zustände:
 ![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_with_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Empty](https://sketch.cloud/s/g5ejr/a/Wy0Rdg#Inspector)
-*   [Value](https://sketch.cloud/s/g5ejr/a/3QM5oD#Inspector)
-*   [Disabled](https://sketch.cloud/s/g5ejr/a/r2n19x#Inspector)
-*   [Expanded multiple value](https://sketch.cloud/s/g5ejr/a/n2nlQW#Inspector)
-*   [Expanded single value](https://sketch.cloud/s/g5ejr/a/QYGaD8#Inspector)
+* Empty: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Wy0Rdg#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Wjw3KA#Inspector)
+* Value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3QM5oD#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3LvEOd#Inspector)
+* Disabled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/r2n19x#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/r7jxbK#Inspector)
+* Expanded multiple value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/n2nlQW#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nKAxRa#Inspector)
+* Expanded single value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QYGaD8#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Qqwybm#Inspector)
 
 ### 4.1 Ohne Icon
 ![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_without_icon_light.png 'class: image')
 ![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/select/images/Select_without_icon_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-*   [Empty](https://sketch.cloud/s/g5ejr/a/xZnb0A#Inspector)
-*   [Value](https://sketch.cloud/s/g5ejr/a/EmMneY#Inspector)
-*   [Disabled](https://sketch.cloud/s/g5ejr/a/j2E740#Inspector)
-*   [Expanded multiple value](https://sketch.cloud/s/g5ejr/a/n2nlQW#Inspector)
-*   [Expanded single value](https://sketch.cloud/s/g5ejr/a/QYGaD8#Inspector)
+* Empty: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xZnb0A#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xz47rW#Inspector)
+* Value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EmMneY#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EA4xLO#Inspector)
+* Disabled: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/j2E740#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/j1Oe47#Inspector)
+* Expanded multiple value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/n2nlQW#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nKAxRa#Inspector)
+* Expanded single value: [Light](https://sketch.cloud/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QYGaD8#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Qqwybm#Inspector)
