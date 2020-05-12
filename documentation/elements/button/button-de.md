@@ -52,7 +52,6 @@ Das Element hat folgende Zustände:
 #### Design Spezifikation
 * Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZwKK5Y#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Lp1a14#Inspector)
 * Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JGPPp0#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7Px8xp#Inspector)
-
 * Disabled: Button ausblenden
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
