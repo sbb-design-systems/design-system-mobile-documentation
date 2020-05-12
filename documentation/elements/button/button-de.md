@@ -27,10 +27,10 @@ Das Element hat folgende Zustände:
 * Der Primary Button nutzt die volle Breite des verfügbaren Platzes, abzüglich 16px Padding
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZwKK5a#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/RL3Rb8#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JGPPp7#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1wl8zb#Inspector)
-* [Disabled, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vwEEvn#Inspector) [Disabled, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/pq5mo0#Inspector)
-* [Loading, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/40mmbq#Inspector) [Loading, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/VP89Yl#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZwKK5a#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/RL3Rb8#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JGPPp7#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/1wl8zb#Inspector)
+* Disabled: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vwEEvn#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/pq5mo0#Inspector)
+* Loading: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/40mmbq#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/VP89Yl#Inspector)
 
 ### 4.2. Secondary Button
 ![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Secondary_light.png 'class: image')
@@ -38,10 +38,10 @@ Das Element hat folgende Zustände:
 * Der Secondary Button nutzt die volle Breite des verfügbaren Platzes, abzüglich 16px Padding
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/eeggqx#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Yz87rE#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/GvJJpv#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/K1wDLV#Inspector)
-* [Disabled, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/OA00Pp#Inspector) [Disabled, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wdMoM9#Inspector)
-* [Loading, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ml88q9#Inspector) [Loading, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/qL5E5e#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/eeggqx#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Yz87rE#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/GvJJpv#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/K1wDLV#Inspector)
+* Disabled: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/OA00Pp#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/wdMoM9#Inspector)
+* Loading: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ml88q9#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/qL5E5e#Inspector)
 
 ### 4.3. Tertiary Button
 #### 4.3.1. Large
@@ -50,8 +50,8 @@ Das Element hat folgende Zustände:
 * Der Tertiary Button kann sowohl auf die volle Breite des verfügbaren Platzes dargestellt (abzüglich 16px Padding), als auf den benötigten Platz beschränkt werden.
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZwKK5Y#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Lp1a14#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JGPPp0#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7Px8xp#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/ZwKK5Y#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Lp1a14#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/JGPPp0#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/7Px8xp#Inspector)
 
 * Disabled: Button ausblenden
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
@@ -62,8 +62,8 @@ Das Element hat folgende Zustände:
 * Die Breite des Buttons definiert sich durch die Länge des Textes, eine Verbreiterung ist nicht erlaubt.
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vwEEve#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yZMxML#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/40mmbz#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/9d080W#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/vwEEve#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/yZMxML#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/40mmbz#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/9d080W#Inspector)
 * Disabled: Button ausblenden
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
@@ -73,9 +73,9 @@ Das Element hat folgende Zustände:
 ![Darstellung des Icon Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Large_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Dzddqa#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/PwMkMx#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jakkq9#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/gk5d5g#Inspector)
-* [Disabled, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nkwDpk#Inspector) [Disabled, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8j0b0Y#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Dzddqa#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/PwMkMx#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jakkq9#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/gk5d5g#Inspector)
+* Disabled: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/nkwDpk#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/8j0b0Y#Inspector)
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
 #### 4.4.2. Small
@@ -85,8 +85,8 @@ Das Element hat folgende Zustände:
 * Bei enthaltenen Icon ist darauf zu achten, dass es den Rand des Kreises nicht berührt.
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QlW1vY#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2qlnlG#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xL5Qpm#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MV8A8W#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/QlW1vY#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/2qlnlG#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/xL5Qpm#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/MV8A8W#Inspector)
 * Disabled: Button ausblenden
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
@@ -96,8 +96,8 @@ Das Element hat folgende Zustände:
 * Die Rahmen rund um den Button werden durch das Formular bestimmt. Beispiel anzeigen
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d4kkq3#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5yR8RW#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zjllO4#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bDGQGZ#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/d4kkq3#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/5yR8RW#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/zjllO4#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/bDGQGZ#Inspector)
 * Disabled: Button ausblenden
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
 
@@ -109,7 +109,7 @@ Das Element hat folgende Zustände:
 ![Darstellung des Icon Buttons mit Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/elements/button/images/Button_Icon_Text_dark.png 'class: image dark hide')
 
 #### Design Spezifikation
-* [Default, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EZWGbA#Inspector) [Default, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Wj2b22#Inspector)
-* [Pressed, Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jaMr09#Inspector) [Pressed, Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3LW8Wj#Inspector)
+* Default: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/EZWGbA#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/Wj2b22#Inspector)
+* Pressed: [Light](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/jaMr09#Inspector), [Dark](https://www.sketch.com/s/2fde3a36-55c2-4a07-bf8a-d986ae1eb67d/a/3LW8Wj#Inspector)
 * Disabled: Button ausblenden
 * Loading: Dieser Zustand ist bei dieser Variante nicht vorgesehen
