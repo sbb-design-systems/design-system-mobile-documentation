@@ -80,7 +80,7 @@
 
 ### <a name="extrasmall"></a>Extra Small
 #### Light
-![Darstellung des Primary Button Stils](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/typography/images/typography_extra_small_bold.png 'class: image')
+![Darstellung des Primary Button Stils](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/redesign/documentation/basics/typography/images/typography_extra_small_light.png 'class: image')
 * Schrift: SBB Light
 * Grösse: 12px
 * Zeilenabstand: 20px
