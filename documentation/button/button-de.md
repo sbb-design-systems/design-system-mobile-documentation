@@ -32,10 +32,8 @@ Das Element hat folgende Zustände:
 #### 4.3.1. Frei
 ![Darstellung des Icon Buttons frei](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/ME10_Icon_Free.png 'class: image')
 
-
 #### 4.3.2. In Formularen
 ![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/ME10_Icon_Form.png 'class: image')
-
 
 ### 4.4. Frameless Primary Button
 #### 4.4.1. Large
@@ -52,7 +50,6 @@ Das Element hat folgende Zustände:
 
 #### 4.5.1. Large
 ![Darstellung des Frameless Secondary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/ME10_Frameless_Secondary_Large.png 'class: image')
-
 
 #### 4.5.2. Small
 ![Darstellung des Frameless Secondary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/ME10_Frameless_Secondary_Small.png 'class: image')

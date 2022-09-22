@@ -17,9 +17,6 @@ Das Modul hat folgende Ausprägungen
 ### 4.1 Standard
 ![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_mit_Titel.png 'class: image')
 
-### Design Spezifikation
-[Figma-Link]()
-
 ### 4.2 ohne Listentitel
 ![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_ohne_Titel.png 'class: image')
 
