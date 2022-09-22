@@ -24,7 +24,7 @@ Das Element hat folgende Zustände:
 *   Error
 
 ### 4.1 Standard
-![Darstellung des Textarea Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/textarea/images/ME15_Default.png 'class: image')
+![Darstellung des Textarea Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/textarea/images/ME15_Default.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=76%3A10239)

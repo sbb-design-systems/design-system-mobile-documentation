@@ -21,18 +21,18 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Startseite mit Menü-Icon
-![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image')
+![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image light')
 
 *   Darf ausschliesslich auf der Startseite eingesetzt werden.
 
 ### 4.2 Mit Pfeil nach links
-![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Back.png 'class: image')
+![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Back.png 'class: image light')
 
 *   Wird verwendet wenn innerhalb von Hierarchiestufen navigiert wird.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von links nach rechts animiert.
 
 ### 4.3 Mit Schliessen-Icon
-![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Close.png 'class: image')
+![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Close.png 'class: image light')
 
 *   Wird verwendet wenn nicht in die Tiefe navigiert wird. z.B. im Menü.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von unten nach oben animiert.

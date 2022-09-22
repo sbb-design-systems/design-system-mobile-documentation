@@ -13,7 +13,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/MM05.png 'class: image')
+![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/MM05.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A16488)

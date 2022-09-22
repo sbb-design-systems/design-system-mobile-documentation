@@ -15,7 +15,7 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
  
 ### 4.1 Standard 
-![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/notification/images/MM04.png 'class: image')
+![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/notification/images/MM04.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A14345)

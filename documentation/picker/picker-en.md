@@ -20,13 +20,13 @@ The element has the following statuses:
 *   Aktiv
 
 ### 4.1 Simple
-![Image of datepicker, simple](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Einfach.png 'class: image')
+![Image of datepicker, simple](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Einfach.png 'class: image light')
 
 ### 4.2 Combined
-![Image of datepicker, combined](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Mehrfach.png 'class: image')
+![Image of datepicker, combined](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Mehrfach.png 'class: image light')
 
 ### 4.3 Inline
-![Image of datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Inline.png 'class: image')
+![Image of datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Inline.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=58%3A7021)

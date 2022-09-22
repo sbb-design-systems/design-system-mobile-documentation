@@ -27,7 +27,7 @@ Das Element hat folgende Zustände:
 *   Expanded
 
 ### 4.1 Standard
-![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/ME16_Default.png 'class: image')
+![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/ME16_Default.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=74%3A7358)

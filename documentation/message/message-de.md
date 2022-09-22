@@ -12,11 +12,11 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Fehlerdialog
-![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Dialog.png 'class: image')
+![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Dialog.png 'class: image light')
 
 ### 4.2 Fehlermeldung inline
-![Darstellung von Fehlermeldungen, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Liste.png 'class: image')
-![Darstellung von Fehlermeldungen, Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Fullscreen.png 'class: image')
+![Darstellung von Fehlermeldungen, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Liste.png 'class: image light')
+![Darstellung von Fehlermeldungen, Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Fullscreen.png 'class: image light')
 
 Zustände:
 *   Vollflächig

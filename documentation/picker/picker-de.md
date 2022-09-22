@@ -20,13 +20,13 @@ Das Element hat folgende Zustände:
 *   Aktiv
 
 ### 4.1 Einfach
-![Darstellung Datepicker, einfach](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Einfach.png 'class: image')
+![Darstellung Datepicker, einfach](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Einfach.png 'class: image light')
 
 ### 4.2 Kombiniert
-![Darstellung Datepicker, kombiniert](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Mehrfach.png 'class: image')
+![Darstellung Datepicker, kombiniert](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Mehrfach.png 'class: image light')
 
 ### 4.3 Inline
-![Darstellung Datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Inline.png 'class: image')
+![Darstellung Datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Inline.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=58%3A7021)

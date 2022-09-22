@@ -19,12 +19,12 @@ Das Element hat folgende Zustände:
 *   Unchecked
 
 ### 4.1 Segmented Button
-![Darstellung des Segmented Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Text.png 'class: image')
+![Darstellung des Segmented Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Text.png 'class: image light')
 
 *   Der Text ist immer einzeilig.
 
 ### 4.2 Segmented Icon Button
-![Darstellung des Segmented Icon Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image')
+![Darstellung des Segmented Icon Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=12%3A2073)

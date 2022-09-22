@@ -17,18 +17,18 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Homepage with menu icon
-![Image of the header with menu icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image')
+![Image of the header with menu icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image light')
 
 *   Can only be used on the homepage. 
 
 ### 4.2 With arrow to the left
-![Image of the header with an arrow to the left](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Back.png 'class: image')
+![Image of the header with an arrow to the left](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Back.png 'class: image light')
 
 *   Is used when navigating within hierarchical levels.
 *   The display of the function/page selected is animated from left to right. 
 
 ### 4.3 With close icon
-![Image of the header with a close icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Close.png 'class: image')
+![Image of the header with a close icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Close.png 'class: image light')
 
 *   Is used when not navigating in greater depth. e.g. in the menu.
 *   The display of the function/page selected is animated from the bottom upwards.

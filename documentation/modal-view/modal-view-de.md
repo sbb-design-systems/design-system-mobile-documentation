@@ -23,7 +23,7 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Standard
-![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/MM03.png 'class: image')
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/MM03.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=25%3A8074)

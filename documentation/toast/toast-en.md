@@ -16,7 +16,7 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
  
 ### 4.1 Standard
-![Image of the toast message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/MM05.png 'class: image')
+![Image of the toast message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/MM05.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A16488)

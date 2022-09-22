@@ -27,7 +27,7 @@ The element has the following statuses:
 *   Expanded
 
 ### 4.1 Standard
-![Image of the select field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/ME16_Default.png 'class: image')
+![Image of the select field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/ME16_Default.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=74%3A7358)

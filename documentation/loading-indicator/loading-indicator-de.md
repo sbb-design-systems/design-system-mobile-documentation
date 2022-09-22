@@ -16,12 +16,12 @@
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Normal
-![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Normal.png 'class: image')
+![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Normal.png 'class: image light')
 * Anwendung für das Laden von ganzen Seiten
 
 
 ### 4.2 Small
-![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Small.png 'class: image')
+![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Small.png 'class: image light')
 
 * Anwendung innerhalb Listen (Lazy-Loading)
 

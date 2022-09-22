@@ -17,7 +17,7 @@
 
 
 ### 4.1 Standard
-![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/brand/images/ME04_Signet.png 'class: image')
+![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/brand/images/ME04_Signet.png 'class: image light')
 
 
 ### Design Specification

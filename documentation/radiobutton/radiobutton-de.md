@@ -31,12 +31,12 @@ Das Element hat folgende Ausprägungen:
 *   horizontal ausgerichtet
 
 ### 4.1 Vertikale Anordnung
-![Darstellung der Radiobuttons, vertikale Anordnung, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_default.png 'class: image')
+![Darstellung der Radiobuttons, vertikale Anordnung, mit Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_default.png 'class: image light')
 
-![Darstellung der Radiobuttons, vertikale Anordnung, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image')
+![Darstellung der Radiobuttons, vertikale Anordnung, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image light')
 
 ### 4.2 Horizontale Anordnung
-![Darstellung der Radiobuttons, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image')
+![Darstellung der Radiobuttons, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A6107)

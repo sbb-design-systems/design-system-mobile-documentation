@@ -18,12 +18,12 @@ The element has the following statuses:
 *   Unchecked
 
 ### 4.1 Segmented button
-![Image of the segmented button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Text.png 'class: image')
+![Image of the segmented button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Text.png 'class: image light')
 
 *   The text is always single-line.
 
 ### 4.2 Segmented icon button
-![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image')
+![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=12%3A2073)

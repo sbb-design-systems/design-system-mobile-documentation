@@ -7,7 +7,7 @@
 ## 3. Regeln
 *   Die Liste enthält Elemente gemäss der Beschreibung unter [Listen-Eintrag](https://digital.sbb.ch/de/mobile/elemente/listen-eintrag). 
 
-## 4. Ausprägungen und Zustände
+## 4. Ausprägungen
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
@@ -19,10 +19,10 @@ Das Modul hat folgende Ausprägungen
 * mit Titel,  Icon,  Funktion,  Checkbox
 
 ### 4.1 Standard
-![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_mit_Titel.png 'class: image')
+![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_mit_Titel.png 'class: image light')
 
 ### 4.2 ohne Listentitel
-![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_ohne_Titel.png 'class: image')
+![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_ohne_Titel.png 'class: image light')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=29%3A6608)

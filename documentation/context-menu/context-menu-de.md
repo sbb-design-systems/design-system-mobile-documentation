@@ -18,14 +18,14 @@ Das Modul hat folgende Zustände:
 *   Open
 
 ### 4.1 Im Modul
-![Darstellung des Kontext Menus, im Modul](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_in_Modulen.png 'class: image')
+![Darstellung des Kontext Menus, im Modul](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_in_Modulen.png 'class: image light')
 
-![](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image light')
 
 *   Die Breite des Kontextmenüs ist abhängig von der Länge der Einträge.
 
 ### 4.2 Auf Seiten
-![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_auf_Seiten.png 'class: image')
+![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_auf_Seiten.png 'class: image light')
 
 *   Das Kontextmenü verwendet die ganze Breite des Screens.
 *   Das Menü drückt Seiteninhalt weg.

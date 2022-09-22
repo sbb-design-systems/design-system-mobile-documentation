@@ -9,11 +9,11 @@
 
 ## 4. Features
 ### 4.1 Error dialogue 
-![Image of the error dialogue](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Dialog.png 'class: image')
+![Image of the error dialogue](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Dialog.png 'class: image light')
 
 ### 4.2 Error message inline
-*   ![Image of the error message inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Liste.png 'class: image')
-*   ![Image of the error message fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Fullscreen.png 'class: image')
+*   ![Image of the error message inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Liste.png 'class: image light')
+*   ![Image of the error message fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Fullscreen.png 'class: image light')
 
 Statuses:
 *   Full area 

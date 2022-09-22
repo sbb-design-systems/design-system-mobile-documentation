@@ -20,19 +20,19 @@ The element has the following statuses:
 *   On-Swipe-to-right (optional)
 
 ### 4.1 Standard (display only)
-![Image of the list entry, standard (display only)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Standard.png 'class: image')
+![Image of the list entry, standard (display only)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Standard.png 'class: image light')
 
 
 ### 4.2 With icon
-![Image of the list entry, with icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Icon.png 'class: image')
+![Image of the list entry, with icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Icon.png 'class: image light')
 
 
 ### 4.3 With function
-![Image of list entry, with function](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Funktion.png 'class: image')
+![Image of list entry, with function](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Funktion.png 'class: image light')
 
 
 ### 4.4 With selection
-![Image of the list entry, with selection](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Selektion.png 'class: image')
+![Image of the list entry, with selection](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Selektion.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=28%3A2540)

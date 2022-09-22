@@ -30,11 +30,11 @@ The element has the following variants:
 *   horizontal layout
 
 ### 4.1 Vertical layout
-![Image of the radio buttons, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_default.png 'class: image')
-![Image of the radio buttons, vertical layout, without info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image')
+![Image of the radio buttons, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_default.png 'class: image light')
+![Image of the radio buttons, vertical layout, without info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image light')
 
 ### 4.2 Horizontal layout
-![Image of the radio buttons, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image')
+![Image of the radio buttons, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image light')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A6107)
