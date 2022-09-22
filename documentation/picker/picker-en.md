@@ -17,19 +17,19 @@ The element has the following statuses:
 *   Aktiv
 
 ### 4.1 Simple
-![Image of datepicker, simple](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/date-picker/images/ME17_Einfach.png 'class: image')
+![Image of datepicker, simple](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Einfach.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166998/inspect)
 
 ### 4.2 Combined
-![Image of datepicker, combined](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/date-picker/images/ME17_Mehrfach.png 'class: image')
+![Image of datepicker, combined](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Mehrfach.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166999/inspect)
 
 ### 4.3 Inline
-![Image of datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/date-picker/images/ME17_Inline.png 'class: image')
+![Image of datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Inline.png 'class: image')
 
 #### Design Specification
 *   [Inaktiv](https://sbb.invisionapp.com/d/main#/console/14051805/313170341/inspect)
