@@ -15,5 +15,5 @@
 ### 4.1 Standard
 ![Image of the toast message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/MM05.png 'class: image')
 
-#### Design Specification
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943548/inspect)
+### Design Spezifikation
+[Figma-Link]()

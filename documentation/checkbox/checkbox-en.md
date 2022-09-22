@@ -14,12 +14,12 @@
 
 ## 4. Features and statuses
 The element has the following statuses:
-*   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166973/inspect)
-*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166978/inspect)
-*   [Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166976/inspect)
-*   [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166974/inspect)
-*   [Disbaled Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166977/inspect)
-*   [Disabled Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166975/inspect)
+*   Checked
+*   Unchecked
+*   Tristate
+*   Disabled Checked
+*   Disbaled Unchecked
+*   Disabled Tristate
 
 The element has the following features:
 
@@ -34,15 +34,8 @@ The element has the following features:
 
 ![Image of the checkboxes, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
-#### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
-*   [Default (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
-*   [Disabled (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166982/inspect)
-
 ### 4.2 Horizontal layout
 ![Image of the checkboxes, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Horizontal.png 'class: image')
 
-#### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166971/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166972/inspect)
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A3356)

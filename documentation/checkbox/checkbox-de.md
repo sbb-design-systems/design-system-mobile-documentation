@@ -13,12 +13,12 @@
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
-*   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166973/inspect)
-*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166978/inspect)
-*   [Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166976/inspect)
-*   [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166974/inspect)
-*   [Disbaled Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166977/inspect)
-*   [Disabled Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166975/inspect)
+*   Checked
+*   Unchecked
+*   Tristate
+*   Disabled Checked
+*   Disbaled Unchecked
+*   Disabled Tristate
 
 Das Element hat folgende Ausprägungen:
 *   mit Info (nur bei vertikaler Ausrichtung)
@@ -31,17 +31,8 @@ Das Element hat folgende Ausprägungen:
 
 ![Darstellung der Checkboxen, vertikale Anordnung, mit Infos](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
-
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
-*   [Default (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
-*   [Disabled (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166982/inspect)
-
 ### 4.2 Horizontale Anordnung
 ![Darstellung der Checkboxen, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Horizontal.png 'class: image')
 
-
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166971/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166972/inspect)
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A3356)

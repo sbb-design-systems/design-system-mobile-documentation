@@ -19,11 +19,9 @@ Das Element hat folgende Zustände:
 
 *   Der Text ist immer einzeilig.
 
-#### Design Spezifikation
-*   [Icon](https://sbb.invisionapp.com/d/main#/console/14051805/313166960/inspect)
-
 ### 4.2 Segmented Icon Button
 ![Darstellung des Segmented Icon Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image')
 
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166959/inspect)
+
+### Design Spezifikation
+[Figma-Link]()

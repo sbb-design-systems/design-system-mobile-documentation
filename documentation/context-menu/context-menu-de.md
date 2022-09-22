@@ -20,17 +20,11 @@ Das Modul hat folgende Zustände:
 
 *   Die Breite des Kontextmenüs ist abhängig von der Länge der Einträge.
 
-#### Design Spezifikation
-*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943565/inspect)
-*   [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
-
 ### 4.2 Auf Seiten
 ![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_auf_Seiten.png 'class: image')
 
 *   Das Kontextmenü verwendet die ganze Breite des Screens.
 *   Das Menü drückt Seiteninhalt weg.
 
-#### Design Spezifikation
-*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943567/inspect)
-*   [Open (einteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943568/inspect)
-*   [Open (zweiteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943569/inspect)
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A10433)

@@ -30,15 +30,8 @@ The element has the following variants:
 ![Image of the radio buttons, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_default.png 'class: image')
 ![Image of the radio buttons, vertical layout, without info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image')
 
-#### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166967/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166968/inspect)
-*   [Default (without info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166969/inspect)
-*   [Disabled (without info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166970/inspect)
-
 ### 4.2 Horizontal layout
 ![Image of the radio buttons, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image')
 
-#### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166961/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166962/inspect)
+### Design Spezifikation
+[Figma-Link]()

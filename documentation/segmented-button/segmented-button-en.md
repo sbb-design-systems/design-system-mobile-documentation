@@ -19,11 +19,8 @@ The element has the following statuses:
 
 *   The text is always single-line.
 
-#### Design Specification
-*   [Icon](https://sbb.invisionapp.com/d/main#/console/14051805/313166960/inspect)
-
 ### 4.2 Segmented icon button
 ![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image')
 
-#### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166959/inspect)
+### Design Spezifikation
+[Figma-Link]()

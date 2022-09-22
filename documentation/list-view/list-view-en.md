@@ -17,17 +17,11 @@ The module has the following variants
 ### 4.1 Standard
 ![Image of List items with title](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_mit_Titel.png 'class: image')
 
-#### Design Specification 
-*   [with title](https://sbb.invisionapp.com/d/main#/console/14051805/322943585/inspect)
-*   [with title, icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943586/inspect)
-*   [with title, icon, function](https://sbb.invisionapp.com/d/main#/console/14051805/322943587/inspect)
-*   [with title, icon, function, checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943588/inspect)
+### Design Spezifikation
+[Figma-Link]()
 
 ### 4.2 Without list title
 ![Image of List items without title](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_ohne_Titel.png 'class: image')
 
-#### Design Specification
-*   [with title](https://sbb.invisionapp.com/d/main#/console/14051805/322943581/inspect)
-*   [with title, icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943582/inspect)
-*   [with title, icon, function](https://sbb.invisionapp.com/d/main#/console/14051805/322943583/inspect)
-*   [with title, icon, function, checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943584/inspect)
+### Design Spezifikation
+[Figma-Link]()

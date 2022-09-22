@@ -23,8 +23,5 @@ Das Element hat folgende Zustände:
 ### 4.1 Standard
 ![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/text-input/images/ME14_Default.png 'class: image')
 
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166986/inspect)
-*   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166988/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166985/inspect)
-*   [Error](https://sbb.invisionapp.com/d/main#/console/14051805/313166987/inspect)
+### Design Spezifikation
+[Figma-Link]()

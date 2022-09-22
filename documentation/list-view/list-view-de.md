@@ -17,17 +17,11 @@ Das Modul hat folgende Ausprägungen
 ### 4.1 Standard
 ![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_mit_Titel.png 'class: image')
 
-#### Design Spezifikation
-*   [Mit Titel](https://sbb.invisionapp.com/d/main#/console/14051805/322943585/inspect)
-*   [Mit Titel,  Icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943586/inspect)
-*   [Mit Titel,  Icon,  Funktion](https://sbb.invisionapp.com/d/main#/console/14051805/322943587/inspect)
-*   [Mit Titel,  Icon,  Funktion,  Checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943588/inspect)
+### Design Spezifikation
+[Figma-Link]()
 
 ### 4.2 ohne Listentitel
 ![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_ohne_Titel.png 'class: image')
 
-#### Design Spezifikation
-*   [Mit Titel](https://sbb.invisionapp.com/d/main#/console/14051805/322943581/inspect)
-*   [Mit Titel,  Icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943582/inspect)
-*   [Mit Mit Titel,  Icon,  Funktion](https://sbb.invisionapp.com/d/main#/console/14051805/322943583/inspect)
-*   [Mit Titel,  Icon,  Funktion,  Checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943584/inspect)
+### Design Spezifikation
+[Figma-Link]()
