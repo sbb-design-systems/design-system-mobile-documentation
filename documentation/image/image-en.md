@@ -9,9 +9,6 @@
 *   Images should generally be used sparingly.
 
 ## 4. Variants and statuses
-
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 A distinction is made between the following image styles:
 *   Photography
 *   Illustration
