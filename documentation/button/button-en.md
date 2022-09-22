@@ -36,7 +36,7 @@ The element has the following statuses:
 *   Full width of the screen or modal dialogue (minus spacing).
 
 ### 4.3. Tertiary
-#### 4.3.1. Label und Icon
+#### 4.3.1. Label and icon
 ![Darstellung des Tertiary Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-label-and-icon-light.png 'class: image light')
 ![Darstellung des Tertiary Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-label-and-icon-dark.png 'class: image dark hide')
 
@@ -49,7 +49,7 @@ The element has the following statuses:
 ![Darstellung des Tertiary Buttons mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-icon-dark.png 'class: image dark hide')
 
 ### 4.4. Tertiary small
-#### 4.4.1. Label und Icon
+#### 4.4.1. Label and icon
 ![Darstellung des Tertiary Small Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-and-icon-light.png 'class: image light')
 ![Darstellung des Tertiary Small Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-and-icon-dark.png 'class: image dark hide')
 
@@ -61,5 +61,5 @@ The element has the following statuses:
 ![Darstellung des Tertiary Small Buttons mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-icon-light.png 'class: image light')
 ![Darstellung des Tertiary Small Buttons mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-icon-dark.png 'class: image dark hide')
 
-### Design Spezifikation
+### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=2%3A429)
