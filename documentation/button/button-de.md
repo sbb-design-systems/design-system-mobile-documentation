@@ -31,7 +31,7 @@ Das Element hat folgende Zustände:
 
 ### 4.2. Secondary
 ![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Secondary-light.png 'class: image light')
-![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Secondary-light.png 'class: image dark hide')
+![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Secondary-dark.png 'class: image dark hide')
 *   Ganze Breite des Screens oder des modalen Dialogs (abzüglich Abstand).
 
 ### 4.3. Tertiary

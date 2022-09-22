@@ -50,8 +50,8 @@ The element has the following statuses:
 
 ### 4.4. Tertiary small
 #### 4.4.1. Label und Icon
-![Darstellung des Tertiary Small Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-and-icon-dark.png 'class: image light')
-![Darstellung des Tertiary Small Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-and-icon-light.png 'class: image dark hide')
+![Darstellung des Tertiary Small Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-and-icon-light.png 'class: image light')
+![Darstellung des Tertiary Small Buttons mit Label und Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-and-icon-dark.png 'class: image dark hide')
 
 #### 4.4.2. Label
 ![Darstellung des Tertiary Small Buttons mit Label](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/button/images/Tertiary-small-label-light.png 'class: image light')
