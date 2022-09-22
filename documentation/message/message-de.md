@@ -8,6 +8,9 @@
 *   Für Fehleingaben werden Feldvalidierungen (z.B. beim [Eingabefeld](https://digital.sbb.ch/mobile/elemente/eingabefeld)) verwendet, nicht die Fehlermeldung.
 
 ## 4. Ausprägungen
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Fehlerdialog
 ![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Dialog.png 'class: image')
 

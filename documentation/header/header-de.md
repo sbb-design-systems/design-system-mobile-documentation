@@ -12,7 +12,14 @@
 *   Titel beschreibt den Inhalt der Funktion/Seite.
 *   Das Signet verlinkt auf die Startseite.
 
+
+
 ## 4. Ausprägungen
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Startseite mit Menü-Icon
 ![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image')
 

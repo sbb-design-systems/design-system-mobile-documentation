@@ -7,7 +7,11 @@
 ## 3. Regeln
 *   Die Liste enthält Elemente gemäss der Beschreibung unter [Listen-Eintrag](https://digital.sbb.ch/de/mobile/elemente/listen-eintrag). 
 
-## 4. Ausprägungen
+## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 Das Modul hat folgende Ausprägungen
 * Mit Titel
 * mit Titel,  Icon

@@ -10,6 +10,10 @@
 *   Grundsätzlich soll mit Bildern sparsam umgegangen werden.
 
 ## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 Bei Bildern werden folgende Stile unterschieden:
 *   Fotografie
 *   Illustration

@@ -14,6 +14,10 @@
 *   Je nach Typ des Eingabefelds muss der richtige Typ der Tastatur gewählt werden (Default, E-Mail, URL, Phone)
 
 ## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 Das Element hat folgende Zustände:
 *   Empty
 *   Value

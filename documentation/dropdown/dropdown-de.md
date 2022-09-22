@@ -15,6 +15,10 @@
 *   Wenn noch keine Auswahl getroffen wurde, wird das Label angezeigt.
 
 ## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 Das Element hat folgende Zustände:
 *   Empty
 *   Value

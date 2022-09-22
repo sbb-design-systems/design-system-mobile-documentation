@@ -7,7 +7,10 @@
 ## 3. Rules
 *   The list contains elements as per the description under [list item](https://digital.sbb.ch/en/mobile/elements/listen-item). 
 
-## 4. Variants 
+## 4. Variants
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+ 
 The module has the following variants 
 * with title 
 * with title, icon 

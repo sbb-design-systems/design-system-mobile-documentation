@@ -9,6 +9,10 @@
 *   Die Menüeinträge beinhalten immer ein Icon und einen Text.
 
 ## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 Das Modul hat folgende Zustände:
 *   Closed
 *   Open

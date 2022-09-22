@@ -8,7 +8,10 @@
 *   The context menu must have at least two functions. 
 *   The menu entries always have an icon and a text.
 
-## 4. Variants and statuses 
+## 4. Variants and statuses
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+ 
 The module has the following statuses:
 *   Closed
 *   Open

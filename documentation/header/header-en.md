@@ -13,6 +13,9 @@
 *   The signet is linked to the homepage.
 
 ## 4. Variants
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Homepage with menu icon
 ![Image of the header with menu icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image')
 

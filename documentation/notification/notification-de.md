@@ -11,6 +11,9 @@
 *   Es wird die Standard-Notification des jeweiligen Systems verwendet.
 
 ## 4. Ausprägungen
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Standard
 ![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/notification/images/MM04.png 'class: image')
 

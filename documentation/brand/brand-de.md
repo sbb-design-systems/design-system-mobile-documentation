@@ -10,7 +10,11 @@
 *   Abwandlungen des Signets sind nicht erlaubt.
 *   Das Signet ist immer verlinkt mit der Startseite der App.
 
-## 4. Ausprägungen
+## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 
 ### 4.1 Standard
 ![Darstellung des Standard Signets](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/brand/images/ME04_Signet.png 'class: image')

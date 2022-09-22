@@ -10,6 +10,9 @@
 *   The setting option must be clearly named using a label on the left.
 
 ## 4. Variants and statuses
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 The element has the following statuses: 
 * on
 * off

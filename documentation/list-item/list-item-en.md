@@ -10,6 +10,9 @@
 *   Swipe-to-left is used for the first function and swipe-to-right is used for the second function.
 
 ## 4. Variants and statuses
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 The element has the following statuses: 
 *   Normal
 *   Pressed

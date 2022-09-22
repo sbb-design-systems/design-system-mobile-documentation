@@ -13,6 +13,9 @@
 
 
 ## 4. Variants
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Normal
 ![Image of the loading indicator, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Normal.png 'class: image')
 * Use for loading entire pages

@@ -10,7 +10,10 @@
 *   Clicking on the notification takes the user directly to the relevant page in the app. 
 *   The standard notification of the system concerned is used.
 
-## 4. Variants 
+## 4. Variants
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+ 
 ### 4.1 Standard 
 ![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/notification/images/MM04.png 'class: image')
 

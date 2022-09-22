@@ -13,6 +13,9 @@
 *   If the text is longer than the basic height of the text area, the text already entered shifts upwards. The text area maintains its original size.
 
 ## 4. Variants and statuses
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 The element has the following statuses: 
 *   Empty
 *   Value

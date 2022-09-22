@@ -14,6 +14,10 @@
 *   Secondary und Tertiary Buttons dürfen nur eingesetzt werden, wenn bereits ein Primary Button vorhanden ist.
 
 ## 4. Ausprägungen und Zustände
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
+
 Das Element hat folgende Zustände:
 *   Normal
 *   Pressed
