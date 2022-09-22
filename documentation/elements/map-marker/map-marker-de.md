@@ -16,7 +16,7 @@ Das Element hat folgende Zustände:
 *   Schwarz
 
 ### 4.1 Standard
-![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/map-marker/images/ME23_Standard.png 'class: image')
+![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/map-marker/images/ME23_Standard.png 'class: image')
 
 #### Design Spezifikation
 *   [Blau](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)

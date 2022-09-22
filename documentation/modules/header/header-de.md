@@ -14,7 +14,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Startseite mit Menü-Icon
-![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/header/images/MM01_Startseite.png 'class: image')
+![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/header/images/MM01_Startseite.png 'class: image')
 
 *   Darf ausschliesslich auf der Startseite eingesetzt werden.
 
@@ -23,7 +23,7 @@
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943538/inspect)
 
 ### 4.2 Mit Pfeil nach links
-![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/header/images/MM01_Back.png 'class: image')
+![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/header/images/MM01_Back.png 'class: image')
 
 *   Wird verwendet wenn innerhalb von Hierarchiestufen navigiert wird.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von links nach rechts animiert.
@@ -33,7 +33,7 @@
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943540/inspect)
 
 ### 4.3 Mit Schliessen-Icon
-![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/header/images/MM01_Close.png 'class: image')
+![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/header/images/MM01_Close.png 'class: image')
 
 *   Wird verwendet wenn nicht in die Tiefe navigiert wird. z.B. im Menü.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von unten nach oben animiert.

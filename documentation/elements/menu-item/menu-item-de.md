@@ -17,14 +17,14 @@ Das Element hat folgende Zustände:
 *   Pressed
 
 ### 4.1 Standard
-![Darstellung des Menu Eintrags, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/menu-item/images/ME18_Standard.png 'class: image')
+![Darstellung des Menu Eintrags, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/menu-item/images/ME18_Standard.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167006/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167007/inspect)
 
 ### 4.2 Mit Passwortschutz
-![Darstellung des Menu Eintrags, mit Passwortschutz](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
+![Darstellung des Menu Eintrags, mit Passwortschutz](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
 
 
 Zusätzliche Zustände
@@ -38,7 +38,7 @@ Zusätzliche Zustände
 *   [Entsperrt Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167004/inspect)
 
 ### 4.3 Kategorie
-![Darstellung des Menu Eintrags, Kategorie](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/menu-item/images/ME18_Kategorie.png 'class: image')
+![Darstellung des Menu Eintrags, Kategorie](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/menu-item/images/ME18_Kategorie.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167000/inspect)

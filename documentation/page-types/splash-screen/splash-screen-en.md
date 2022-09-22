@@ -6,7 +6,7 @@
 
 ## 3. Variants 
 ### 3.1 Standard
-![Image of a splash screen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/page-types/splash-screen/images/MS01.png 'class: image')
+![Image of a splash screen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/page-types/splash-screen/images/MS01.png 'class: image')
 
 #### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023907/inspect)

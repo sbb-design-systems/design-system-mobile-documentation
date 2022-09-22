@@ -14,14 +14,14 @@
 ## 4. Ausprägungen
 
 ### 4.1 Normal
-![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/loading-indicator/images/ME08_Normal.png 'class: image')
+![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/loading-indicator/images/ME08_Normal.png 'class: image')
 * Anwendung für das Laden von ganzen Seiten
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
 
 ### 4.2 Small
-![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/loading-indicator/images/ME08_Small.png 'class: image')
+![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/loading-indicator/images/ME08_Small.png 'class: image')
 
 * Anwendung innerhalb Listen (Lazy-Loading)
 

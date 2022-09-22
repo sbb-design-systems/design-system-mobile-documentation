@@ -15,7 +15,7 @@
 
 ## 4. Variants
 ### 4.1 Standard
-![Image of the tiles in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/card/images/ME20_Standard.png 'class: image')
+![Image of the tiles in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/card/images/ME20_Standard.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)

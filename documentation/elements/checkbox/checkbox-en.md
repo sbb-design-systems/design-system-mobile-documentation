@@ -30,9 +30,9 @@ The element has the following features:
 
 
 ### 4.1 Vertical layout
-![Image of the checkboxes, vertical layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/checkbox/images/ME13_Vertikal_default.png 'class: image')
+![Image of the checkboxes, vertical layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/checkbox/images/ME13_Vertikal_default.png 'class: image')
 
-![Image of the checkboxes, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
+![Image of the checkboxes, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
@@ -41,7 +41,7 @@ The element has the following features:
 *   [Disabled (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166982/inspect)
 
 ### 4.2 Horizontal layout
-![Image of the checkboxes, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/checkbox/images/ME13_Horizontal.png 'class: image')
+![Image of the checkboxes, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/checkbox/images/ME13_Horizontal.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166971/inspect)

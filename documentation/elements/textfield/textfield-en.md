@@ -22,7 +22,7 @@ The element has the following statuses:
 *   Error
 
 ### 4.1 Standard
-![Image of the entry field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/textfield/images/ME14_Default.png 'class: image')
+![Image of the entry field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/textfield/images/ME14_Default.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166986/inspect)

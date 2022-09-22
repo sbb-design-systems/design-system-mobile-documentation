@@ -20,7 +20,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/modal/images/MM03.png 'class: image')
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/modal/images/MM03.png 'class: image')
 
 #### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)

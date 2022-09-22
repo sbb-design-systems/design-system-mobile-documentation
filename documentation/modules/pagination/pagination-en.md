@@ -12,7 +12,7 @@
 
 ## 4. Variants 
 ### 4.1 Standard
-![Image of the pagination](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/pagination/images/MM07.png 'class: image')
+![Image of the pagination](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/pagination/images/MM07.png 'class: image')
 
 #### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943556/inspect)

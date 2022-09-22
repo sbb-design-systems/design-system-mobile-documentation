@@ -17,9 +17,9 @@ The module has the following statuses:
 *   Second level
 
 ### 4.1 Menu with login 
-![Image of the menu with login, first level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/menu/images/MM10_login_first.png 'class: image')
+![Image of the menu with login, first level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/menu/images/MM10_login_first.png 'class: image')
 
-![Image of the menu with login, second level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/menu/images/MM10_login_second_level.png 'class: image')
+![Image of the menu with login, second level](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/menu/images/MM10_login_second_level.png 'class: image')
 
 *   The menu consists of the [profile](https://digital.sbb.ch/en/mobile/elements/profile) and [menu entries](https://digital.sbb.ch/en/mobile/elements/menu-item).
 *   The functions ‘Logout’ or ‘Login’ appear after the last menu item depending on the login status. 
@@ -31,7 +31,7 @@ The module has the following statuses:
 *   [2. Level unprotected](https://sbb.invisionapp.com/d/main#/console/14051805/322943562/inspect)
 
 ### 4.2 Menu without login 
-![Image of the menu without login](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/menu/images/MM10_ohne_login.png 'class: image')
+![Image of the menu without login](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/menu/images/MM10_ohne_login.png 'class: image')
 
 *   Menu consists of [menu items](https://digital.sbb.ch/de/mobile/elemente/menu-eintrag).
 

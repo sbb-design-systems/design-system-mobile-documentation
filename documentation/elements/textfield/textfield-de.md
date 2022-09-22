@@ -21,7 +21,7 @@ Das Element hat folgende Zustände:
 *   Error
 
 ### 4.1 Standard
-![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/textfield/images/ME14_Default.png 'class: image')
+![Darstellung des Eingabefeldes](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/textfield/images/ME14_Default.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166986/inspect)

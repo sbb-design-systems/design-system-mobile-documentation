@@ -14,7 +14,7 @@ Das Modul hat folgende Zustände:
 *   Open
 
 ### 4.1 Standard
-![Dartellung eines Tooltips](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/tooltip/images/MM12_Close.png 'class: image')
+![Dartellung eines Tooltips](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/tooltip/images/MM12_Close.png 'class: image')
 
 #### Design Spezifikation
 *   [Hilfe](https://sbb.invisionapp.com/d/main#/console/14051805/322943570/inspect)  

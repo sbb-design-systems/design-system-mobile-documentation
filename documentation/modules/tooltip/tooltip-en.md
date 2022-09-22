@@ -15,7 +15,7 @@ The module has the following statuses:
 *   Open
 
 ### 4.1 Standard
-![Image of the tooltip](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/tooltip/images/MM12_Close.png 'class: image')
+![Image of the tooltip](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/tooltip/images/MM12_Close.png 'class: image')
 
 #### Design Specification
 *   [Help](https://sbb.invisionapp.com/d/main#/console/14051805/322943570/inspect)

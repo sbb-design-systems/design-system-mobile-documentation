@@ -14,7 +14,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![Darstellung der Kacheln, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/card/images/ME20_Standard.png 'class: image')
+![Darstellung der Kacheln, Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/card/images/ME20_Standard.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)

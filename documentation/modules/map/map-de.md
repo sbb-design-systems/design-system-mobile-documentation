@@ -18,7 +18,7 @@ Das Modul hat folgende Ausprägungen:
 *   Fullscreen
 
 ### 4.1 Standard
-![Darstellung von Karten, Inline und Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/map/images/MM13_Karte.png 'class: image')
+![Darstellung von Karten, Inline und Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/map/images/MM13_Karte.png 'class: image')
 
 #### Design Spezifikation
 *   [Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)

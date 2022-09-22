@@ -18,14 +18,14 @@ The element has the following statuses:
 *   Pressed
 
 ### 4.1 Standard
-![Image of the menu entry, standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/menu-item/images/ME18_Standard.png 'class: image')
+![Image of the menu entry, standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/menu-item/images/ME18_Standard.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167006/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167007/inspect)
 
 ### 4.2 With password-protection
-![Image of the menu entry, with password-protection](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
+![Image of the menu entry, with password-protection](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
 
 
 Additional statuses 
@@ -39,7 +39,7 @@ Additional statuses
 *   [Unlocked Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167004/inspect)
 
 ### 4.3 Category
-![Image of the menu entry, category](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/menu-item/images/ME18_Kategorie.png 'class: image')
+![Image of the menu entry, category](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/menu-item/images/ME18_Kategorie.png 'class: image')
 
 #### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167000/inspect)

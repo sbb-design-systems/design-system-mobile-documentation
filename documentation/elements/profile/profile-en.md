@@ -14,14 +14,14 @@ The element has the following statuses:
 *   Logged out
 
 ### 4.1 Standard
-![Image of the profile, standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/profile/images/ME19_Standard.png 'class: image')
+![Image of the profile, standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/profile/images/ME19_Standard.png 'class: image')
 
 #### Design Specification
 *   [Logged in](https://sbb.invisionapp.com/d/main#/console/14051805/313167011/inspect)
 *   [Logged out](https://sbb.invisionapp.com/d/main#/console/14051805/313167010/inspect)
 
 ### 4.2 Extended
-![Image of the profile, extended](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/profile/images/ME19_Erweitert.png 'class: image')
+![Image of the profile, extended](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/profile/images/ME19_Erweitert.png 'class: image')
 
 *   Other attributes (e.g. U-number, company, contract number, department etc.) can also be shown in addition to the name of the user.
 

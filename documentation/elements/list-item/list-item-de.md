@@ -17,7 +17,7 @@ Das Element hat folgende Zustände:
 *   On-Swipe-to-right (optional)
 
 ### 4.1 Standard (nur Anzeige)
-![Darstellung des Listen Eintrags, Standard (nur Anzeige)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Standard.png 'class: image')
+![Darstellung des Listen Eintrags, Standard (nur Anzeige)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/list-item/images/ME21_Standard.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167015/inspect)
@@ -26,7 +26,7 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167013/inspect)
 
 ### 4.2 Mit Icon
-![Darstellung des Listen Eintrags, mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Icon.png 'class: image')
+![Darstellung des Listen Eintrags, mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/list-item/images/ME21_Icon.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167021/inspect)
@@ -35,7 +35,7 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167022/inspect)
 
 ### 4.3 Mit Funktion
-![Darstellung des Listen Eintrags, mit Funktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Funktion.png 'class: image')
+![Darstellung des Listen Eintrags, mit Funktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/list-item/images/ME21_Funktion.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167017/inspect)
@@ -44,7 +44,7 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167018/inspect)
 
 ### 4.4 Mit Selektion
-![Darstellung des Listen Eintrags, mit Selektion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/list-item/images/ME21_Selektion.png 'class: image')
+![Darstellung des Listen Eintrags, mit Selektion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/list-item/images/ME21_Selektion.png 'class: image')
 
 #### Design Spezifikation
 *   [Default (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167025/inspect)

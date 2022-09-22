@@ -17,9 +17,9 @@ The element has the following statuses:
 *   Pressed
 
 ### 4.1 Text-Link
-![Image of the text link, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/link/images/ME07_default.png 'class: image')
+![Image of the text link, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/link/images/ME07_default.png 'class: image')
 
-![Image of the text link, pressed](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/link/images/ME07_pressed.png 'class: image')
+![Image of the text link, pressed](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/link/images/ME07_pressed.png 'class: image')
 
 *   If the text link triggers a file download, the file type and size should be indicated in the link text (e.g.: ‘Conditions of Use (PDF, 123 KB)’)
 

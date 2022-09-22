@@ -17,7 +17,7 @@ The module has the following statuses:
 *   Last
 
 ### 4.1 Standard
-![Image of horizontal scrolling](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/horizontal-scrolling/images/MM08.png 'class: image')
+![Image of horizontal scrolling](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/horizontal-scrolling/images/MM08.png 'class: image')
 
 #### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)

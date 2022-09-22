@@ -15,7 +15,7 @@ Das Element hat folgende Zustände:
 *   Off
 
 ### 4.1 Standard
-![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/switch/images/ME09_Standard.png 'class: image')
+![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/switch/images/ME09_Standard.png 'class: image')
 
 #### Design Spezifikation
 *   [On](https://sbb.invisionapp.com/d/main#/console/14051805/312301065/inspect)

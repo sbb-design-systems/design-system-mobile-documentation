@@ -16,14 +16,14 @@ The module has the following statuses:
 *   Pressed
 
 ### 4.1 Single list 
-![Image oft the autocompletion, single List](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/autocompletion/images/MM16_Single_List.png 'class: image')
+![Image oft the autocompletion, single List](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/autocompletion/images/MM16_Single_List.png 'class: image')
 
 #### Design Specification
 *   [History](https://sbb.invisionapp.com/d/main#/console/14051805/322943577/inspect)
 *   [Results](https://sbb.invisionapp.com/d/main#/console/14051805/322943578/inspect)
 
 ### 4.2 Multiple List
-![Darstellung der Autocompletion, Multiple-List](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/modules/autocompletion/images/MM16_Multiple_List.png 'class: image')
+![Darstellung der Autocompletion, Multiple-List](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modules/autocompletion/images/MM16_Multiple_List.png 'class: image')
 
 #### Design Specification
 *   [History](https://sbb.invisionapp.com/d/main#/console/14051805/322943579/inspect)

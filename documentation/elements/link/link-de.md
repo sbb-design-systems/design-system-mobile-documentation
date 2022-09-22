@@ -16,9 +16,9 @@ Das Element hat folgende Zustände:
 *   Pressed
 
 ### 4.1 Text-Link
-![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/link/images/ME07_default.png 'class: image')
+![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/link/images/ME07_default.png 'class: image')
 
-![Darstellung des Text-Links, Pressed](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/elements/link/images/ME07_pressed.png 'class: image')
+![Darstellung des Text-Links, Pressed](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/elements/link/images/ME07_pressed.png 'class: image')
 
 *   Wird mit dem Textlink ein Download einer Datei ausgelöst, ist im Linktext zusätzlich der Dateityp und -grösse anzugeben (Bsp: «Nutzungsbestimmungen (PDF, 123 KB)»)
 

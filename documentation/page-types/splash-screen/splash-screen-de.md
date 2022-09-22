@@ -6,7 +6,7 @@
 
 ## 3. Ausprägungen
 ### 3.1 Standard
-![Darstellung des Splash Screens](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/master/documentation/page-types/splash-screen/images/MS01.png 'class: image')
+![Darstellung des Splash Screens](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/page-types/splash-screen/images/MS01.png 'class: image')
 
 #### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023907/inspect)
