@@ -25,4 +25,4 @@ Das Element hat folgende Zustände:
 ![Darstellung Datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/picker/images/ME17_Inline.png 'class: image')
 
 ### Design Spezifikation
-[Figma-Link]()
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=58%3A7021)

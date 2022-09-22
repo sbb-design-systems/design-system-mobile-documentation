@@ -22,5 +22,5 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the text area field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/textarea/images/ME15_Default.png 'class: image')
 
-### Design Spezifikation
-[Figma-Link]()
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=76%3A10239)

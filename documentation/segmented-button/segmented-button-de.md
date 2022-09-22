@@ -22,6 +22,5 @@ Das Element hat folgende Zustände:
 ### 4.2 Segmented Icon Button
 ![Darstellung des Segmented Icon Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image')
 
-
 ### Design Spezifikation
-[Figma-Link]()
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=12%3A2073)

@@ -19,42 +19,18 @@ Das Element hat folgende Zustände:
 ### 4.1 Standard (nur Anzeige)
 ![Darstellung des Listen Eintrags, Standard (nur Anzeige)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Standard.png 'class: image')
 
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167015/inspect)
-*   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167016/inspect)
-*   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167014/inspect)
-*   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167013/inspect)
-
 ### 4.2 Mit Icon
 ![Darstellung des Listen Eintrags, mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Icon.png 'class: image')
 
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167021/inspect)
-*   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167024/inspect)
-*   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167023/inspect)
-*   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167022/inspect)
 
 ### 4.3 Mit Funktion
 ![Darstellung des Listen Eintrags, mit Funktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Funktion.png 'class: image')
 
-#### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167017/inspect)
-*   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167020/inspect)
-*   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167019/inspect)
-*   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167018/inspect)
-
 ### 4.4 Mit Selektion
 ![Darstellung des Listen Eintrags, mit Selektion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Selektion.png 'class: image')
 
-#### Design Spezifikation
-*   [Default (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167025/inspect)
-*   [Pressed (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167028/inspect)
-*   [On-Swipe-to-right (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167027/inspect)
-*   [On-Swipe-to-left (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167026/inspect)
-*   [Default (ohne Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167029/inspect)
-*   [Pressed (ohne Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167032/inspect)
-*   [On-Swipe-to-right (ohne Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167031/inspect)
-*   [On-Swipe-to-left (ohne Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167030/inspect)
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=28%3A2540)
 
 ## 5. Barrierefreiheit
 * Wenn die Funktion des Eintrages nur über ein Icon Dargestellt wird, muss diese zusätzlich als Alternativtext hinterlegt werden.

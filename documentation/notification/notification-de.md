@@ -14,6 +14,5 @@
 ### 4.1 Standard
 ![Dartellung einer Notification](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/notification/images/MM04.png 'class: image')
 
-#### Design Spezifikation
-*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943546/inspect)
-*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943547/inspect)
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A14345)

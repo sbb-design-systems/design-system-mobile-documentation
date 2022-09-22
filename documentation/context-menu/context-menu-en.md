@@ -20,17 +20,11 @@ The module has the following statuses:
 
 *   The width of the context menu depends on the length of the entries. 
 
-#### Design Specification
-*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943565/inspect)
-*   [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
-
 ### 4.2 On pages 
 ![Image oft the context menu, on pages](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_auf_Seiten.png 'class: image')
 
 *   The context menu uses the full width of the screen.
 *   The menu pushes away side content. 
 
-#### Design Specification
-*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943567/inspect)
-*   [Open (one part)](https://sbb.invisionapp.com/d/main#/console/14051805/322943568/inspect)
-*   [Open (two part)](https://sbb.invisionapp.com/d/main#/console/14051805/322943569/inspect)
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A10433)

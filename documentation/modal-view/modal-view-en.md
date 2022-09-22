@@ -22,8 +22,8 @@
 ### 4.1 Standard
 ![Image of a modal dialogue](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/MM03.png 'class: image')
 
-#### Design Specification
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=25%3A8074)
 
 ## 5. Accessibility
 *   Content outside of the open dialogue should no longer be reachable via the screen reader.

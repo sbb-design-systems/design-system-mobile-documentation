@@ -14,8 +14,8 @@
 ### 4.1 Standard
 ![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/MM07.png 'class: image')
 
-#### Design Spezifikation
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943556/inspect)
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=58%3A7021)
 
 ## 5. Barrierefreiheit
 * Zustand der Pagination muss als Alternativtext hinterlegt werden (z.B. "Seite 2 von 3").

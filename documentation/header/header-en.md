@@ -17,19 +17,12 @@
 ![Image of the header with menu icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Startseite.png 'class: image')
 
 *   Can only be used on the homepage. 
-#### Design Specification
-*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943537/inspect)
-*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943538/inspect)
 
 ### 4.2 With arrow to the left
 ![Image of the header with an arrow to the left](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Back.png 'class: image')
 
 *   Is used when navigating within hierarchical levels.
 *   The display of the function/page selected is animated from left to right. 
-    
-#### Design Specification
-*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943539/inspect)
-*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943540/inspect)
 
 ### 4.3 With close icon
 ![Image of the header with a close icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/MM01_Close.png 'class: image')
@@ -38,6 +31,5 @@
 *   The display of the function/page selected is animated from the bottom upwards.
 *   When navigating from a page with a close icon, the header with the arrow to the left must be used on the next function/page. 
 
-#### Design Specification
-*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943541/inspect)
-*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943542/inspect)
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=10%3A2260)

@@ -24,5 +24,5 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the entry field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/text-input/images/ME14_Default.png 'class: image')
 
-### Design Spezifikation
-[Figma-Link]()
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=37%3A7760)

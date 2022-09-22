@@ -15,10 +15,10 @@
 
 ## 4. Variants and statuses
 The element has the following statuses:
-*   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166963/inspect)
-*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166966/inspect)
-*   [Disabled checked](https://sbb.invisionapp.com/d/main#/console/14051805/313166964/inspect)
-*   [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/313166965/inspect)
+*   Checked
+*   Unchecked
+*   Disabled checked
+*   Disabled unchecked
 
 The element has the following variants: 
 *   with info (only with vertical layout) 
@@ -33,5 +33,5 @@ The element has the following variants:
 ### 4.2 Horizontal layout
 ![Image of the radio buttons, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image')
 
-### Design Spezifikation
-[Figma-Link]()
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A6107)

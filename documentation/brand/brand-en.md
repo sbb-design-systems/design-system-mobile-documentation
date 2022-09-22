@@ -16,8 +16,10 @@
 ### 4.1 Standard
 ![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/brand/images/ME04_Signet.png 'class: image')
 
-#### Design Specification
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166952/inspect)
+
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=11%3A3793)
+
 
 ## 5. Accessibility
 *   The signet must be entered with an alternative text (e.g. ‘Back to homepage’).

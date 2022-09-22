@@ -17,13 +17,11 @@
 ![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Normal.png 'class: image')
 * Anwendung für das Laden von ganzen Seiten
 
-#### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
 
 ### 4.2 Small
 ![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Small.png 'class: image')
 
 * Anwendung innerhalb Listen (Lazy-Loading)
 
-#### Design Spezifikation
-* [Small](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=2%3A206)

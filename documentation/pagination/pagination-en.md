@@ -14,8 +14,8 @@
 ### 4.1 Standard
 ![Image of the pagination](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/MM07.png 'class: image')
 
-#### Design Specification
-*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943556/inspect)
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=58%3A7021)
 
 ## 5. Accessibility
 * The status of the pagination must be entered as alternative text (e.g. ‘page 2 of 3’).

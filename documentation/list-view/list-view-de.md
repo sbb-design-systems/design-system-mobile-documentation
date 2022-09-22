@@ -24,4 +24,4 @@ Das Modul hat folgende Ausprägungen
 ![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-view/images/MM17_Liste_ohne_Titel.png 'class: image')
 
 ### Design Spezifikation
-[Figma-Link]()
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=29%3A6608)

@@ -26,9 +26,5 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the select field](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/ME16_Default.png 'class: image')
 
-#### Design Specification
-*   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166994/inspect)
-*   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166997/inspect)
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166993/inspect)
-*   [Error](https://sbb.invisionapp.com/d/main#/console/14051805/313166995/inspect)
-*   [Expanded](https://sbb.invisionapp.com/d/main#/console/14051805/313166996/inspect)
+### Design Specification
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=74%3A7358)
