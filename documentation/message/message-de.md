@@ -8,19 +8,33 @@
 *   Für Fehleingaben werden Feldvalidierungen (z.B. beim [Eingabefeld](https://digital.sbb.ch/mobile/elemente/eingabefeld)) verwendet, nicht die Fehlermeldung.
 
 ## 4. Ausprägungen
+*   Type: Info / Hint / Warning / Error / Success
+*   State: Default / Loading
+*   Illustration: fakultativ
+*   Fehlercode: fakultativ
+*   Retry-Button: fakultativ
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-### 4.1 Fehlerdialog
-![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Dialog.png 'class: image light')
+### 4.1 Info
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/info-light.png 'class: image light')
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/info-dark.png 'class: image dark hide')
 
-### 4.2 Fehlermeldung inline
-![Darstellung von Fehlermeldungen, Inline](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Liste.png 'class: image light')
-![Darstellung von Fehlermeldungen, Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/MM06_Inline_Fullscreen.png 'class: image light')
+### 4.2 Hint
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/hint-light.png 'class: image light')
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/hint-dark.png 'class: image dark hide')
 
-Zustände:
-*   Vollflächig
-*   Listeneintrag
+### 4.3 Warning
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/warning-light.png 'class: image light')
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/warning-dark.png 'class: image dark hide')
+
+### 4.4 Error
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/error-light.png 'class: image light')
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/error-dark.png 'class: image dark hide')
+
+### 4.4 Success
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/success-light.png 'class: image light')
+![Darstellung einer Message](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/message/images/success-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=24%3A2648)
