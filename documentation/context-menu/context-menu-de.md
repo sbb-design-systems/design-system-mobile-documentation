@@ -9,26 +9,15 @@
 *   Die Menüeinträge beinhalten immer ein Icon und einen Text.
 
 ## 4. Ausprägungen und Zustände
-
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
-
 Das Modul hat folgende Zustände:
 *   Closed
 *   Open
 
-### 4.1 Im Modul
-![Darstellung des Kontext Menus, im Modul](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_in_Modulen.png 'class: image light')
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-![](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image light')
-
-*   Die Breite des Kontextmenüs ist abhängig von der Länge der Einträge.
-
-### 4.2 Auf Seiten
-![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/MM11_auf_Seiten.png 'class: image light')
-
-*   Das Kontextmenü verwendet die ganze Breite des Screens.
-*   Das Menü drückt Seiteninhalt weg.
+### 4.1 Default
+![Darstellung des Context Menu](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/context-menu-light.png 'class: image light')
+![Darstellung des Context Menu](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/context-menu/images/context-menu-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=36%3A10433)
