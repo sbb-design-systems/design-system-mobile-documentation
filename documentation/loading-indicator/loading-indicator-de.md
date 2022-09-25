@@ -12,18 +12,18 @@
 *   Wenn mehrere Bereiche Daten nachladen, darf nur ein Loading Indicator über die ganze Seite dargestellt werden.
 
 ## 4. Ausprägungen
-
+*   Farbe: Default (red) / Grey / White
+*   Grösse: Default / Small
+   
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-### 4.1 Normal
-![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Normal.png 'class: image light')
-* Anwendung für das Laden von ganzen Seiten
-
+### 4.1 Default
+![Darstellung des Loading Indicatiors, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-default-light.png 'class: image light')
+![Darstellung des Loading Indicatiors, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-default-dark.png 'class: image dark hide')
 
 ### 4.2 Small
-![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Small.png 'class: image light')
-
-* Anwendung innerhalb Listen (Lazy-Loading)
+![Darstellung des Loading Indicatiors, small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-small-light.png 'class: image light')
+![Darstellung des Loading Indicatiors, small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-small-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=2%3A206)

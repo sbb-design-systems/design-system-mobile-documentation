@@ -13,18 +13,18 @@
 
 
 ## 4. Variants
-
+*   Color: Default (red) / Grey / White
+*   Size: Default / Small
+   
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-### 4.1 Normal
-![Image of the loading indicator, normal](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Normal.png 'class: image light')
-* Use for loading entire pages
-
+### 4.1 Default
+![Darstellung des Loading Indicatiors, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-default-light.png 'class: image light')
+![Darstellung des Loading Indicatiors, default](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-default-dark.png 'class: image dark hide')
 
 ### 4.2 Small
-![Image of the loading indicator, small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/ME08_Small.png 'class: image light')
-
-*   Use within lists (lazy loading)
+![Darstellung des Loading Indicatiors, small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-small-light.png 'class: image light')
+![Darstellung des Loading Indicatiors, small](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/loading-indicator/images/loading-indicator-small-dark.png 'class: image dark hide')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=2%3A206)
