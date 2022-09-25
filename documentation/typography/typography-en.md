@@ -8,16 +8,17 @@
 *   None
 
 ## 4. Variants
-  - [<a name="xlarge-light"></a>4.1 xlarge, light](#xlarge-light)
-  - [<a name="large-light"></a>4.2 large, light](#large-light)
-  - [<a name="large-bold"></a>4.3 large, bold](#large-bold)
-  - [<a name="medium-light"></a>4.4 medium, light](#medium-light)
-  - [<a name="medium-bold"></a>4.5 medium, bold](#medium-bold)
-  - [<a name="small-light"></a>4.6 small, light](#small-light)
-  - [<a name="small-bold"></a>4.7 small, bold](#small-bold)
-  - [<a name="xsmall-light"></a>4.8 xsmall, light](#xsmall-light)
-  - [<a name="xsmall-bold"></a>4.9 xsmall, bold](#xsmall-bold)
+-   [4.1 xlarge, light](#xlarge-light)
+-   [4.2 large, light](#large-light)
+-   [4.3 large, bold](#large-bold)
+-   [4.4 medium, light](#medium-light)
+-   [4.5 medium, bold](#medium-bold)
+-   [4.6 small, light](#small-light)
+-   [4.7 small, bold](#small-bold)
+-   [4.8 xsmall, light](#xsmall-light)
+-   [4.9 xsmall, bold](#xsmall-bold)
 
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### <a name="xlarge-light"></a>4.1 xlarge, light
 ![Darstellung des Stils xlarge](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-large-light.png 'class: image light')
@@ -48,9 +49,9 @@
 ![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/small-bold-dark.png 'class: image dark hide')
 
 ### <a name="xsmall-light"></a>4.8 xsmall, light
-![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-light-light.png 'class: image light')
-![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-light-dark.png 'class: image dark hide')
+![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-light-light.png 'class: image light')
+![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-light-dark.png 'class: image dark hide')
 
 ### <a name="xsmall-bold"></a>4.9 xsmall, bold
-![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-bold-light.png 'class: image light')
-![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-bold-dark.png 'class: image dark hide')
+![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-bold-light.png 'class: image light')
+![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-bold-dark.png 'class: image dark hide')

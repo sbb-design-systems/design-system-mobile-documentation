@@ -18,6 +18,7 @@
 *   [4.8 xsmall, light](#xsmall-light)
 *   [4.9 xsmall, bold](#xsmall-bold)
 
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### <a name="xlarge-light"></a>4.1 xlarge, light
 ![Darstellung des Stils xlarge](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-large-light.png 'class: image light')
@@ -48,9 +49,9 @@
 ![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/small-bold-dark.png 'class: image dark hide')
 
 ### <a name="xsmall-light"></a>4.8 xsmall, light
-![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-light-light.png 'class: image light')
-![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-light-dark.png 'class: image dark hide')
+![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-light-light.png 'class: image light')
+![Darstellung des Stils large, light](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-light-dark.png 'class: image dark hide')
 
 ### <a name="xsmall-bold"></a>4.9 xsmall, bold
-![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-bold-light.png 'class: image light')
-![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/xsmall-bold-dark.png 'class: image dark hide')
+![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-bold-light.png 'class: image light')
+![Darstellung des Stils large, bold](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/typography/images/x-small-bold-dark.png 'class: image dark hide')
