@@ -27,53 +27,53 @@
 ### 4.1 ohne Navigation
 ### 4.1.1 Default
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-default-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-default-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-default-dark.png 'class: image dark hide')
 
 ### 4.1.2 Default mit Toggle
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-default-mit-toggle-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-default-mit-toggle-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-default-mit-toggle-dark.png 'class: image dark hide')
 
 ### 4.1.3 Small
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-small-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-small-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-small-dark.png 'class: image dark hide')
 
 ### 4.1.3 Small mit Toggle
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-small-mit-toggle-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-small-mit-toggle-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-ohne-navigation-small-mit-toggle-dark.png 'class: image dark hide')
 
 ### 4.2 mit Icon
 ### 4.1.1 Default
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-default-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-default-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-default-dark.png 'class: image dark hide')
 
 ### 4.1.2 Default mit Toggle
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-default-mit-toggle-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-default-mit-toggle-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-default-mit-toggle-dark.png 'class: image dark hide')
 
 ### 4.1.3 Small
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-small-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-small-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-small-dark.png 'class: image dark hide')
 
 ### 4.1.3 Small mit Toggle
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-small-mit-toggle-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-small-mit-toggle-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-icon-small-mit-toggle-dark.png 'class: image dark hide')
 
 ### 4.3 mit Text
 ### 4.1.1 Default
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-default-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-default-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-default-dark.png 'class: image dark hide')
 
 ### 4.1.2 Default mit Toggle
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-default-mit-toggle-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-default-mit-toggle-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-default-mit-toggle-dark.png 'class: image dark hide')
 
 ### 4.1.3 Small
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-small-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-small-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-small-dark.png 'class: image dark hide')
 
 ### 4.1.3 Small mit Toggle
 ![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-small-mit-toggle-light.png 'class: image light')
-![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-small-mit-toggle-light.png 'class: image dark hide')
+![Darstellung des Headers ohne Navigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/header/images/header-mit-text-small-mit-toggle-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=10%3A2260)

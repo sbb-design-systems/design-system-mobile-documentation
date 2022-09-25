@@ -17,12 +17,12 @@
 
 
 Das Element hat folgende Zustände:
-*   Checked
-*   Unchecked
-*   Tristate
-*   Disabled Checked
-*   Disbaled Unchecked
-*   Disabled Tristate
+*   Selected
+*   Unselected
+*   Indeterminate
+*   Disabled Selected
+*   Disabled Unselected
+*   Disabled Indeterminate
 
 Das Element hat folgende Ausprägungen:
 *   mit Info (nur bei vertikaler Ausrichtung)
