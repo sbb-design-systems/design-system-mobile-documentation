@@ -10,20 +10,19 @@
 *   The individual options are always the same width.
 
 ## 4. Variants and statuses
+*   2 or 3 buttons
+*   Color: Default / Red
+*   with icon and label / icon only / label only
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-The element has the following statuses:
-*   Checked
-*   Unchecked
+### 4.1 Default
+![Darstellung des Segmented Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/segmented-button-default-light.png 'class: image light')
+![Darstellung des Segmented Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/segmented-button-default-dark.png 'class: image dark hide')
 
-### 4.1 Segmented button
-![Image of the segmented button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Text.png 'class: image light')
-
-*   The text is always single-line.
-
-### 4.2 Segmented icon button
-![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/ME11_Icon.png 'class: image light')
+### 4.2 Red
+![Darstellung des Segmented Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/segmented-button-red-light.png 'class: image light')
+![Darstellung des Segmented Buttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/segmented-button/images/segmented-button-red-dark.png 'class: image dark hide')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=12%3A2073)
