@@ -10,7 +10,6 @@
 *   Variations of the signet are not permitted.
 *   The signet is always linked to the app homepage.
 
-
 ## 4. Variants
 ### 4.1 Standard
 ![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/brand/images/ME04_Signet.png 'class: image light')
