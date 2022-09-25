@@ -12,6 +12,9 @@
 *   Die Anzeigedauer richtet sich nach der Länge des Textes.
 
 ## 4. Ausprägungen
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+ 
 ### 4.1 Standard
 ![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/toast-light.png 'class: image light')
 ![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/toast/images/toast-dark.png 'class: image dark hide')
