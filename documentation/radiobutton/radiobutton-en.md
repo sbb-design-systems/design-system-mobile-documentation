@@ -7,7 +7,6 @@
 ## 3. Regeln
 *   There must be a choice of at least two options.
 *   A pre-selection is mandatory.
-*   In addition to the label, an icon can also be displayed for detailed explanations. When this question mark is clicked on a opens.
 *   Radio buttons can be arranged vertically or horizontally. The vertical layout is preferred as it allows the user to understand the options more quickly.
 *   Horizontal layout only for two to three options and short names.
 *   The text can be multi-line.
