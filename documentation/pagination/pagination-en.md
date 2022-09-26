@@ -19,7 +19,7 @@
 ![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-default-light.png 'class: image light')
 ![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-default-dark.png 'class: image dark hide')
 
-### 4.1 Floating
+### 4.2 Floating
 ![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-floating-light.png 'class: image light')
 ![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-floating-dark.png 'class: image dark hide')
 
