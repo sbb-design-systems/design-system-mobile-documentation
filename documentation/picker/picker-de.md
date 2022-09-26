@@ -6,9 +6,7 @@
 
 ## 3. Regeln
 *   Die Wertangaben sind immer einzeilig.
-*   Das Element hat immer ein Label.
 *   Optionale Eingaben werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
-*   Für detaillierte Erklärungen kann im Eingabefeld ein Infoicon dargestellt werden. Beim Klick auf dieses Infoicon öffnet sich ein [Tooltip](https://digital.sbb.ch/de/mobile/module/tooltip). 
 *   Mit Klick ins Eingabefeld öffnet sich der Date-/Timepicker. Innerhalb des Pickers dürfen maximal 3 Auswahlräder zur Verfügung stehen.
 
 ## 4. Ausprägungen und Zustände
