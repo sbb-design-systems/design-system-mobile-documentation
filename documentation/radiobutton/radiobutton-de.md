@@ -7,7 +7,7 @@
 ## 3. Regeln
 *   Es müssen mindestens zwei Optionen zur Auswahl stehen.
 *   Eine Vorauswahl ist Pflicht.
-*   Radio Buttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
+*   Radio Buttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch können die Benutzenden die Auswahlmöglichkeiten schneller erfassen.
 *   Horizontale Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
 *   Der Text kann mehrzeilig sein.
 *   Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
