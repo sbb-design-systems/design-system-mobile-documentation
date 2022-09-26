@@ -19,11 +19,26 @@
 *   If the content is too big, a full-screen modal dialogue can be selected: see page types.
 
 ## 4. Variants
+*   With and without close button
+*   With and without back button
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-### 4.1 Standard
-![Image of a modal dialogue](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/MM03.png 'class: image light')
+### 4.1 With close button and without back button
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-default-light.png 'class: image light')
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-default-dark.png 'class: image dark hide')
+
+### 4.2 Wiht close and back button
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-back-light.png 'class: image light')
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-back-dark.png 'class: image dark hide')
+
+### 4.3 wihtout close and back button
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-light.png 'class: image light')
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-dark.png 'class: image dark hide')
+
+### 4.4 without close button and wiht back button
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-back-light.png 'class: image light')
+![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-back-dark.png 'class: image dark hide')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=25%3A8074)

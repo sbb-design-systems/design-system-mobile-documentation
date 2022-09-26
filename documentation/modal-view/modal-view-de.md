@@ -36,7 +36,7 @@
 ![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-light.png 'class: image light')
 ![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-dark.png 'class: image dark hide')
 
-### 4.3 Ohne Close Button und mit Back Button
+### 4.4 Ohne Close Button und mit Back Button
 ![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-back-light.png 'class: image light')
 ![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/modal-view/images/modal-without-close-button-back-dark.png 'class: image dark hide')
 
