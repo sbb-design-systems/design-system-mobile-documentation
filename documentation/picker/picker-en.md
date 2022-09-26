@@ -6,9 +6,7 @@
 
 ## 3. Rules
 *   The value information is always single-line.
-*   The element always has a label.
 *   Optional entries include the text ‘(optional)’ behind the label. For short fields, the text ‘(optional)’ can be abbreviated to ‘(opt.)’.
-*   An infoicon can be used in the entry field for detailed explanations. A tooltip opens when this infoicon is clicked on.
 *   The date/timepicker is opened by clicking on the entry field. A maximum of three selection wheels are available within the picker.
 
 
