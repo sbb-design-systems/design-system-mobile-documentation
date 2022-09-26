@@ -66,8 +66,5 @@ The element has the following variants:
 ![Darstellung des Switch](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/switch/images/switch-item-boxed-link-light.png 'class: image light')
 ![Darstellung des Switch](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/switch/images/switch-item-boxed-link-dark.png 'class: image dark hide')
 
-### 4.1 Standard
-![Image of the switch](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/switch/images/ME09_Standard.png 'class: image light')
-
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=37%3A7760)
