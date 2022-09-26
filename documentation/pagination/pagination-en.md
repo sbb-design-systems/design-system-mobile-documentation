@@ -11,15 +11,20 @@
 *   The pagination is not in a loop
 
 ## 4. Variants
+*   Default / Floating
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
- 
-### 4.1 Standard
-![Image of the pagination](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/MM07.png 'class: image light')
+
+### 4.1 Default
+![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-default-light.png 'class: image light')
+![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-default-dark.png 'class: image dark hide')
+
+### 4.1 Floating
+![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-floating-light.png 'class: image light')
+![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/pagination/images/pagination-floating-dark.png 'class: image dark hide')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=58%3A7021)
 
 ## 5. Accessibility
 * The status of the pagination must be entered as alternative text (e.g. ‘page 2 of 3’).
-
