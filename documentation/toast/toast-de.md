@@ -10,7 +10,6 @@
 *   Der Toast wird zentriert am unteren Bildschirmrand angezeigt.
 *   Der Toast verschwindet automatisch wieder.
 *   Die Anzeigedauer richtet sich nach der Länge des Textes.
-*   neue regel
 
 ## 4. Ausprägungen
 
