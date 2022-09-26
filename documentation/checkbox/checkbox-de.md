@@ -12,10 +12,6 @@
 *   Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
 
 ## 4. Ausprägungen und Zustände
-
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
-
 Das Element hat folgende Zustände:
 *   Selected
 *   Unselected
@@ -23,20 +19,68 @@ Das Element hat folgende Zustände:
 *   Disabled Selected
 *   Disabled Unselected
 *   Disabled Indeterminate
+*   Loading
 
 Das Element hat folgende Ausprägungen:
-*   mit Info (nur bei vertikaler Ausrichtung)
-*   ohne Info
-*   vertikal ausgerichtet
-*   horizontal ausgerichtet
+*   Checkbox
+    *   ohne Icon / mit Icon
+*   Checkbox-Item
+    *   listed / boxed
+    *   ohne Icon / mit Icon
+    *   ohne Subtext / mit Subtext
+    *   ohne Button / mit Button
 
-### 4.1 Vertikale Anordnung
-![Darstellung der Checkboxen, vertikale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Vertikal_default.png 'class: image light')
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-![Darstellung der Checkboxen, vertikale Anordnung, mit Infos](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image light')
+### 4.1 Checkbox
+#### 4.1.1 ohne Icon
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-default-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-default-dark.png 'class: image dark hide')
 
-### 4.2 Horizontale Anordnung
-![Darstellung der Checkboxen, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/ME13_Horizontal.png 'class: image light')
+#### 4.1.2 mit Icon
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-icon-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-icon-dark.png 'class: image dark hide')
+
+### 4.2 Checkbox-Item
+#### 4.2.1 Liste
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-dark.png 'class: image dark hide')
+
+#### 4.2.2 Liste, mit Icons (links und rechts)
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-icon-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-icon-dark.png 'class: image dark hide')
+
+#### 4.2.3 Liste, mit Subtext
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-subtext-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-subtext-dark.png 'class: image dark hide')
+
+#### 4.2.4 Liste, mit Button
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-button-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-button-dark.png 'class: image dark hide')
+
+#### 4.2.5 Liste, ladend
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-loading-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-list-loading-dark.png 'class: image dark hide')
+
+#### 4.2.6 Boxed
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-dark.png 'class: image dark hide')
+
+#### 4.2.7 Boxed, mit Icons (links und rechts)
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-icon-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-icon-dark.png 'class: image dark hide')
+
+#### 4.2.8 Boxed, mit Subtext
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-subtext-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-subtext-dark.png 'class: image dark hide')
+
+#### 4.2.9 Boxed, mit Button
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-button-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-button-dark.png 'class: image dark hide')
+
+#### 4.2.10 Boxed, ladend
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-loading-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/Checkbox-item-boxed-loading-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A3356)
