@@ -35,53 +35,53 @@ The element has the following variants:
 
 ### 4.1 Checkbox
 #### 4.1.1 without icon
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-default-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-default-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-default-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-default-dark.png 'class: image dark hide')
 
 #### 4.1.2 with icon
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-icon-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-icon-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-icon-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-icon-dark.png 'class: image dark hide')
 
 ### 4.2 Checkbox-Item
 #### 4.2.1 List
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-dark.png 'class: image dark hide')
 
 #### 4.2.2 List, with Icons (left und right)
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-icon-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-icon-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-icon-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-icon-dark.png 'class: image dark hide')
 
 #### 4.2.3 List, with subtext
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-subtext-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-subtext-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-subtext-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-subtext-dark.png 'class: image dark hide')
 
 #### 4.2.4 List, with button
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-button-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-button-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-button-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-button-dark.png 'class: image dark hide')
 
 #### 4.2.5 List, loading
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-loading-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-list-loading-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-loading-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-list-loading-dark.png 'class: image dark hide')
 
 #### 4.2.6 Boxed
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-dark.png 'class: image dark hide')
 
 #### 4.2.7 Boxed, with icons (left und right)
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-icon-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-icon-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-icon-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-icon-dark.png 'class: image dark hide')
 
 #### 4.2.8 Boxed, with subtext
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-subtext-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-subtext-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-subtext-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-subtext-dark.png 'class: image dark hide')
 
 #### 4.2.9 Boxed, with button
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-button-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-button-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-button-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-button-dark.png 'class: image dark hide')
 
 #### 4.2.10 Boxed, loading
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-loading-light.png 'class: image light')
-![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/Checkbox/images/checkbox-item-boxed-loading-dark.png 'class: image dark hide')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-loading-light.png 'class: image light')
+![Darstellung der Checkboxs](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/checkbox/images/checkbox-item-boxed-loading-dark.png 'class: image dark hide')
 
 
 ### Design Specification
