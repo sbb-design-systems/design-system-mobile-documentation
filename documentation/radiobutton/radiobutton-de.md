@@ -7,7 +7,6 @@
 ## 3. Regeln
 *   Es müssen mindestens zwei Optionen zur Auswahl stehen.
 *   Eine Vorauswahl ist Pflicht.
-*   Für detaillierte Erklärungen kann neben dem Label ein Icon dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein .
 *   Radio Buttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
 *   Horizontale Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
 *   Der Text kann mehrzeilig sein.
