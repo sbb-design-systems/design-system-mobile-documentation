@@ -14,10 +14,6 @@
 *   Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
 
 ## 4. Ausprägungen und Zustände
-
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
-
 Das Element hat folgende Zustände:
 *   Checked
 *   Unchecked
@@ -33,6 +29,8 @@ Das Element hat folgende Ausprägungen:
     *   ohne Icon / mit Icon
     *   ohne Subtext / mit Subtext
     *   ohne Button / mit Button
+
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Radiobutton
 #### 4.1.1 ohne Icon

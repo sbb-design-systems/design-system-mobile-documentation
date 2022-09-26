@@ -14,27 +14,73 @@
 *   As well as the actual radio button, the entire text also serves as a click target.
 
 ## 4. Variants and statuses
-
-<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
-
 The element has the following statuses:
 *   Checked
 *   Unchecked
 *   Disabled checked
 *   Disabled unchecked
+*   Loading
 
 The element has the following variants: 
-*   with info (only with vertical layout) 
-*   without info 
-*   vertical layout 
-*   horizontal layout
+*   Radiobutton
+    *   with icon / without icon
+*   Radiobutton-Item
+    *   listed / boxed
+    *   without icon / with icon
+    *   without subtext / with subtext
+    *   without button / with button
 
-### 4.1 Vertical layout
-![Image of the radio buttons, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_default.png 'class: image light')
-![Image of the radio buttons, vertical layout, without info](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image light')
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
-### 4.2 Horizontal layout
-![Image of the radio buttons, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/ME12_Horizontal.png 'class: image light')
+### 4.1 Radiobutton
+#### 4.1.1 without icon
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-default-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-default-dark.png 'class: image dark hide')
+
+#### 4.1.2 with icon
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-icon-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-icon-dark.png 'class: image dark hide')
+
+### 4.2 Radiobutton-Item
+#### 4.2.1 List
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-dark.png 'class: image dark hide')
+
+#### 4.2.2 List, with Icons (left und right)
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-icon-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-icon-dark.png 'class: image dark hide')
+
+#### 4.2.3 List, with subtext
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-subtext-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-subtext-dark.png 'class: image dark hide')
+
+#### 4.2.4 List, with button
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-button-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-button-dark.png 'class: image dark hide')
+
+#### 4.2.5 List, loading
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-loading-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-list-loading-dark.png 'class: image dark hide')
+
+#### 4.2.6 Boxed
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-dark.png 'class: image dark hide')
+
+#### 4.2.7 Boxed, with icons (left und right)
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-icon-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-icon-dark.png 'class: image dark hide')
+
+#### 4.2.8 Boxed, with subtext
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-subtext-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-subtext-dark.png 'class: image dark hide')
+
+#### 4.2.9 Boxed, with button
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-button-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-button-dark.png 'class: image dark hide')
+
+#### 4.2.10 Boxed, loading
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-loading-light.png 'class: image light')
+![Darstellung der Radiobuttons](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/radiobutton/images/radiobutton-item-boxed-loading-dark.png 'class: image dark hide')
 
 ### Design Specification
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=33%3A6107)
