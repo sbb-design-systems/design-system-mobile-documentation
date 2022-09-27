@@ -66,20 +66,20 @@ Das Element hat folgende Ausprägungen:
 
 ### 4.3 Listed, ohne Label
 #### 4.3.1 Default
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--default-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--default-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-default-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-default-dark.png 'class: image dark hide')
 
 #### 4.3.2 Error
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--error-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--error-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-error-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-error-dark.png 'class: image dark hide')
 
 #### 4.3.3 Disabled
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--disabled-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--disabled-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-disabled-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-disabled-dark.png 'class: image dark hide')
 
 #### 4.3.4 Loading
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--loading-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label--loading-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-loading-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-listed-without-label-loading-dark.png 'class: image dark hide')
 
 ### 4.4 Boxed
 #### 4.4.1 Default
@@ -117,20 +117,20 @@ Das Element hat folgende Ausprägungen:
 
 ### 4.6 Boxed, ohne Label
 #### 4.6.1 Default
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--default-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--default-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-default-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-default-dark.png 'class: image dark hide')
 
 #### 4.6.2 Error
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--error-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--error-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-error-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-error-dark.png 'class: image dark hide')
 
 #### 4.6.3 Disabled
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--disabled-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--disabled-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-disabled-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-disabled-dark.png 'class: image dark hide')
 
 #### 4.6.4 Loading
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--loading-light.png 'class: image light')
-![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label--loading-dark.png 'class: image dark hide')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-loading-light.png 'class: image light')
+![Darstellung des Dropdown](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/dropdown/images/select-boxed-without-label-loading-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=74%3A7358)
