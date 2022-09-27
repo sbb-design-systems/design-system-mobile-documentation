@@ -10,28 +10,64 @@
 *   Erste Funktion wird auf Swipe-to-left gelegt, zweite Funktion auf Swipe-to-right.
 
 ## 4. Ausprägungen und Zustände
+Das Element hat folgende Zustände:
+*   Default
+*   Pressed
+*   Disabled
+*   Loading
+*   Swipe left (optional)
+*   Swipe right (optional)
+
+Das Element hat folgende Ausprägungen:
+*   listed / boxed
+*   mit Icon / ohne Icon
+*   mit Subtext / ohne Subtext
+*   mit Icon rechts / ohne Icon rechts
+*   mit Button / ohne Button
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
+### 4.1 Listed
+#### 4.1.1 Default
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-dark.png 'class: image dark hide')
 
-Das Element hat folgende Zustände:
-*   Normal
-*   On-Click
-*   On-Swipe-to-left (optional)
-*   On-Swipe-to-right (optional)
+#### 4.1.2 ohne Icon
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-without-icon-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-without-icon-dark.png 'class: image dark hide')
 
-### 4.1 Standard (nur Anzeige)
-![Darstellung des Listen Eintrags, Standard (nur Anzeige)](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Standard.png 'class: image light')
+#### 4.1.3 mit Subtext
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-with-subtext-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-with-subtext-dark.png 'class: image dark hide')
 
-### 4.2 Mit Icon
-![Darstellung des Listen Eintrags, mit Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Icon.png 'class: image light')
+#### 4.1.4 mit Icon rechts
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-with-icon-right-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-with-icon-right-dark.png 'class: image dark hide')
 
+#### 4.1.5 mit Button
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-with-button-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-default-with-button-dark.png 'class: image dark hide')
 
-### 4.3 Mit Funktion
-![Darstellung des Listen Eintrags, mit Funktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Funktion.png 'class: image light')
+### 4.2 Boxed
+#### 4.2.1 Default
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-dark.png 'class: image dark hide')
 
-### 4.4 Mit Selektion
-![Darstellung des Listen Eintrags, mit Selektion](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/ME21_Selektion.png 'class: image light')
+#### 4.2.2 ohne Icon
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-without-icon-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-without-icon-dark.png 'class: image dark hide')
+
+#### 4.2.3 mit Subtext
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-with-subtext-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-with-subtext-dark.png 'class: image dark hide')
+
+#### 4.2.4 mit Icon rechts
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-with-icon-right-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-with-icon-right-dark.png 'class: image dark hide')
+
+#### 4.2.5 mit Button
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-with-button-light.png 'class: image light')
+![Darstellung des List-Items](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/list-item/images/list-item-boxed-with-button-dark.png 'class: image dark hide')
 
 ### Design Spezifikation
 [Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=28%3A2540)
