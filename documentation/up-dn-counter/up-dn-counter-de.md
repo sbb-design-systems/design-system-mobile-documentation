@@ -7,5 +7,6 @@
 ## 3. Regeln
 *   Das Element enthält einen Standardwert, welcher mihilfe von zwei Schaltflächen verändert werden kann.
 *   Die Schaltflächen beinhalten jeweils ein Plus- und ein Minus-Icon
+*   Falls der Standardwert 0 beträgt, wird die Minus-Schaltfläche deaktiviert.
 
 ## 4. Ausprägungen und Zustände
