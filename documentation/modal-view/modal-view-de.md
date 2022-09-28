@@ -6,17 +6,14 @@
 *   Wenn vom Benutzer eine Information/Input verlangt wird.
 *   Wenn verwandter Inhalt dargestellt werden soll.
 *   Wenn zusätzlicher Inhalt dargestellt werden soll.
-*   Das Modul ist nicht geeignet für Fehlermeldung, Warnungen oder Ähnliches.
+*   Wenn eine Fehlermeldung angezeigt werden soll.
 
 ## 3. Regeln
 *   Der Benutzer muss immer die Möglichkeit haben den modalen Dialog zu schliessen.
 *   Jeder modale Dialog besteht aus einem Header (Schliessen-Icon und Titel) und Inhalt.
-*   Der Inhalt muss mindestens ein Interaktionselement enthalten (z.B. «Speichern» oder «OK»).
-*   Der modale Dialog darf nicht für Fehlermeldungen verwendet werden.
-*   Die Breite und Höhe des Dialogs wird durch die Grösse des Inhalts bestimmt.
+*   Die Höhe des Dialogs wird durch die Grösse des Inhalts bestimmt.
 *   Ein Mindestabstand zum Bildschirmrand ist zu gewährleisten.
 *   Bei Klick auf den abgedunkelten Bereich wird der modale Dialog geschlossen.
-*   Ist der Inhalt zu gross, kann ein vollflächiger modaler Dialog gewählt werden: siehe Seitentypen.
 
 ## 4. Ausprägungen
 *   Mit und ohne Close-Button
