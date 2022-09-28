@@ -5,12 +5,10 @@
 *   Das Modul erscheint auf jeder Seite direkt unter der Status Bar.
 
 ## 3. Regeln
-*   Der Header besteht aus dem Navigationsicon («Menü-Icon», «Kreuz» oder «Pfeil links»), Titel und Signet.
-*   Das «Menü-Icon» öffnet das [Menü](https://digital.sbb.ch/de/mobile/module/menu). 
+*   Der Header besteht aus Titel, Signet und optional einem [Toggle](https://https://digital.sbb.ch/de/mobile/elemente/segmented_button) oder dem Navigationsicon («Pfeil links»).
 *   Der «Pfeil links» navigiert zurück auf die vorhergehende Seite.
-*   Das «Kreuz» schliesst die angezeigte Seite.
+*   Der [Toggle](https://https://digital.sbb.ch/de/mobile/elemente/segmented_button) navigiert zwischen zwei oder drei Tabs.
 *   Titel beschreibt den Inhalt der Funktion/Seite.
-*   Das Signet verlinkt auf die Startseite.
 
 
 
