@@ -10,3 +10,10 @@
 *   Die Tab-Labels sind immer einzeilig.
 
 ## 4. Ausprägungen und Zustände
+
+### 4.1 Default
+![Darstellung der Tabbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/tabbar/images/tabbar-light.png 'class: image light')
+![Darstellung der Tabbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/tabbar/images/tabbar-dark.png 'class: image dark hide')
+
+### Design Spezifikation
+[Figma-Link](https://www.figma.com/file/WOtLIam1xwrqcgnAITsEhV/Design-System-Mobile?node-id=74%3A9257)
