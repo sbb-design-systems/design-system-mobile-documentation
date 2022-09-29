@@ -11,6 +11,8 @@
 
 ## 4. Variants and statuses
 
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Default
 ![Darstellung der Tabbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/tabbar/images/tabbar-light.png 'class: image light')
 ![Darstellung der Tabbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/tabbar/images/tabbar-dark.png 'class: image dark hide')
