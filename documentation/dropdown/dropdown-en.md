@@ -6,10 +6,8 @@
 
 ## 3. Rules
 *   There must be a choice between at least two options.
-*   The element always has a label.
 *   Optional selections always include the text ‘(optional)’ behind the label. The text ‘(optional)’ can be abbreviated to ‘(opt.)’ for short fields.
-*   An infoicon can be displayed in the entry field for detailed explanations. A tooltip opens when this infoicon is clicked on.
-*   The text in the select element is always single-line.
+*   The text in the element is always single-line.
 *   If an entry is longer than the available width of the element, the entry’s text is abbreviated with ‘…’.
 *   A pre-selection is not permitted with a mandatory field.
 *   The label is displayed if no selection has been made yet.

@@ -6,10 +6,8 @@
 
 ## 3. Regeln
 *   Es müssen mindestens zwei Optionen zur Auswahl stehen.
-*   Das Element hat immer ein Label.
 *   Optionale Auswahlen werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
-*   Für detaillierte Erklärungen kann im Eingabefeld ein Infoicon dargestellt werden. Beim Klick auf dieses Infoicon öffnet sich ein [Tooltip](https://digital.sbb.ch/de/mobile/module/tooltip).
-*   Der Text im Select-Element ist immer einzeilig.
+*   Der Text im Element ist immer einzeilig.
 *   Ist ein Eintrag länger als die verfügbare Breite des Elements, wird der Text des Eintrages mit «...» abgekürzt.
 *   Bei einem Pflichtfeld ist eine Vorauswahl nicht erlaubt.
 *   Wenn noch keine Auswahl getroffen wurde, wird das Label angezeigt.
