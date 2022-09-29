@@ -6,14 +6,12 @@
 *   When sending a form.
 *   When selecting a function.
 
-
 ## 3. Rules
 *   It cannot be used within body copy.
 *   The text is always single-line.
 *   Only one primary button can be used per page/dialogue.
 *   Several secondary buttons are permitted per page/dialogue.
 *   Secondary and tertiary buttons can only be used if a primary button already exists.
-
 
 ## 4. Variants and statuses
 The element has the following statuses: 
