@@ -17,5 +17,5 @@ Das Element hat folgende Zustände:
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
 ### 4.1 Default
-![Darstellung des Sliders](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/tabbar/images/slider-light.png 'class: image light')
-![Darstellung des Sliders](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/tabbar/images/slider-dark.png 'class: image dark hide')
+![Darstellung des Sliders](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/slider/images/slider-light.png 'class: image light')
+![Darstellung des Sliders](https://raw.githubusercontent.com/sbb-design-systems/design-system-mobile-documentation/doku-update/documentation/slider/images/slider-dark.png 'class: image dark hide')
