@@ -1,5 +1,5 @@
 ## 1. What does the element do?
-*   It is used for the entry of a date, time or combination of them.
+*   It is used for the entry of a value, date, time or combination of them.
 
 ## 2. When should the element be used?
 *   Whenever a date and/or time value is required from the user.
@@ -7,7 +7,7 @@
 ## 3. Rules
 *   The value information is always single-line.
 *   Optional entries include the text ‘(optional)’ behind the label. For short fields, the text ‘(optional)’ can be abbreviated to ‘(opt.)’.
-*   The date/timepicker is opened by clicking on the entry field. A maximum of three selection wheels are available within the picker.
+*   The picker is opened by clicking on the entry field. A maximum of three selection wheels are available within the picker.
 
 
 ## 4. Variants and statuses

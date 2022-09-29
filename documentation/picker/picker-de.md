@@ -1,5 +1,5 @@
 ## 1. Was macht das Element?
-*   Dient zur Eingabe eines Datums, einer Zeitangabe oder Kombination davon.
+*   Dient zur Eingabe eines Werts, Datums, einer Zeitangabe oder Kombination davon.
 
 ## 2. Wann soll das Element eingesetzt werden?
 *   Immer wenn vom Benutzer ein Datums- und/oder Zeitwert verlangt wird.
@@ -7,12 +7,12 @@
 ## 3. Regeln
 *   Die Wertangaben sind immer einzeilig.
 *   Optionale Eingaben werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
-*   Mit Klick ins Eingabefeld öffnet sich der Date-/Timepicker. Innerhalb des Pickers dürfen maximal 3 Auswahlräder zur Verfügung stehen.
+*   Mit Klick ins Eingabefeld öffnet sich der Picker. Innerhalb des Pickers dürfen maximal 3 Auswahlräder zur Verfügung stehen.
 
 ## 4. Ausprägungen und Zustände
 *   Typ: Date-Time / Date / Time / Timerange / Value
 *   Darstellung: Default / Boxed
-*   Label: fakultativ
+*   Label: optional
 
 <label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
 
